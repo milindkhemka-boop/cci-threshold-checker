@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% block title %}CCI Threshold Checker{% endblock %}</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><circle cx='16' cy='16' r='14' fill='%230d2b52'/><path d='M16 7v18M9 11h14M9 11l-3 6h6zM23 11l-3 6h6z' fill='none' stroke='%23bf7c54' stroke-width='1.6'/></svg>">
+</head>
+<body>
+<header class="masthead">
+  <div class="wrap masthead-inner">
+    <a class="nameplate" href="{{ url_for('index') }}" aria-label="CCI Threshold Checker — home">
+      <svg class="np-seal" viewBox="0 0 32 32" aria-hidden="true">
+        <circle cx="16" cy="16" r="14.5" fill="none" stroke="currentColor" stroke-width="1.4" opacity=".7"/>
+        <circle cx="16" cy="16" r="11.5" fill="none" stroke="currentColor" stroke-width="1" opacity=".4"/>
+        <path d="M16 7.5v17M9 11.5h14M16 8.2a1.3 1.3 0 1 0 .01 0z" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+        <path d="M9 11.5l-2.6 5.2h5.2zM23 11.5l-2.6 5.2h5.2z" fill="none" stroke="currentColor" stroke-width="1.3" stroke-linejoin="round"/>
+      </svg>
+      <span class="np-text">
+        <strong>CCI Threshold Checker</strong>
+        <small>Indian merger control · notification assessment</small>
+      </span>
+    </a>
+    <nav class="nav" aria-label="Primary">
+      <a href="{{ url_for('index') }}" class="{{ 'active' if request.endpoint=='index' }}">Assessment</a>
+      <a href="{{ url_for('rates_page') }}" class="{{ 'active' if request.endpoint=='rates_page' }}">Rates</a>
+      <a href="{{ url_for('about') }}" class="{{ 'active' if request.endpoint=='about' }}">Methodology</a>
+    </nav>
+  </div>
+</header>
+
+{% with messages = get_flashed_messages(with_categories=true) %}
+  {% if messages %}
+    <div class="wrap">
+      {% for cat, msg in messages %}<div class="flash {{ cat }}">{{ msg }}</div>{% endfor %}
+    </div>
+  {% endif %}
+{% endwith %}
+
+<main class="wrap">
+  {% block content %}{% endblock %}
+</main>
+
+<footer class="footer">
+  <div class="wrap">
+    <p class="disclaimer">{{ meta.disclaimer }}</p>
+    <p class="muted small">Local tool · client figures processed in your browser session and on this machine only · rate data from the RBI Reference Rate Archive · legal corpus from cci.gov.in.</p>
+  </div>
+</footer>
+<script src="{{ url_for('static', filename='app.js') }}"></script>
+{% block scripts %}{% endblock %}
+</body>
+</html>

@@ -1,0 +1,13 @@
+Paste your Anthropic API key on a single line in a file named exactly:
+
+    config/api_key.txt
+
+(remove the ".example" suffix). Example contents:
+
+sk-ant-api03-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+The key never leaves this machine — it is read only by the local app to call the
+Claude API for notification assessments. Alternatively, set the environment
+variable ANTHROPIC_API_KEY before launching (it takes precedence over this file).
+
+Get a key at https://console.anthropic.com/

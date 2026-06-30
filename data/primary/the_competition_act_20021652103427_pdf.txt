@@ -1,0 +1,2699 @@
+i
+THE COMPETITION ACT, 2002
+(12 OF 2003)
+CONTENTS
+Sections  Page
+CHAPTER I
+PRELIMINARY
+1.  Short titles, extent and commencement  1
+2.  Definitions  1
+CHAPTER II
+PROHIBITION OF CERTAIN AGREEMENTS, ABUSE OF
+DOMINANT POSITION AND REGULATION OF COMBINATIONS
+Prohibition of agreements
+3.  Anti-competitive agreements  5
+Prohibition of abuse of dominant position
+4.  Abuse of dominant position  7
+Regulation of combinations
+5.  Combination  8
+6.  Regulation of combinations  10
+CHAPTER III
+COMPETITION COMMISSION OF INDIA
+7.  Establishment of Commission  12
+8.  Composition of Commission  12
+9.  Selection Committee for Chairperson and Members of Commission  13
+10.  Term of office of Chairperson and other Members  13
+11.  Resignation, removal and suspension of Chairperson  14
+      and other members
+12.  Restriction on employment of Chairperson and other  14
+ Members in certain cases
+13.  Administrative powers of Chairperson  15
+14.  Salary and allowances and other terms and conditions of  15
+ service of Chairperson and other Members
+15.  Vacancy, etc. not to invalidate proceedings of Commission  15
+16.  Appointment of Director General, etc.  16
+ii
+17.  Appointment of Secretary, experts, professionals and  17
+ officers and other employees of Commission
+CHAPTER IV
+DUTIES, POWERS AND FUNCTIONS OF COMMISSION
+18.  Duties of Commission  18
+19.  Inquiry into certain agreements and dominant position of enterprise  18
+20.  Inquiry into combination by commission  20
+21.  Reference by statutory authority  21
+21A.  Reference by Commission  22
+22.  Meetings of Commission  22
+23.  [Omitted by the Competition (Amendment) Act, 2007]  23
+24.  [Omitted by the Competition (Amendment) Act, 2007]  23
+25.  [Omitted by the Competition (Amendment) Act, 2007]  23
+26.  Procedure for inquiry under section 19 24
+27.  Orders by Commission after inquiry onto agreements or abuse of  25
+ dominant position
+28.  Division of enterprise enjoying dominant position  27
+29.  Procedure for investigation of combinations  27
+30.  Procedure in case of notice under sub-section (2) of section 6  28
+31.  Orders of Commission on certain combinations  29
+32.  Acts taking place outside India but having an effect on  30
+ competition in India
+33.  Power to issue interim orders  31
+34.  [Omitted by the Competition (Amendment) Act, 2007]  32
+35.  Appearance before Commission  32
+36.  Power of Commission to regulate its own procedure  33
+37.  [Omitted by the Competition (Amendment) Act, 2007]  34
+38.  Rectification of orders  35
+39.  Execution of orders of Commission imposing monetary penalty  35
+40.  [Omitted by the Competition (Amendment) Act, 2007]  36
+CHAPTER V
+DUTIES OF DIRECTOR GENERAL
+41  Director General to investigate contraventions  37
+iii
+CHAPTER VI
+PENALTIES
+42.  Contravention of orders of Commission  38
+42A.  Compensation in case of contravention of orders of Commission  38
+43.  Penalty for failure to comply with directions of Commission  39
+ and Director General
+43A.  Power to impose penalty for non-furnishing of information  39
+ on combinations
+44.  Penalty for making false statement or omission to furnish  39
+ material information
+45.  Penalty for offence in relation to furnishing of information  40
+46.  Power to impose lesser penalty  40
+47.  Crediting sums realised by way of penalties to Consolidated  41
+ Fund of India
+48.  Contravention by companies  41
+CHAPTER VII
+COMPETITION ADVOCACY
+49.  Competition advocacy  42
+CHAPTER VIII
+FINANCE, ACCOUNTS AND AUDIT
+50.  Grants by Central Government  43
+51.  Constitution of Fund  43
+52.  Accounts and Audit  43
+53.  Furnishing of returns, etc. to Central Government  44
+CHAPTER VIIIA
+APPELLATE TRIBUNAL
+53A.  Appellate Tribunal  45
+53B.  Appeal to Appellate Tribunal  45
+Omitted by the Finance Act, 2017, w.e.f. 26th May, 2017 46
+53N.  Awarding compensation  46
+53O.  Procedure and powers of Appellate Tribunal  47
+53P.  Execution of orders of Appellate Tribunal  48
+53Q.  Contravention of orders of Appellate Tribunal  48
+53S.  Right to legal representation  48
+iv
+53T.  Appeal to Supreme Court  49
+53U.  Power to Punish for contempt  49
+CHAPTER IX
+MISCELLANEOUS
+54.  Power to exempt  50
+55.  Power of Central Government to issue directions  50
+56.  Power of Central government to supersede Commission  50
+57.  Restriction on disclosure of information  51
+58.  Chairperson, Members, Director General, Secretary,  52
+ officers and other employees, etc., to be public servants.
+59.  Protection of action taken in good faith  52
+60.  Act to have overriding effect  52
+61.  Exclusion of jurisdiction of civil courts  52
+62.  Application of other laws not barred  53
+63.  Power to make rules  53
+64.  Power to make regulations  55
+65.  Power to remove difficulties  56
+66.  Repeal and saving  56
+(1)
+THE COMPETITION ACT, 20021
+No. 12 OF 2003
+[13th January, 2003.]
+An Act to provide,  keeping in view of the  economic development of the  country,  for the 
+establishment   of   a   Commission  to   prevent  practices  having   adverse  effect   on 
+competition, to promote and  sustain  competition in markets, to protect  the  interests 
+of consumers and  to ensure freedom of trade carried  on by other  participants in 
+markets, in India, and  for matters connected therewith  or incidental thereto.
+BE it enacted by Parliament in the Fifty-third Year of the Republic  of India as follows:—
+CHAPTER  I
+PRELIMINARY
+Short title,  extent and commencement
+1.   (1)  This Act may be called the Competition  Act, 2002.
+ (2)  It extends to the whole of India except the State of Jammu and  Kashmir.
+ (3)  It  shall   come   into  force   on  such   date   as the   Central   Government  may,  
+	 	 by	notification	in	the	Official	Gazette,	appoint:
+Provided that different  dates may be appointed for different  provisions of this 
+Act and  any reference in any  such  provision  to the  commencement of this 
+Act shall be construed as a reference to the coming into force of that provision.
+Definitions
+2.  In this Act, unless the context  otherwise requires,—
+ (a)  “acquisition”   means,  directly   or   indirectly,   acquiring    or   agreeing   to acquire—
+  (i) shares, voting rights or assets of any enterprise;  or
+  (ii) control over management or control over assets of any enterprise;
+ (b)  “agreement”  includes  any   arrangement  or  understanding  or  action   in concert,—
+  (i) whether  or  not,   such   arrangement,  understanding  or  action is  
+   formal or in writing; or
+  (ii) whether  or  not   such   arrangement,  understanding  or  action   is 
+   intended to be enforceable by legal proceedings;
+2[substituted	by	the	finance	act,	2017,	w.e.f.	26th	May,	2017.	Prior	to	its	substitution,	clause	(ba),	as	
+inserted	by	the	competition	(Amendment)	Act,	2007,	w.e.f.	12-10	-2007	read	as	under:
+“(ba) Appellate Tribunal” means the National Company Law Appellate Tribunal referred to in  
+sub-section	(1)	of	section	53A;]
+1	The	following	Act	of	Parliament	received	the	assent	of	the	President	on	the	13th January, 2003
+2	Substituted	by	the	Finance	Act,	2017,	w.e.f.	26th	May	2017.	
+Prior	to	its	substitution,	clause	(ba),	as	inserted	by	the	competition	(Amendment)	Act,	2007,	w.e.f.	
+12-10	-2007	read	as	under:
+“(ba)	Appellate	Tribunal”	means	the	Competition	Appellate	Tribunal	established	under	sub-section	
+(1)	of	section	53A;]
+(2)
+ (c)  “cartel” includes an  association of producers, sellers, distributors, traders 
+  or service providers who, by agreement amongst themselves, limit, control 
+  or attempt to control  the production, distribution,  sale  or price  of,  or, trade 
+   in goods or provision of services;
+ (d) “Chairperson” means the Chairperson of the Commission appointed under  
+	 	 sub-section	(1)	of	section		9;
+ (e) “Commission”   means the  Competition   Commission of  India  established  
+	 	 under	sub-section(1)	of	section	7;
+ (f) “consumer” means any person who—
+  (i) buys   any   goods  for  a   consideration  which   has   been  paid   or 
+   promised or partly paid and  partly promised, or under  any system of 
+   deferred payment and includes any  user  of such  goods other  than  
+   the   person  who   buys   such   goods   for   consideration  paid   or 
+   promised or partly paid  or partly promised, or under  any  system 
+   of deferred payment when  such  use  is made with the approval of 
+   such  person, whether such  purchase of goods is  for resale or for  any  
+   commercial purpose or for personal use;
+  (ii) hires  or avails  of any  services for a consideration which has  been  
+   paid  or  promised or partly paid  and  partly promised, or under  any 
+	 	 	 system	 of	 deferred	 	 payment	 and	 	 includes	 any	 	 beneficiary	 of	 such 
+   services other  than  the  person  who hires  or avails  of the  services 
+   for consideration  paid   or  promised,  or   partly   paid   and   partly 
+   promised, or  under  any  system of deferred payment,  when  such 
+	 	 	 services		 are			 availed			 of		 with		 the		 approval		 of		 the		 first-mentioned 
+   person  whether  such   hiring  or  availing  of  services  is  for  any 
+   commercial purpose or for personal use;
+ (g) “Director  General” means  the   Director   General  appointed  under  
+	 	 sub-	 section	(1)		of		section	16		and		includes	any		Additional,		Joint,		Deputy 
+  or Assistant Directors  General appointed under  that section;
+ (h)  “enterprise” means a person or a department of the  Government,
+who or which is, or has been, engaged in any  activity, relating  to the  produc-
+tion, storage,  supply, distribution,  acquisition or control  of articles  or goods, 
+or the  provision  of services, of any kind, or in investment, or in the  business 
+of acquiring,  holding,  underwriting  or  dealing  with shares, debentures or 
+other  securities of any other  body corporate, either directly or through  one 
+or  more   of  its  units  or  divisions   or  subsidiaries, whether such  unit  or 
+division or subsidiary is located at the  same place  where  the  enterprise is 
+located  or at a different  place  or at different  places, but does not include any  
+activity of the  Government relatable to the  sovereign functions  of the Gov-
+ernment including  all  activities  carried  on  by the  departments of the Central  
+Government dealing  with atomic  energy, currency, defence and space.
+(3)
+Explanation.-For	the	purposes	of	this	clause,—	
+  (a) “activity” includes profession or occupation;
+  (b)  “article” includes a new article and  “service”  includes a new  
+    service;  
+  (c) “unit” or “division”, in relation to an enterprise, includes
+ (i) a  plant  or  factory  established for  the  production, storage, supply,  
+  distribution,   acquisition or  control  of  any  article  or goods;
+	 (ii)	 any	 	 branch	 	 or	 	 office	 	 established	 for	 	 the	 	 provision	 	 	of	 	 any	 
+  service;
+		 (i)	 “goods”	 means	 goods	 as	 defined	 	in	 the	 	Sale	 	of	 Goods	Act,	 1930	 	(8	 of 
+	 	 1930)	and		includes—
+  (A) products manufactured, processed or mined; 
+  (B)  debentures, stocks and  shares after allotment;
+  (C)  in  relation   to  goods  supplied, distributed   or  controlled   in India,  
+   goods imported  into India;
+ (j) “Member”  means a  Member   of  the  Commission appointed  under  
+	 	 sub-	section	(1)	of	section	9	and		includes	the	Chairperson;
+	 (k)	 “notification”	means	a	notification	published	in	the	Official	Gazette;	
+ (l) “person” includes—
+  (i) an individual;
+  (ii) a Hindu undivided  family; 
+  (iii) a company;
+	 	 (iv)	 a	firm;
+  (v) an   association  of  persons  or   a   body   of  individuals, whether  
+   incorporated or not, in India or outside India; 
+	 	 (vi)	 any			 corporation	established	by	or	under	any	Central,	State	or	Provincial 
+	 	 	 Act	 or	 a	 Government	 company	 as	 defined	 in	 section	 617	 of 
+	 	 	 the	Companies		 Act,	1956		(1	of	1956);
+  (vii)  any body corporate incorporated by or under  the  laws of a 
+   country outside India;
+	 	 (viii) 		 a	co-operative	society	registered	under	any	law	relating	to	co-operative	societies;
+  (ix) a local authority;
+	 	 (x)	 every	 artificial	 juridical	 person,	 not	 falling	 within	 any	 of	 the	 preceding	 
+	 	 	 sub-clauses;
+ (m)   “practice” includes any practice relating to the carrying on of any trade 
+  by a person or an enterprise;
+ (n)  “prescribed” means prescribed by rules made under  this Act;
+ (o)  “price”, in relation  to the  sale  of any  goods or to the  performance of any 
+  services, includes every  valuable consideration, whether direct or  
+  indirect, or deferred, and  includes any  consideration which in effect  relates to the 
+  sale   of  any   goods  or  to  the   performance  of  any   services  although  
+  ostensibly relating to any other  matter  or thing;
+(4)
+	 (p)		 “public		 financial		 institution”	means	a		 public		 financial		 institution		 specified 
+	 	 under		 section	4A	of	the		Companies	Act,	1956		(1	of	1956)		and		includes	a 
+  State Financial,  Industrial or Investment Corporation;
+ (q)  “regulations” means  the   regulations   made  by  the   Commission  under  
+	 	 section	62;
+ (r) “relevant   market”  means the  market   which  may  be  determined by  the 
+  commission with reference to the  relevant  product  market  or the  relevant  
+  geographic market  or with reference to both the markets;
+ (s)  “relevant   geographic  market”   means a  market   comprising  the  area 
+  in which  the  conditions of competition for supply  of goods or  provision  of 
+  services or demand of  goods or services are  distinctly homogenous and  
+  can   be  distinguished from  the  conditions prevailing  in the  neighbouring  
+  areas;
+ (t) “relevant  product  market”  means a market  comprising all those products 
+  or services which are  regarded as interchangeable or substitutable by the 
+  consumer, by reason of characteristics of the  products or services, their 
+  prices  and intended use;
+ (u)  “service”  means  service of  any  description   which  is  made  available to
+potential  users  and  includes the  provision  of services in connection with 
+business  of  any   industrial   or   commercial  matters  such   as  banking,  
+communication,		education,		financing,		insurance,	chit		funds,			 real		estate,	
+transport, storage, material  treatment, processing,  supply  of electrical  or 
+other  energy, boarding, lodging,  entertainment, amusement, construction, 
+repair, conveying of news  or information and  advertising;
+ (v) “shares” means shares in the  share capital  of a  company carrying  
+  voting rights and includes—
+  (i) any  security  which entitles  the  holder  to receive shares with 
+   voting rights;
+  (ii) stock   except  where   a   distinction   between  stock   and   share  is  
+   expressed or implied;
+ (w) “statutory   authority”   means  any   authority,   board,  corporation,  council,  
+  institute,  university  or any  other  body  corporate, established by or under  
+	 	 any			 Central,			 State		or			 Provincial			Act		for		the			 purposes		of		regulating 
+  production or  supply  of  goods  or  provision  of  any  services or  markets 
+  therefor  or any matter  connected therewith  or incidental  thereto;
+ (x) “trade”  means any  trade,   business, industry,   profession  or  occupation  
+  relating  to the production, supply,  distribution,  storage or control  of goods  
+  and  includes the provision of any services;
+ (y) “turnover” includes value  of sale  of goods or services;
+	 (z)		 words		 and		expressions	used	but	not	defined		in	this	Act	and		defined		in	the 
+	 	 Companies			 Act,		1956			(1			of		1956)			shall			have			the			same			meanings 
+  respectively assigned to them  in that Act.
+(5)
+CHAPTER  II
+PROHIBITION OF CERTAIN AGREEMENTS, ABUSE OF DOMINANT 
+POSITION AND REGULATION OF COMBINATIONS
+Prohibition of agreements
+Anti-competitive agreements
+3.  (1)  No enterprise or association of enterprises or person or association of 
+  persons shall  enter into any agreement in respect of production, supply,  
+  distribution,  storage, acquisition or control  of goods or provision  of 
+  services, which causes or is likely to cause an appreciable adverse effect on  
+  competition within India.
+ (2)   Any agreement entered into in contravention of the provisions contained  
+  in subsection (1) shall be void.
+ (3)  Any agreement entered into between enterprises or associations of  
+enterprises or persons or associations of persons or between any  person and  
+enterprise or practice  carried   on,  or  decision  taken   by,  any   association  
+of  enterprises  or association of persons, including  cartels, engaged in identi-
+cal  or similar trade  of goods or provision of services, which—
+  (a)  directly or indirectly determines purchase or sale  prices;
+  (b)  limits or controls production, supply, markets, technical development,  
+   investment or provision of services;
+  (c)  shares the market or source of production or provision of services by  
+   way of allocation  of geographical area of market, or type of goods or 
+   services, or number of customers in the market or any other similar  
+   way;
+  (d)  directly or indirectly results in bid rigging or collusive  bidding,
+shall be presumed to have  an appreciable adverse effect on competi-
+tion:	
+Provided	that		nothing	contained	in	this	sub-section	shall		apply		to	any	 	
+agreement entered into by way  of joint ventures if  such  agreement 
+increases	 efficiency	 	 in	 production,	 	 	 supply,	 	 	distribution,	 	 	 storage,	 
+acquisition or  control   of  goods  or provision of services.
+Explanation.—For	the		purposes		of		this		sub-section,		“bid		rigging”		means	any	agree-
+ment,			between		enterprises		or		persons		referred		to		in		sub-section		(3)	engaged	in	 	
+identical  or  similar  production or  trading  of  goods or  provision  of services, which 
+has  the  effect  of  eliminating  or reducing competition for bids  or adversely affecting 
+or manipulating the process for bidding
+  (4)  Any agreement amongst enterprises or persons at different  stages or levels 
+of the   production   chain   in  different   markets,  in  respect  of  production,  
+supply, distribution,  storage, sale  or  price  of, or trade  in goods or provision  
+of services, including—
+(6)
+ (a)		 tie-in	arrangement;
+ (b)  exclusive supply agreement;
+ (c)  exclusive distribution agreement;  
+ (d)  refusal  to deal;
+ (e)  resale price maintenance,
+shall		be		an		agreement	in	contravention		of	sub-section	(1)	if		such		agreement	causes	
+or is  likely to cause an  appreciable adverse effect  on  competition in India.
+Explanation.—For	the	purposes	of	this	sub-section,—
+	 (a)		 “tie-in		 arrangement”		includes		any			 agreement		requiring			 a		purchaser		of 
+  goods, as a condition  of such  purchase, to purchase some other  goods;
+ (b)  “exclusive  supply  agreement” includes any  agreement restricting  in any 
+  manner  the   purchaser  in  the   course  of  his  trade   from  acquiring   or  
+  otherwise dealing  in any goods other  than  those of the seller  or any  other  
+  person;
+ (c)  “exclusive  distribution  agreement” includes any agreement to limit, restrict 
+  or withhold  the  output  or  supply  of  any  goods or  allocate any  area or 
+  market  for the disposal or sale  of the goods;
+ (d)  “refusal  to  deal”  includes any  agreement which  restricts, or  is  likely to  
+  restrict,  by any method the persons or classes of persons to whom goods  
+  are sold or from whom goods are  bought;
+ (e)  “resale  price   maintenance”  includes  any   agreement  to  sell  goods  on
+condition  that  the  prices  to  be  charged on  the  resale by  the  purchaser 
+shall  be  the  prices  stipulated  by the  seller  unless it is clearly  stated that 
+prices lower than  those prices  may be charged.
+(5)		Nothing	contained	in	this	section	shall	restrict—
+ (i) the  right  of  any  person  to  restrain  any  infringement  of,  or  to  impose
+reasonable  conditions, as  may  be  necessary for  protecting  any  of  his 
+rights which have  been or may be conferred upon  him under—
+	 	 (a)		 the	Copyright	 Act,	1957		(14	of	1957);
+	 	 (b)		 the	Patents	 Act,	1970		(39	of	1970);
+	 	 (c)		 the		 Trade	 	and	 	Merchandise	Marks		 Act,	1958	 	(43		 of	1958)	 	or	the 
+	 	 	 Trade		Marks	 Act,	1999		(47	of	1999);
+	 	 (d)		 the	 Geographical	 Indications	 of	 Goods	 (Registration	 and	 Protection) 
+	 	 	 Act,	1999		(48	of	1999);	
+	 	 (e)		 the	Designs	 Act,	2000		(16	of	2000);
+	 	 (f)	 the		Semi-conductor	Integrated		Circuits		Layout-Design		 Act,		2000	(37		
+   of 2000);
+ (ii) the  right of any  person to export  goods from India to the  extent  to which  
+  the agreement relates exclusively  to the  production, supply,  distribution  or 
+  control of goods or provision of services for such export.
+(7)
+Prohibition of abuse of dominant position
+Abuse of dominant position
+4.  3[(1) No enterprise or group shall abuse its dominant position.]
+ (2)  There   shall  be  an  abuse of  dominant  position   4	[under		sub-section	(1),			
+	 	 if		an	enterprise	or	a	group].—-
+  (a)  directly or indirectly, imposes unfair or discriminatory—
+   (i) condition  in purchase or sale  of goods or service; or
+   (ii) price  in purchase or  sale  (including  predatory price)  of goods or  
+    service.
+Explanation.— For  the   purposes  of  this  clause,  the   unfair  or  discriminatory con-
+dition		in	purchase	or	sale		of	goods	or	service	referred	to	in	sub-clause	(i)	and	unfair	 	
+or discriminatory  price  in purchase or sale  of goods (including  predatory price) or 
+service	referred	to	in	sub-clause	(ii)	shall	not	include		such		discriminatory		condition		or	
+price which may be adopted to meet  the competition; or
+  (b)  limits or restricts—
+   (i) production of goods or provision of services or market  therefor;  or 
+	 	 	 (ii)	 technical	or	scientific	development	relating		to	goods	or	services	to		
+    the prejudice of consumers; or
+  (c)  indulges in practice or practices resulting  in denial  of market  access  
+   5[in any manner]; or
+  (d)  makes conclusion of contracts subject to acceptance by other   
+   parties of supplementary obligations which, by  their nature or  
+   according to commercial usage, have no connection with the subject of  
+   such contracts; or
+  (e)  uses its dominant position  in one  relevant market  to enter  into, or protect, 
+   other  relevant market.
+Explanation.—For the purposes of this section, the expression—
+ (a) “dominant  position” means a position  of strength, enjoyed by an enterprise,  
+  in the relevant market, in India, which enables it to—
+  (i) operate  independently of  competitive  forces   prevailing   in  the 
+   relevant market;  or
+  (ii) affect its competitors or consumers or the relevant  market  in its favour.
+ (b)  “predatory price”  means the  sale  of goods or provision  of services, at  a.
+price which is below  the  cost,  as may  be  determined by regulations, of 
+production of the goods or provision  of services, with a view to reduce com-
+petition or eliminate the competitors.
+3			 Subs.	by	Competition	(Amendment)	 Act,	2007	for	“No	enterprise	shall	abuse	its	dominant		 	
+ position.”
+4 		 Subs.	by	Competition	(Amendment)	 Act,	2007	for	“under	sub-section	(1),	if	an	enterprise”
+5			 Ins.	by	Competition	(Amendment)	 Act,	2007
+(8)
+6[(c)“group” shall  have  the  same meaning as assigned to  it in  clause (b)  of the 
+Explanation	to	section	5.]
+Regulation of combinations
+Combination
+5.		 The	 acquisition	of	one		 or	more		 enterprises	by	one		 or	more		 persons	or	merger 
+ or amalgamation  of  enterprises  shall  be  a  combination of  such   enterprises  
+ and persons or enterprises, if—
+ (a)  any acquisition where—
+  (i) the parties to the acquisition, being  the acquirer and  the enterprise, whose 
+   control, shares, voting rights  or assets have  been acquired or are  being 
+   acquired jointly have,—
+   (A)  either, in India, the assets of the value of more than rupees one 
+    thousand  crores  or  turnover   more   than   rupees  three  thousand 
+    crores; or 
+   (B) 7[in India or outside India, in aggregate, the assets of the value of more 
+	 	 	 	 than	 five	hundred	million	US	dollars,		 including	at	least	rupees	five 
+	 	 	 	 hundred		 crores	in		India,		or		turnover			more		than	fifteen		hundred 
+	 	 	 	 million	 US	dollars,	including	at	least	rupees	fifteen	hundred	crores	in	 
+    India; or]
+  (ii) the  group,  to which the  enterprise whose control,  shares, assets or 
+   voting  rights  have   been  acquired or  are   being   acquired,  would belong 
+   after the acquisition, jointly have  or would jointly have,—
+   (A) either in India, the assets of the value  of more  than  rupees four thou 
+    sand crores or  turnover more than rupees twelve thousand crores;  
+    or
+   (B)  8[in India or outside India, in aggregate, the assets of the value of more 
+		 than	two	billion	US	dollars,		including		at	least		rupees	five	hundred		
+		 crores	 	 in	 	India,	 	or	 turnover	 	more	 	than	 	six	 billion	 US	 dollars, 
+		 including		at	least	rupees	fifteen	hundred	crores	in	India;	or]
+ (b)  acquiring  of control by a person over an enterprise when  such  person has 
+already  direct   or  indirect   control   over   another  enterprise engaged  in 
+production, distribution  or  trading  of a similar or identical  or substitutable 
+goods or provision of a similar or identical or substitutable service, if—
+6			 Ins.	by	Competition	(Amendment)	 Act,	2007
+7			 Subs.	by	Competition	(Amendment)	 Act,	2007	for:
+	 “		in	India	or	outside	India,	in	aggregate,	the	assets	of	the	value	of	more	than	five	hundred		
+	 million	US	dollars	or	turnover	more	than	fifteen	hundred	million	US	dollars;	or”
+8	 Subs.	by	Competition	(Amendment)	 Act,	2007	for:
+ “   in India or outside India, in aggregate, the assets of the value of more than two billion US  
+ dollars or turnover more than six billion US dollars; or”
+(9)
+  (i) the  enterprise over  which control has  been acquired along  with the 
+   enterprise  over  which  the  acquirer already has   direct  or  indirect  
+   control jointly have,—
+   (A)  either  in India, the assets of the value  of more than  rupees one thousand 
+    crores or turnover  more  than  rupees three  thousand crores; 
+    or
+   (B)  9[in India  or  outside India,  in  aggregate, the  assets of  the value  of  
+	 	 	 	 more	 than		five	hundred	million	US	dollars,		including	at	least		rupees 
+	 	 	 	 five	 	 hundred	crores	in	 	India,	 	or	 	turnover	 	 	more	than	 	 	fifteen	 	hundred 
+	 	 	 	 million			 US		dollars,		including			at		least		rupees	fifteen	hundred	crores 
+    in India; or]
+  (ii) the group,  to which enterprise whose control has  been acquired, or is  
+   being acquired, would belong  after the acquisition, jointly have  or would  
+   jointly have,—
+   (A)  either  in India, the assets of the value  of more  than  rupees four thou 
+    sand crores or turnover  more  than  rupees twelve thousand  
+    crores or
+   (B)  10[in India  or  outside India,  in  aggregate, the  assets of  the value  
+	 	 	 	 of		 more	than		two		billion	US		dollars,		including		at		least	rupees	five 
+	 	 	 	 hundred	 crores	in	India,		or	turnover		more		than		six	billion	US		dollars, 
+	 	 	 	 including		at		least	rupees	fifteen		hundred	crores	in	India;	or]
+ (c)  any merger or amalgamation in which—
+  (i) the enterprise remaining after merger  or the enterprise created as a result 
+   of the amalgamation, as the case may be, have,—
+   (A)  either  in India,  the  assets of the  value  of more  than  rupees one 
+    thou sand   crores  or  turnover   more   than   rupees  three  thousand 
+    crores; or
+   (B)  
+11[in India  or  outside India,  in  aggregate, the  assets of  the value  of 
+	 	 	 	 more		 than		five	hundred	million	US	dollars,		including	at	least		rupees 
+	 	 	 	 five	 	 hundred	crores	in	 	India,	 	or	 	turnover	 	 	more	than	 	 	fifteen	 	hundred 
+	 	 	 	 million			 US		 dollars,			 including			 at		 least		 rupees	fifteen	hundred	 
+    crores in India; or]
+9			 Subs.	by	Competition	(Amendment)	Act,	2007	for
+	 “	 	 	 in	 India	 or	 outside	 India,	 in	 aggregate,	 the	 assets	 of	 the	 value	 of	 more	 than	 five	 hundred 
+	 million	US	dollars	or	turnover	more	than	fifteen	hundred	million	US	dollars;	or”
+10 		Subs.	by	Competition	(Amendment)	Act,	2007	for
+ “  in India or outside India, in aggregate, the assets of the value of more than two billion US  
+ dollars or turnover more than six billion US dollars; or”
+11			Subs.	by	Competition	(Amendment)	Act,	2007	for
+	 “			in	India	or	outside	India,	in	aggregate,	the	assets	of	the	value	of	more	than	five	hundred		
+	 million	US	dollars	or	turnover	more	than	fifteen	hundred	million	US	dollars;	or”
+(10)
+ (ii) the group,  to which the enterprise remaining after the merger or the enter 
+  prise  created as a  result  of the  amalgamation, would  belong  after the 
+  merger or the amalgamation, as the case may be,  have  or would have,—
+	 	 (A)		 either		 in	India,		the		assets	of	the		value		of	more		than		rupees	four-thou 
+   sand crores  or  turnover   more   than   rupees  twelve thousand  
+   crores; or
+  (B) 12 [in India  or  outside India,  in  aggregate, the  assets of  the value  of  
+	 	 	 more	 	 than	 	 two	 	 billion	 US	 	 dollars,	 	 including	 	 at	 	 least	 rupees	 five 
+	 	 	 hundred	crores	in	India,		or	turnover		more		than		six	billion	US		dollars,
+   including at least rupees Fifteen Hundred Crores in India  
+Explanation.— For the purposes of this section,—
+ (a)  “control” includes controlling the affairs or management by—
+  (i) one or more  enterprises, either  jointly or singly, over another 
+   enterprise or group;
+  (ii) one   or  more   groups,  either   jointly  or  singly,   over   another  group 
+   or enterprise;
+ (b)  “group”  means two  or  more  enterprises which,  directly  or  indirectly,  are 
+  in a position  to —
+	 	 (i)	 exercise	 twenty-six			 per		 cent			 or		 more		 of		 the		 voting		 rights		 in		 the 
+   other enterprise; or
+	 	 (ii)	 appoint	 	 more	 	than	 	fifty	 per	 	cent	 	of	 the	 	members	 of	 the	 	board	 of 
+   directors in the other enterprise; or
+  (iii) control the management or affairs of the other enterprise;
+ (c)  the value  of assets shall be determined by taking the book value  of the 
+assets as shown,  in the  audited books  of account of the  enterprise, in the  
+financial		year	immediately		preceding	the		financial		year		in	which	the		date	 	
+of proposed merger falls, as reduced by any  depreciation, and  the  value  
+of assets shall  include  the brand   value,   value   of  goodwill,  or  value   
+of  copyright,  patent, permitted use, collective   mark,   registered  propri -
+etor,   registered  trade   mark,  registered  user, homonymous geographical  
+indication,		geographical	indications,	design	or	layout-	design	or	similar	other	 	
+commercial	rights,		if	any,		referred	to	in	sub-section	(5)	of	section	3.
+Regulation of combinations
+6.  (1)  No person or enterprise shall enter  into a combination which causes or is 
+  likely to cause an appreciable adverse effect on competition  within the  
+  relevant market  in India and  such  a combination shall be void.
+12			 Subs.	by	Competition	(Amendment)	Act,	2007	for:
+ “in India or outside India, the assets of the value of more than two billion US dollars or turn 
+ over more than six billion US dollars
+(11)
+ (2)  Subject to the  provisions contained in sub-section (1), any  person or  
+ 
+ enterprise, who  or which  proposes 
+to enter  into a  combination, 13 [shall] 
+	 	 give
+		notice
+		to
+	the
+	Commission,
+		in
+		the
+			form
+		as
+		may
+			be
+			specified,
+		and
+ 
+ 
+ the   fee  
+ which  may   be determined, by regulations, disclosing  the  details  
+ 
+ of the  proposed combination, within14 [thirty days]  of—
+ 
+ (a)  approval 
+of the proposal relating  to merger or amalgamation, referred 
+ 
+  to in clause  (c)  of  section  5,  by  the   board   of  directors  of  the
+ 
+ 
+  enterprises concerned with such  merger or amalgamation, as the case 
+ 
+   
+may be;
+ 
+ (b) 
+ execution of 
+any  agreement or other  document for acquisition referred 
+ 
+   to in clause (a) of section 5 or acquiring  of control referred to in clause 
+ 
+   (b) of that section.
+15[(2A)No combination shall  come  into effect  until two hundred and  ten  days  have  
+passed  from  the  day  on  which  the  notice  has  been given  to  the  Commission 
+under  sub-section(2) or the  Commission has  passed orders under  section 31, which-
+ever is earlier.]
+ (3)  The  Commission 
+shall,  after  receipt  of notice  under  sub-section (2), deal  
+ 
+ with such  notice  in  accordance 
+with the  provisions contained in sections  
+ 
+ 29,  30 and 31.
+ (4)  The  provisions 
+ of this section shall not apply  to share subscription or 
+	 	 financing
+	 facility
+	 or
+	 	 any
+	 	 acquisition,
+	 by
+	 	 a
+	 	 public
+	 	 financial
+	 	 institution,
+	 
+ 
+ foreign institutional investor
+,   bank   or  venture  capital  fund,  pursuant  to 
+ 
+ any covenant  of  a  loan agreement or investment agreement.
+	
+(5)
+		
+	 The
+		 public
+		 financial
+		 institution,
+		 foreign
+		 institutional
+			 investor
+,
+			 bank
+			 or
+ 
+ 
+ venture 
+capital  fund, referred to in sub-section (4), shall,  within seven days 
+	 	 from
+	the
+	date
+		 of
+	the
+		 acquisition,
+	file,
+	in
+	the
+		 form
+	as
+	may
+		 be
+		 specified
+	by
+ 
+ 
+ regulations, 
+with the Commission the  details   of  the  acquisition  including  
+ 
+ the  details   of  control,  the circumstances for  exercise of  such   control
+ 
+ 
+ and the  
+consequences of  default arising out of such  loan  agreement or 
+ 
+ investment agreement, as the  case may be.
+Explanation.—For the purposes of this section, the expression—
+ (a)  “foreign institutional  
+investor”  has  the  same meaning as assigned to it 
+ 
+ in 
+clause (a) of the Explanation  to section 115AD of the Income-tax Act, 
+ 
+ 1961(43 
+ of 1961);
+ (b)  “venture  capital  fund” has  the same meaning 
+as assigned to it in clause 
+ 
+ (b) 
+of the Explanation to clause (23  FB) of section 10  of the  Income-tax  
+ 
+ Act, 1961(43 of 1961);.
+13  Subs. by Competition (Amendment) Act, 2007 for “may, at his or its option”
+14  Subs. by Competition (Amendment) Act, 2007 for “seven days”. 
+Vide
+	notification
+	no.
+	SO
+	2039(E),
+	dated
+	29th
+	June,
+	2017
+	exemption
+	has
+	been
+	given
+	to
+	person
+	or
+	
+enterprise(s) who is a party to combination from giving notice within 30 days.
+15  Ins. by Competition (Amendment) Act, 2007
+(12)
+CHAPTER  III 
+COMPETITION COMMISSION OF INDIA
+Establishment of Commission
+7.   (1)   With  effect  from  such   date   as the  Central   Government may,  by 
+	 	 notification,	 appoint,		there	shall	be	established,	for	the	purposes	of	this	Act, 
+  a Commission to be called the “Competition Commission of India”.
+ (2) The   Commission  shall   be   a  body   corporate  by  the   name  aforesaid  
+  having perpetual succession and  a common seal  with power,  subject to 
+  the provisions of this Act, to acquire, hold and  dispose of property,  both 
+  movable  and  immovable, and  to contract and  shall, by the said name, sue   
+  or be sued.
+	 (3)			 The		 head		 office		 of		the		 Commission		 shall			 be			 at		such			 place			 as	the 
+  Government may decide from time to time.
+	 (4)		 The	Commission	may	establish	offices	at	other		places	in	India.
+Composition of Commission
+16[8.(1) The  Commission shall  consist of a Chairperson and  not less  than  two and 
+  not more than  six other  Members to be appointed by the Central  
+  Government.
+ (2)  The  Chairperson and  every  other  Member  shall  be  a person of ability, 
+  integrity and   standing   and   who   has   special  knowledge  of,  and   such 
+	 	 professional	 experience		 of		 not		 less			 than		 fifteen		 years		 in,		 international	 
+	 	 trade,	 	 economics,	 business,	 commerce,	 law,	 	 finance,	 	 accountancy, 
+  management, industry,  public affairs  or competition matters, including  
+  competition law and  policy, which in the opinion of the Central  Government,  
+  may be useful  to the Commission.
+	 (3)		 The	Chairperson	and		other		Members	shall	be	whole-time		Members.]
+16		Subs.	by	Competition	(Amendment)	Act,	2007	for	;
+ (1)  The Commission shall consist of a Chairperson and not less than two and not more  
+	 	 than	ten	other	Members	to	be	appointed	by	the	Central	Government:
+	 	 Provided	 that	 the	 Central	 Government	 shall	 appoint	 the	 Chairperson	 and	 a	 Member 
+	 	 during	the	first	year	of	the	establishment	of	the	Commission.
+ (2)  The Chairperson and every other Member shall be a person of ability, integrity and
+ 
+	 	 standing	 and	who	has	been,	or	is	qualified	to	be	a	judge	of	a	High	Court,	or,	has	special 
+	 	 knowledge	 of,	 and	 professional	 experience	 of	 not	 less	 than	 fifteen	 years	 in	 international 
+	 	 trade,	 economics,	 business,	 commerce,	 law,	 finance,	 accountancy,	 management,	 
+  industry, public affairs, administration or in any other matter which, in the opinion of the  
+  Central Government may be useful to the Commission.
+	 (3)			 The	Chairperson	and	other	Members	shall	be	whole-time	Members.”
+(13)
+17[Selection Committee for Chairperson and Members of Commission]
+18[9.	 (1)	 The	 Chairperson	 and	 	 other	 	 Members	 of	 the	 	 Commission	 shall	 	 be 
+  appointed by the  Central  Government from a  panel  of names 
+  recommended by a  Selection Committee consisting of –
+	 	 a)	 the	Chief	Justice	of	India	or	his	nominee	 							-	 Chairperson
+	 	 b)	 the	Secretary	in	the	Ministry	of	Corporate	 Affairs	 							-	 Member
+	 	 c)	 the	Secretary	in	the	Ministry	of	Law	and		Justice	 							-	 Member
+d) two experts of repute who have  special 
+knowledge of, and professional experience 
+in international trade, economics, business, 
+commerce,	 law,	 finance,	 accountancy,	
+management, industry, public affairs or   
+competition matters  including competition law 
+and  policy   
+ (2)  The  term  of the  Selection Committee and  the  manner of selection of 
+  panel  of names shall be such  as may be prescribed.]
+Term  of office of Chairperson and other Members
+10. (1)		 The		 Chairperson	and		 every		 other		 Member		 shall		 hold	office	as	such		 for 
+	 	 a	 term		of	five	years	from	the		date		on	which	he		enters	upon		his	office	and 
+	 	 shall		be		eligible	for	re-appointment:
+  
+19[Provided	that		the		Chairperson	or	other		Members	shall		not	hold	office	as		
+	 	 such		after	he	has	attained	the	age		of	sixty-five	years]
+ (2)  A vacancy caused by the resignation or removal  of the Chairperson or any 
+	 	 other	 Member			under		section		11		or		by		death		or		otherwise		shall	be		filled	 
+	 	 by		fresh	appointment	in	accordance	with	the	provisions	of	sections	9.
+ (3)  The  Chairperson and  every  other  Member  shall,  before  entering upon  
+	 	 his	 office,	make		 and	subscribe	to	an	oath		 of	office	and		 of	secrecy	in	such 
+  form, manner and before  such  authority,  as may be prescribed.
+	 (4)		 In	 the	 	 event	 	 of	 the	 	 occurrence	 of	 a	 vacancy	 in	 the	 	 office	 of	 the	 
+	 	 Chairperson	 by	 reason	 of	 his	 death,	 resignation	 or	 otherwise,	 the	 	 senior- 
+  most Member  shall  act as the  Chairperson, until the  date   on  which  a 
+  new Chairperson, appointed in accordance with the  provisions of this Act to  
+	 	 fill	such		vacancy,	enters	upon		his	office.
+17			 Subs.	by	Competition	(Amendment)	Act,	2007	for	“Selection	of	Chairperson	and	other		 	
+ Members”
+18		 Subs.	by	Competition	(Amendment)	 Act,	2007	for:
+ “The Chairperson and other Members shall be selected in the manner as may be prescribed.”
+19			 Subs.	by	Competition	(Amendment)	Act,	2007	for:
+	 “Provided	that	no	Chairperson	or	other	Member	shall	hold	office	as	such	after	he	has	attained-		
+	 (a)			in	the	case	of	the	Chairperson,	the	age	of	sixty-seven	years;
+	 (b)		 in	the	case	of	any	other	Member,	the	age	of	sixty-five	years.”
+(14)
+	 (5)		 When	 	 the	 	 Chairperson	 is	 unable	 to	 discharge	 his	 	 functions	 	 owing	 	 to 
+	 	 absence,	 illness	 	 or	 any	 other	 	 cause,	 the	 senior-most	 Member	 	 shall	 
+  discharge the functions  of the  Chairperson until the date  on which the 
+  Chairperson resumes the  charge of his functions.
+Resignation, removal and suspension of Chairperson and other members
+11. (1)   The  Chairperson or any  other  Member  may,  by notice  in writing under  
+	 	 his	hand		addressed	to	the	Central		Government,	resign		his	office:
+  Provided that  the  Chairperson or a  Member  shall,  unless he  is permitted 
+	 	 by	 the	Central		 Government	to	relinquish		 his	office	sooner,	continue	to	hold 
+	 	 office	 until	the		expiry		of		three		months	from		the		date			of		receipt			of		such 
+  notice  or  until  a person duly appointed as his successor enters upon  his  
+	 	 office	or	until	the		expiry	of	his	term	of	office,	whichever	is	the	earliest.
+	 (2)		 Not	 with	 standing	 anything	 	 contained	 in	 sub-section	 (1),	 the	 	 Central 
+  Government may, by order,  remove the  Chairperson or any  other  Member 
+	 	 from	his	office	if	such		Chairperson	or	Member,		as	the	case	may	be,—
+  (a)  is, or at any time has  been, adjudged as an insolvent;  or
+	 	 (b)		 has				 engaged		at			any			time,			during			his		term			of			office,			in			any 
+   paid employment; or
+  (c)  has   been  convicted of  an  offence   which,  in  the  opinion  of  the   
+   Central Government, involves moral turpitude;  or
+	 	 (d)		 has				 acquired		 such			 financial			 or			 other			 interest	as		 is			 likely		 to 
+   affect prejudicially his functions  as a Member;  or
+  (e)  has   so   abused  his   position   as  to  render  his   continuance  in  
+	 	 	 office	prejudicial	to	the	public	interest;	or
+  (f) has  become physically or mentally incapable of acting  as a Member.
+	 (3)			 Not	 with	standing		anything			contained		in		sub-section		(2),		no		Member			shall
+be	removed	from	his	office	on	the	ground		specified	in	clause	(d)	or	clause	(e)	
+of that subsection unless the  Supreme Court,  on  a  reference being  made 
+to it in this behalf  by the  Central  Government,  has,  on an  inquiry, held  by 
+it in accordance with such  procedure as may  be  prescribed in this behalf  
+by the  Supreme Court, reported that the Member,  ought on such  ground  or 
+grounds to be removed.
+Restriction on employment of Chairperson and other Members in certain cases
+12.  The  Chairperson and  other  Members shall  not, for a period  of 
+20 [two 
+	 years]	 from	 the	 	 date	 	 	 on	 	 which	 	 they	 	 cease	 to	 	 hold	 	 office,	 	 accept	 any 
+ employment  in,  or connected with the  management or administration of, any 
+ enterprise which has  been a party to a proceeding before the Commission under  
+	 this	 Act:
+20 	Subs.	by	Competition	(Amendment)	Act,	2007	for	“one	year”
+(15)
+Provided that  nothing  contained in this  section shall  apply  to any  employment under  
+the Central  Government or a State Government or local authority or in any statutory 
+authority		or	any	corporation		established	by	or	under		any		Central,		State	or		Provincial	 	
+Act	or		 a		 Government		 company	as	defined		 in	section		 617		 of	the	Companies	Act,	
+1956		(1	of	1956).
+21[Administrative powers of Chairperson]
+22[13.    The  Chairperson shall  have  the  powers of general superintendence,  
+   direction and  control in respect of all administrative matters of the  
+	 	 	 Commission:
+   Provided that  the  Chairperson  may  delegate  such   of  his  powers  relating 
+	 	 	 to	 administrative		matters	of		the		Commission,	as		he		may		think		fit,	to		any	 
+	 	 	 other	Member		or	officer	of	the	Commission.”]
+Salary and allowances and other terms and conditions of service of Chairperson 
+and other Members
+14. (1)  The salary,  and  the other  terms  and  conditions of service, of the 
+   Chairperson and other    Members,   including   travelling   expenses,  house  
+   rent  allowance  and conveyance facilities,  sumptuary  allowance and 
+   medical  facilities  shall  be  such  as may be prescribed.
+ (2)  The   salary,   allowances  and   other   terms   and   conditions  of  service   
+   of  the Chairperson   or   a  Member    shall   not   be   varied   to   his   dis 
+   advantage  after appointment.
+Vacancy, etc.  not  to invalidate proceedings of Commission
+15.  No act or proceeding of the Commission shall be invalid merely  by reason of—  
+ (a)  any vacancy in, or any defect  in the constitution of, the Commission; or
+ (b)  any defect  in the appointment of a person acting  as a Chairperson or as a
+   Member; or
+ (c)  any  irregularity  in  the  procedure  of  the  Commission  not  affecting   the  
+   merits  of the case.
+21			 Subs.	 by	 Competition	 (Amendment)	 Act,	 2007	 for	 “Financial	 and	 administrative	 powers	 of 
+ Member Administration”
+22			 Subs.	by	Competition	(Amendment)	Act,	2007	for:
+ “The Central Government shall designate any Member as Member Administration who shall  
+	 exercise	such		financial	and	administrative	powers	as	may	be	vested	in	him	under	the	rules		
+	 made	by	the	Central	Government:
+	 Provided	 that	the	Member	Administration	shall	have	authority	to	delegate	such	of	his	financial
+ 
+	 and	 administrative	powers	as	he	may	think	fit	to	any	other	officer	of	the	Commission	subject	to 
+	 the	 condition	 that	 such	 officer	 shall,	 while	 exercising	 such	 delegated	 powers	 continue 
+ to act under the direction, superintendence and control of the Member Administration.”
+(16)
+Appointment of Director General, etc.
+16.		23	[(1)	 The	 Central	Government	may,	by	notification,	appoint	a	Director		 General 
+    for the purposes of assisting the  Commission in  conducting inquiry into  
+    contravention of any  of the  provisions of this Act and  for performing such   
+    other functions  as are, or may be, provided  by or under  this Act.
+ (1A) The  number of other  Additional, Joint,  Deputy  or Assistant Directors
+General	 or	 such	 	 officers	 or	 other	 	 employees	 in	 the	 office	 of	 Director 
+General and  the manner of appointment of such Additional, Joint, Deputy or 
+Assistant	Directors		General	or	such		officers	or	other		employees	shall	be	
+such  as may be prescribed.”]
+ (2)   Every   Additional,   Joint,   Deputy   and   Assistant  Directors   General  or
+24[such	officers			or			other		employees,]		shall			exercise		his		powers,		and 
+discharge  his functions,  subject to the general control,  supervision and 
+direction  of the Director General.
+ (3)   The  salary,  allowances and  other  terms  and  conditions of service of the
+Director General and Additional, Joint, Deputy  and  Assistant Directors 
+General or, 
+25	[such		officers	or	other	employees,]	shall	be	such		as	may	be	
+prescribed.
+ (4)   The  Director  General  and  Additional, Joint,  Deputy  and  Assistant
+Directors  General or 26[such	 officers	 or	 other	 	 employees,]	 shall	 be 
+appointed from amongst persons  of  integrity   and   outstanding  
+ability and   who   have   experience  in investigation,  and   knowledge  of  
+accountancy, management,  business,  public administration,  
+international	trade,	law	or	economics	and	such	other	qualifications	as	may	be	 
+prescribed.
+23 		 Subs.	by	Competition	(Amendment)	 Act,	2007	for	:
+	 “	 	 	 The	 Central	 Government	 may,	 by	 notification,	 appoint	 a	 Director	 General	 and	 as	 many 
+ Additional, Joint, Deputy or Assistant Directors General or such other advisers, consultants or  
+	 officers,	 as	it	may	think	fit,	for		the	purposes	of	assisting	the	Commission	in	conducting	inquiry 
+ into contravention of any of the provisions of this Act and for the conduct of cases before the  
+ Commission and for performing such other functions as are, or may be, provided by or under  
+ this Act”
+24			 Subs.	 by	 Competition	 (Amendment)	 Act,	 2007	 for	 “such	 other	 advisers,	 consultants	 and	 
+	 officers,”
+25			 Subs.	 by	 Competition	 (Amendment)	 Act,	 2007	 for	 “such	 other	 advisers,	 consultants	 and	 
+	 officers,”
+26			 Subs.	 by	 Competition	 (Amendment)	 Act,	 2007	 for	 “such	 other	 advisers,	 consultants	 and 
+	 officers,”
+(17)
+27[Appointment   of   Secretary, experts,  professionals   and  officers  and  other 
+employees of Commission]
+28[17.	 (1)	 The	 	 	 Commission	 	may	 	 	appoint	 	 	a	 	 	Secretary	 	and	 	 	such	 	 	officers 
+	 	 	 	 and	 	 	 other	 employees	 as	 it	 considers	 necessary	 for	 the	 efficient 
+    performance of its functions  under  this Act.
+  (2)  The  salaries and   allowances  payable  to  and   other   terms   and  
+	 	 	 	 conditions	 	 of	 service	 of	 the	 	 Secretary	 	 and	 	 officers	 	 and	 	 other 
+	 	 	 	 employees	 of	 the	 	Commission	 and	 	the	 	number	 of	 such	 	officers	 	and 
+    other employees shall  be  such  as may  be prescribed.
+  (3)  The  Commission may  engage, in accordance with the  procedure  
+	 	 	 	 specified	 by	 regulations,	 such	 number	 of	 experts	 and	 	 professionals	 of 
+    integrity and outstanding   ability,   who   have    special   knowledge   of, 
+    and  experience  in, economics,  law,  business or such  other  disciplines  
+    related to competition, as it deems necessary to  assist  the  Commission  
+    in  the  discharge of  its  functions  under  this Act.]
+27			 Subs.	by	Competition	(Amendment)	Act,	2007	for	“Registrar	and	officers	and	other	employees		
+ of Commission”
+28			 Subs.	by	Competition	(Amendment)	Act,	2007	for:
+			 (1)					 The	 Commission	may	appoint	a	Registrar	and	such	officers	and	other			 employees	as	it	 
+	 	 	 considers		necessary	for			the	efficient	performance	of	its	functions	under	this	 Act
+ (2)    The salaries and allowances payable to and other terms and conditions of service of the  
+	 	 	 Registrar		and	officers	and	other	employees	of
+	 	 	 the	 Commission	and	the	number	of	such	officers	and	other	employees	shall	be	such	as 
+   may be prescribed.”
+(18)
+CHAPTER  IV
+DUTIES, POWERS AND FUNCTIONS OF COMMISSION
+Duties of Commission
+18.  Subject to the  provisions of this Act, it shall  be  the  duty of the  Commission to 
+ eliminate practices having  adverse effect on competition, promote and  sustain 
+ competition, protect  the  interests of consumers and  ensure freedom of trade 
+	 carried		on	by	other		participants,	in	markets	in	India:
+ Provided that the Commission may, for the purpose of discharging its duties  or 
+ performing  its   functions   under   this  Act,  enter   into  any   memorandum  or 
+ arrangement with  the  prior  approval   of  the  Central   Government,  with  any 
+ agency of any foreign country.
+Inquiry into  certain agreements and dominant position of enterprise
+19.  (1)  The  Commission may  inquire  into  any  alleged contravention of the  
+	 	 provisions	 contained	 in	 subsection	 (1)	 of	 section	 3	 or	 sub-section	 (1)	 of	 
+  section 4 either  on its own motion or on—
+  (a)  
+29[receipt of any information, in such manner and] accompanied by such 
+   fee as may be determined by regulations, from any person, consumer or 
+   their association or trade association; or
+  (b)  a reference made to it by the Central  Government or a State 
+   Government or a statutory authority.
+	 (2)		Without	 prejudice	to	the	provisions	contained	in	sub-section	(1),	the	powers 
+  and functions  of the Commission shall include  the  powers and  functions   
+	 	 specified		in	sub-sections	(3)	to	(7).
+ (3)  The   Commission shall,   while   determining whether an   agreement  has 
+  an appreciable adverse effect on competition under  section 3, have  due 
+	 	 regard	to	all	or	any	of	the	following	factors,		namely:—
+  (a)  creation of barriers to new entrants in the market;  
+  (b) driving existing  competitors out of the market;
+  (c)  foreclosure of competition  by hindering  entry into the market;  
+	 	 (d)	 accrual	of	benefits	to	consumers;
+  (e)  improvements  in  production  or  distribution   of  goods  or  provision  
+   of services; or
+	 	 (f)	 promotion	 	 of	 technical,	 scientific	 	 and	 	 economic	 development	 by 
+   means of production or distribution of goods or provision of services.
+29		Subs.	by	Competition	(Amendment)	Act,	2007	for	“receipt	of	a	complaint,”
+(19)
+(4)  The  Commission shall,  while inquiring whether an  enterprise enjoys  a 
+ dominant position  or not  under  section 4,  have  due  regard to all or any  of  
+	 the		following	factors,		namely:—
+ (a)   market  share  of the enterprise;
+	 (b)		 	 size		and		resources	of	the	enterprise;
+	 (c)		 	 size		and		importance	of	the	competitors;
+ (d)   economic power  of the  enterprise including  commercial advantages over 
+    competitors;
+ (e)   vertical  integration of the  enterprises or sale  or service network  of such 
+    enterprises;
+ (f)  dependence of consumers on the enterprise;
+ (g)   monopoly  or dominant position  whether acquired as a result  of any 
+    statute or  by  virtue  of   being a  Government  company  or  a   public  
+    sector  undertaking or otherwise;
+	 (h)		 	 entry	 	 barriers	 including	 	 barriers	 such	 	 as	 regulatory	 barriers,	 financial 
+    risk, high capital cost  of entry, marketing entry barriers, technical entry 
+    barriers, economies  of  scale,   high   cost   of  substitutable  goods  or  
+    service  for consumers; 
+ (i)  countervailing buying power;
+	 (j)	 	 market		structure	and		size		of	market;		
+ (k) social obligations and  social costs;
+ (I)  relative advantage,by way of the contribution to the economic  
+    development, by  the  enterprise enjoying  a  dominant position  having  or 
+    likely to have  an appreciable adverse effect on competition;
+ (m)    any  other   factor  which  the  Commission  may  consider  relevant for 
+    the inquiry.
+(5)			For	 determining	 whether	 a	 	 market	 constitutes	 a	 	 “relevant	 	 market”	 for	 the 
+ purposes of this  Act,  the  Commission shall  have   due  regard to  the  “relevant  
+ geographic market’’  and  “relevant product  market”.
+(6)		 	 The	 Commission	 shall,	 	 while	 determining	 the	 “relevant	 	 geographic 
+	 	 market”,	have		due		regard	to	all	or	any	of	the	following	factors,		namely:—
+ (a)   regulatory trade  barriers;
+	 (b)		 		 local	specification	requirements;	
+ (c)   national  procurement policies; 
+ (d)   adequate distribution facilities; 
+ (e)   transport costs;
+ (f)  language;
+ (g)   consumer preferences;
+ (h)   need for secure	or	regular		supplies	or	rapid	after-sales	services.
+(20)
+(7)		 The		Commission	shall,		while		determining	the		“relevant		product		market”,			 	
+	 	 have		due		regard	to	all	or	any	of	the	following	factors,		namely:—
+	 	 	 (a)		 physical		characteristics	or	end-use	of	goods;	
+   (b) price of goods or service
+   (c)  consumer preferences;
+	 	 	 (d)		 exclusion		of	in-house	production;	
+   (e)  existence of specialised producers; 
+	 	 	 (f)	 classification	of	industrial		products.
+Inquiry into  combination by Commission
+20.  (1)   The   Commission  may,   upon   its  own   knowledge  or  information  
+	 	 	 	 relating			 to	acquisition	referred	to	in	clause	(a)	of	section	5	or	acquiring		of	 
+	 	 	 	 control	 referred	 	to	 in	 clause	 (b)	 of	 section	 5	 or	 merger	 or	 amalgamation 
+    referred to in clause (c) of that  section, inquire  into whether such  a 
+    combination has  caused or is likely to cause an appreciable adverse effect 
+	 	 	 	 on	competition	in	India:
+    Provided that the Commission shall not initiate any inquiry under  this 
+    subsection after  the expiry of one  year  from the  date  on which such 
+    combination has  taken  effect.
+	 (2)		 	 The		 Commission	shall,		on		receipt		of	a		notice		under		sub-section	(2)	of 
+	 	 	 	 section	 6	
+30[***], inquire  whether a  combination referred to in that  notice  or 
+    reference has  caused or is likely to cause an appreciable adverse effect on 
+    competition in India.
+	 (3)		 	 Not	 with	standing	anything		contained	in	section		5,	the		Central	Government
+shall, on the expiry of a period  of two years from the date  of commence -
+ment of this Act and   thereafter  every   two   years,   in  consultation  with  
+the			Commission,		by	notification,		enhance	or		reduce,	on		the		basis	of	the	 	
+wholesale	price		index		or	fluctuations	in	exchange	rate		of	rupee	or	foreign	
+currencies, the  value  of assets or the value  of turnover,  for the purposes 
+of that section.
+ (4)   For the  purposes of determining whether a combination would have  the 
+effect  of or is likely to  have  an  appreciable adverse effect  on competition 
+in the  relevant  market, the  Commission  shall  have   due  regard   to  all  
+or		any		of		the		following	factors,		namely:—
+    (a)  actual  and  potential  level of competition through imports in the  
+      market
+    (b)  extent  of barriers to entry into the market;
+    (c)  level of combination in the market;
+30		The	words	“or	upon	receipt	of	a	reference	under	sub-section	(1)	of	section	21”	omitted	by	Competi-
+tion	(Amendment)	Act,	2007
+(21)
+   (d)  degree of countervailing power  in the market;
+   (e)  likelihood   that   the   combination   would   result    in   the   parties  to 
+	 	 	 	 	 the	 combination	being		 able		 to	significantly		 and		 sustainably	increase 
+	 	 	 	 	 prices		or	profit	margins;
+   (f) extent  of effective competition likely to sustain in a market;
+   (g)  extent  to which substitutes are  available or arc likely to be available in 
+     the market;
+   (h)  market  share, in the  relevant market,  of the  persons or  enterprise in 
+     a combination, individually and  as a combination;
+   (i) likelihood that  the  combination would result  in the  removal  of a  
+     vigorous  and  effective competitor or competitors in the market;
+   (j) nature and  extent  of vertical integration in the market;  
+   (k) possibility of a failing business;
+   (I) nature and  extent  of innovation;
+   (m)  relative advantage, by  way of the contribution to the economic 
+development,  by  any  combination having  or  likely to  have appreciable 
+adverse effect on competition;
+	 	 	 (n) 		 whether	the		benefits	of	the		combination	outweigh		the		adverse	impact		
+     of the combination, if any.
+Reference by statutory authority
+21.  (1)  Where  in the  course of a proceeding before  any  statutory authority  an 
+   issue is raised by any party that any decision which such  statutory authority 
+   has  taken  or proposes to take  is or would be, contrary  to any of the 
+   provisions of this Act, then such  statutory authority  may  make  a  reference  
+	 	 	 in	respect	of	such		issue	to	the	Commission:
+   31[Provided that  any  statutory authority,  may,  suo  motu,  make  such  a   
+   reference to the Commission.]
+    32[(2)	 On	 	 receipt	 	of	 a	 reference	 under	 	sub-section	 (1),	 the	 	Commission	 shall 
+   give its opinion,  within sixty days  of receipt  of such  reference, to such 
+   statutory authority which  shall  consider the  opinion  of  the  Commission  
+	 	 	 and		 thereafter,		give		 its	findings	recording	reasons	therefor		 on	the	issues 
+   referred  to in the said opinion.]
+31			 Ins.	by	Competition	(Amendment)	Act,	2007
+32			 Subs.	by	Competition	(Amendment)	Act,	2007	for:
+	 “	 On	 receipt	 of	 a	 reference	 under	 sub-section	 (1),	 the	 Commission	 shall,	 after	 hearing	 the 
+ parties to the proceedings, give its opinion to such statutory authority which shall thereafter  
+	 pass	such	order	on	the	issues	referred	to	in	that	sub-section	as	it	deems	fit:
+	 Provided	 that	 the	 Commission	 shall	 give	 its	 opinion	 under	 this	 section	 within	 sixty	 days	 of 
+ receipt of such reference.”
+(22)
+33[Reference by Commission]
+34[21A. (1) Where  in  the  course of  a  proceeding before   the  Commission an 
+    issue is raised by any  party  that  any  decision which, the  Commission  
+    has  taken  during such  proceeding or proposes to take,  is or would be 
+    contrary  to any  provision  of this  Act  whose  implementation is 
+    entrusted  to  a  statutory authority,   then   the Commission may  make 
+	 	 	 	 a		reference	in		respect	of		such		issue		to		the		statutory	authority:
+    Provided that the Commission, may, suo motu, make such a reference  
+    to the statutory authority.
+	 	 	 (2)		 On	receipt		of	a	reference	under		sub-section	(1),	the	statutory	authority			
+    shall  give its opinion,  within sixty  days   of receipt   of such   reference,  
+    to  the  Commission which shall  consider the opinion of the  statutory  
+	 	 	 	 authority,		and		thereafter	give	its	findings	recording	reasons	there	for		on		
+    the issues referred  to in the said opinion.]
+35 [Meetings of Commission]
+36[22. (1) The Commission shall  meet  at such  times  and  places, and  shall   
+    observe such  rules  and  procedure in regard to the  transaction of  
+    business at its meetings as may be provided  by regulations.
+   (2)  The   Chairperson,  if   for  any   reason,  is  unable  to  attend  a 
+	 	 	 	 meeting		 of		 the	Commission,	the		 senior-most	Member		 present	at		 the 
+    meeting, shall  preside at the meeting.
+   (3)  All questions which  come  up  before  any  meeting of the  Commission  
+    shall  be decided by a majority of the Members present and   voting, and  
+    in the event  of an equality  of votes, the Chairperson or in his absence,  
+	 	 	 	 the	Member		presiding,	shall	have		a	second	or/casting	vote:
+    Provided that the quorum  for such  meeting shall be three  Members.]
+33 		 Ins.	by	the	Competition	(Amendment)	 Act,	2007
+34 	 Ins.	by	the	Competition	(Amendment)	 Act,	2007
+35			 Subs.	by	the	Competition	(Amendment)	Act,	2007	for	“Benches	of	Commission”
+36			 Subs.	by	the	Competition	(Amendment)	 Act,	2007	for:
+ (1)    The jurisdiction, power and authority of the Commission may be exercised by Benches  
+  thereof.
+ (2)    The Benches shall be constituted by the Chairperson and each Bench shall consist of  
+  not less than two Members. 
+ (3)    Every Bench shall consist of at least one Judicial Member.
+	 	 Explanation.—For	 the	purposes	of	this	sub-section,	“Judicial	Member”	means	a	Member 
+	 	 who	is,	or	has	been,	or	is	qualified	to	be,	a	Judge	of	a	High	Court.
+	 (4)			 The	 Bench	 over	 which	 the	 Chairperson	 presides	 shall	 be	 the	 Principal	 Bench	 and	 the 
+  other Benches shall be known as the Additional Benches.
+	 (5)	 	 	 	 There	 shall	 be	 constituted	 by	 the	 Chairperson	 one	 or	 more	 Benches	 to	 be	 called	 the 
+  Mergers Bench or Mergers Benches, as the case may be, exclusively to deal with matters  
+	 	 referred	to	in	sections	5	and	6.
+	 (6)			 The	places	at	which	the	Principal	Bench,	other	 Additional	Bench	or	Mergers	Bench	shall
+ 
+	 	 ordinarily	sit,	shall	be	such	as	the	Central	Government	may,	by	notification,	specify.”
+(23)
+37		Prior	to	omission,	Section	23	read	as	under:-
+ “   Distribution of business of Commission amongst Benches
+ (1)  Where any Benches are constituted, the Chairperson  may, from time to time, by  order,  
+  make provisions as to the distribution of the business of the Commission amongst the  
+  Benches and specify the matters, which may be dealt with by each Bench.
+ (2) If any question arises as to whether any matter falls within the purview of the business  
+	 	 allocated	to	a		Bench,	the	decision	of	the	Chairperson	thereon	shall	be	final.	
+ (3)    The Chairperson may
+  (i)  transfer a Member from one Bench to another Bench , or
+	 	 (ii)	 authorize	 the	Members	of	one	Bench	to	discharge	also	the	functions	of	the	Members 
+	 	 	 of	other	Bench:
+Provided	that	the	Chairperson	shall	transfer,	with	the	prior	approval	of	the	Central	Government,	a	
+Member from one Bench situated in one city to another Bench situated in another city.
+ (4) The Chairperson may, for the purpose of securing that any case or matter which, having
+ 
+  regard to the nature of the questions involved, requires or is required in his opinion or  
+  under the rules made by the Central Government in this behalf, to be decided by a Bench  
+  composed of more than two Members issue such general or special orders as he may  
+	 	 deem	fit.”
+38	 Prior	to	omission	Section	24	read	as	under:
+	 “			Procedure	for	deciding	a	case	where	Members	of	a	Bench	differ	in	opinion
+ If the Members of a Bench differ in opinion on any point, they shall state the point or points  
+ on which they differ, and make a reference to the Chairperson who shall either hear the point  
+ or points himself or  refer the case for hearing on such point or points by one or more of the  
+ other Members and such point or points shall be decided according to the opinion of the  
+	 majority	of	the	Members	who	have	heard	the	case,	including	those	who	first	heard	it.”
+39			 Prior	to	omission,	Section	25	read	as	under:	“	Jurisdiction	of	Bench
+ An inquiry shall be initiated or a complaint be instituted or a reference be made under this Act  
+ before a Bench within the local limits of whose jurisdiction—
+ (a)  the respondent, or each of the respondents, where there are more than one, at the time  
+  of the initiation of inquiry or institution of the complaint or making of reference, as the case 
+  may be, actually and voluntarily resides, or carries on business, or personally works for  
+  gain; or
+ (b) any of the respondents, where there are more than one, at the time of the initiation of the  
+  inquiry or institution of complaint or making of reference, as the case may be, actually and 
+  voluntarily resides or carries on business or personally works for gain provided that in  
+  such case either the leave of the Bench is given, or the respondents who do not reside, or  
+  carry on business, or personally work for gain, as aforesaid, acquiesce in such institution;  
+  or
+ (c)  the cause of action, wholly or in part, arises.
+	 Explanation.—A 	respondent,	being	a	person	referred	to	in	sub-clause	(iii)	or	sub-clause	(vi)	or 
+	 sub-clause	 (vii)	 or	 sub-clause	 (viii)	 of	 clause	 (1)	 of	 section	 2,	 shall	 be	 deemed	 to	 carry	 on 
+	 business	 at	its	sole	or	principal	place	of	business	in	India	or	at	its	registered	office	in	India	or 
+	 where	it	has	also	a	subordinate	office	at	such	place.”
+3723.		 [Omitted	by	the	Competition		(Amendment)	 Act,	2007]
+3824.		 [Omitted	by	the	Competition		(Amendment)	 Act,	2007]
+3925.		 [Omitted	by	the	Competition		(Amendment)	 Act,	2007]
+(24)
+40[Procedure for inquiry under section 19]
+41[26.	(1)	 On	 receipt	 	 of	 a	 reference	 from	 the	 	 Central	 	 Government	 or	 a	 State 
+   Government or a  statutory  authority  or on  its own  knowledge or  
+	 	 	 information	 	 received	 under	 	 section	 19,	 	 if	 	 the	 	 Commission	 	 is	 of	 the 
+   opinion that  there  exists  a  prima  facie case, it shall direct the Director 
+	 	 	 General	to	cause	an	investigation	to	be	made	into	the	matter:
+   Provided that  if the  subject matter  of an information  received is, in the 
+   opinion of the Commission, substantially the same as or has  been covered  
+   by any previous information received, then  the new information  may be 
+   clubbed with the previous information.
+  (2)  Where   on   receipt   of  a   reference  from  the   Central   Government  or 
+   a State Government or a statutory  authority  or information received under   
+	 	 	 section	19,	
+40			 Subs.	by	Competition	(Amendment)	Act,	2007	for	“Procedure	for	inquiry	on	complaints	under		
+	 section	19”
+41			 Subs.	by	Competition	(Amendment)	Act,	2007	for:
+	 “			Procedure	for	inquiry	on	complaints	under	Section	19
+	 (1)	 On	 receipt	 of	 a	 complaint	 or	 a	 reference	 from	 the	 Central	 Government	 or	 a	 State 
+  Government or a statutory authority or on its own knowledge or information, under section 
+	 	 19,	 if	the	Commission	is	of	the	opinion	that	there	exists	a	prima	facie	case,	it	shall	direct 
+  the Director General to cause an investigation to be made into the matter.
+	 (2)			 The	 Director	General	shall,	on	receipt	of	direction	under	sub-section	(1),	submit	a	report 
+	 	 on	his	findings	with	in	such	period	as	may	be	specified	by	the	Commission.
+	 (3)	 Where	 on	 receipt	 of	 a	 complaint	 under	 clause	 (a)	 of	 sub-section	 (1)	 of	 section	 19,	 the
+ 
+  Commission is of the opinion that there exists no prima facie case, it shall dismiss the  
+	 	 complaint	 and	may	pass	such	orders	as	it	may	deems	fit,	including	imposition	of	costs,	if 
+  necessary.
+	 (4)	 The	 Commission	 shall	 forward	 a	 copy	 of	 the	 report	 referred	 to	 in	 sub-section	 (2)	 to	 the 
+  parties concerned or to the Central Government or the State Government or the statutory  
+  authority, as the case may be.
+	 (5)				If	 the	report	of	the	Director	General	relates	on	a	complaint	and	such	report	recommends 
+  that there is no contravention of any of the provisions of this Act, the complainant shall be  
+	 	 given	an	opportunity	to	rebut	the	findings	of	the	Director	General.
+	 (6)	 If,	 after	hearing	the	complainant,	the	Commission	agrees	with	the	recommendation	of	the
+ 
+  Director  General, it shall dismiss the complaint.
+	 (7)	 If,	 after	hearing	the	complainant,	the	Commission	is	of	the	opinion	that	further	inquiry	is 
+  called for, it shall direct the complainant to proceed with the complaint.
+	 (8)		 If	 the	 report	 of	 the	 Director	 General	 relates	 on	 a	 reference	 made	 under	 sub-section	 (/) 
+  and such report recommends that there is no contravention  of  the  provisions of  this  
+  Act, the Commission shall invite  comments  of  the Central Government or  the State  
+  Government or the statutory authority, as the case may be, on such report and on receipt  
+  of such comments, the Commission shall return the reference if there is no prima facie  
+  case or proceed with the reference as a complaint if there is a prima facie case.
+	 (9)			 If	 the	report	of	the	Director	General	referred	to	in	sub-section	(2)	recommends	that	there 
+  is contravention of any of the provisions of this Act, and the Commission is of the opinion  
+  that further inquiry is called for, it shall inquire into such contravention in accordance with  
+  the provisions of this Act.”
+(25)
+   the Commission is of the  opinion  that  there  exists  no prima  facie  case, it  
+	 	 	 shall	 	 close	 the	 matter	 forthwith	 and	 	pass	 such	 	orders	 as	 it	 deems	 fit	 and 
+   send a copy  of its order   to  the   Central  Government  or  the   State 
+   Government or  the   statutory authority  or the parties concerned, as the  
+   case may be.
+	 	 (3)		 The	 Director	 General	 shall,	 on	 receipt	 	of	 direction	 	under	 	sub-section	 (1), 
+	 	 	 submit	 	 a	 report	 on	 his	 findings	 within	 such	 	period	 as	 may	 be	 specified	 by 
+   the Commission.
+  (4)  The  Commission may  forward  a copy  of the  report  referred to in sub   
+	 	 	 section(3)	to	the	parties	concerned:
+Provided that in case the investigation is caused to be made based on 
+reference received from the  Central  Government or the  State Government 
+or the  statutory authority,  the  Commission  shall forward  a copy  of the 
+report		referred	to	in	sub-	section	(3)	to	the		Central		Government		or	the		State	
+Government or the  statutory authority,  as the case may be.
+	 	 (5)		 If	 the	 	report	 	of	 the	 	Director	 	General	 referred	 to	 in	 sub-section	 (3)	 reco-
+mends that  there  is no contravention of the  provisions of this Act, the 
+Commission shall invite  objections  or  suggestions  from  the   Central  
+Government  or  the   State Government or the statutory authority or the 
+parties concerned, as the case may be, on such  report of the Director 
+General.
+	 	 (6)		 If,	 after	 consideration	 of	 the	 objections	 and	 	 suggestions	 referred	 to	 in
+sub		section	(5),		if		any,		the		Commission	agrees		with		the		recommendation	
+of  the  Director General, it shall  close  the matter forthwith and  pass such  
+orders	as	it	deems	fit	and		communicate	its	order		to	the		Central	Government	 	
+or the  State Government or the statutory authority or the parties concerned, 
+as the case may be.
+	 	 (7)		 If,	 after	 	consideration	 of	 the	 	objections	 or	 suggestions	 referred	 to	 in	 sub	 	
+section	 (5),	 if	 any,	 	 the	 	 Commission	 is	 of	 the	 	 opinion	 	 that	 	 further 
+investigations is called for, it may  direct  further  investigation in the 
+matter  by the  Director  General or cause further  inquiriy to be  made by in  
+the  matter  or itself proceed with further inquiry in the matter  in accordance 
+with the provisions of this Act.
+	 	 (8)		 If	 the	 	 report	 	 of	 the	 	 Director	 	 General	 referred	 to	 in	 sub-section	 (3)
+recommends that   there   is   contravention  of  any   of  the   provisions  of  this   Act,  
+and   the Commission is of the  opinion that  further  inquiry is called  for, it shall  
+inquire  into such  contravention in accordance with the provisions of this Act.]
+Orders by   Commission  after  inquiry into   agreements or   abuse of  dominant 
+position
+27.		 Where			 after		 inquiry		 the		 Commission		 finds		 that		 any		 agreement		 referred 
+  to in section 3 or action  of an  enterprise in a dominant position,  is in 
+  contravention of section 3 or section 4, as the case may be,  it may pass all or  
+	 	 any	of	the	following	orders,	namely:—
+(26)
+  (a)  direct any enterprise or association of enterprises or person or association  
+   of persons, as the  case may  be,  involved in such  agreement, or abuse of 
+	 	 	 dominant	 position,		to		discontinue	and		not		to	re-enter	such		agreement	or 
+   discontinue such  abuse of dominant position,  as the case may be;
+	 	 (b)		 impose	 such		 penalty,		as	it	may		 deem	fit	which	shall		 be		 not	more		 than 
+   ten percent of  the  average  of  the  turnover   for  the  last   three  
+	 	 	 preceding	financial	years,	upon		each	of	such		person	or	enterprises	which		
+	 	 	 are		parties	to	such		agreements	or	abuse:
+   42[Provided that  in case any  agreement referred to in section 3 has  been  
+   entered into   by   a   cartel,   the   Commission  may   impose  upon   each 
+   producer,  seller,  distributor,   trader   or  service  provider   included   in 
+	 	 	 that	 cartel,		a		penalty			 of		up		to		three		times		of		its		profit		for		each	year 
+   of the continuance of such  agreement or ten  percent.  of its turnover  for 
+   each year  of the continuance of such  agreement, whichever is higher.]
+        43(c)		[Omitted	by	Competition		(Amendment)	Act,	2007]
+	 		 (d)		 direct		 that		 the			 agreements	shall		 stand	modified		 to	the		 extent		 and		 in 
+	 	 	 the	manner	as	may	be	specified	in	the	order	by	the	Commission;
+  (e)  direct  the  enterprises concerned to  abide   by  such   other  orders as the 
+   Commission may  pass and  comply with the  directions, including  payment  
+   of costs, if any;
+        44(f)		 [Omitted	by	Competition		(Amendment)	Act,	2007]
+  (g)  pass such  other  45[order	or	issue	such		directions]		as	it	may	deem	fit.
+46[Provided that   while  passing  orders   under   this  section,  if  the 
+Commission	comes	to	a	finding,	that	an	enterprise	in	contravention	to	section	3	
+or	section	4	of	the		Act	is	a		member	of	a		group		as	defined		in	clause	(b)	of	
+the	 	Explanation	 to	 section	 5	 of	 the	Act,	 and	 	other	 members	 of	 such	 	a 
+group are  also  responsible for, or have  contributed to, such  a  
+contravention, then  it may pass orders, under  this section, against such  
+members of the group.]
+42			 Subs.	by	Competition	(Amendment)	Act,	2007	for:
+	 “			 Provided	that	in	case	any	agreement	referred	to	in	section	3	has	been	entered	into	by	any 
+ cartel, the Commission shall impose upon each producer, seller, distributor, trader or service  
+	 provider	 included	 in	 that	 cartel,	 a	 penalty	 equivalent	 to	 three	 times	 of	 the	 amount	 of	 profits 
+ made  out of such agreement by the cartel or ten percent. of the average of the turnover of the  
+	 cartel	for	the	last	preceding	three	financial	years,	whichever	is	higher;”
+43			 Prior	to	omission,	Clause	(c)	of	Section	27	read	as	under:-
+ “award compensation to parties in accordance with the provisions contained in section 34;”  
+44			 Prior	to	omission,	Clause	(c)	of	Section	27	read	as	under:-
+ “recommend to the Central Government for the division of an enterprise enjoying dominant  
+ position;”
+45			 Subs.	by	Competition	(Amendment)	Act,	2007	for	“order”
+46			 Ins.	by	Competition	(Amendment)	 Act,	2007
+(27)
+47			 Subs.	by	Competition	(Amendment)	 Act,	2007	for	“Central	Government,	on	recommendation		
+	 under	clause(f)	of	section	27”
+48			 Prior	to	omission,	clause	(d)	of	sub-section(2)	of	section	28	read	as	under:-
+ “the payment of compensation to any person who suffered any loss due to dominant position of  
+ such enterprise;”
+49			 Ins.	by	Competition	(Amendment)	Act,	2007
+Division of enterprise enjoying dominant position
+28 (1)  The 47[Commission]  may, notwithstanding anything  contained in any 
+    other  law for the  time  being  in  force,   by  order   in  writing,  direct  division  of  an 
+    enterprise enjoying  dominant  position to  ensure that  such   enterprise does  
+    not  abuse its dominant position.
+ (2)  In particular,  and  without prejudice to the  generality  of the  foregoing  
+	 	 		 powers,	the	order		referred		to		in	sub-section	(1)	may		provide		for	all	or	any			
+	 	 		 of	the		following	matters,	namely:—
+    (a)  the transfer or vesting  of property,  rights, liabilities or obligations;
+    (b)  the adjustment of contracts either  by discharge or reduction of any 
+      liability or obligation or otherwise;
+    (c)  the  creation, allotment,  surrender or cancellation of any  shares, stocks 
+      or securities;
+	 	 	48(d)		 [Omitted	by	Competition		(Amendment)	 Act,	2007]
+    (e)  the  formation  or  winding  up  of an  enterprise or  the  amendment of 
+      the memorandum   of  association  or  articles   of  association  or  any 
+      other instruments regulating the business of any enterprise;
+    (f) the  extent   to  which,  and  the  circumstances in which,  provisions of 
+      the order  affecting  an  enterprise may  be  altered by  the  enterprise  
+      and the registration thereof;
+    (g)  any  other  matter  which may  be  necessary to give effect  to the    
+        division of the enterprise.
+ (3)  Notwithstanding anything  contained in any other  law for the time being  in 
+    force or in any  contract or in any  memorandum or articles  of association,  
+	 	 		 an	officer	of	a	company	who	ceases	to	hold	office	as	such		in	consequence	of		
+    the division of an enterprise shall not be entitled to claim any compensation  
+    for such  cesser.
+Procedure for investigation of combination
+29. (1) Where  the  Commission is of the  49[prima facie]  opinion  that  a 
+    combination is likely to  cause,  or  has   caused an  appreciable  adverse  
+    effect  on  competition within the  relevant market  in  India, it shall  issue 
+    a notice  to show  cause to the parties to  combination calling  upon  
+    them  to  respond within  thirty  days   of  the receipt  of  the  notice,   as to 
+    why investigation in  respect of  such   combination should  not be conducted.
+(28)
+50[1(A) After  receipt  of the  response of the  parties to  the  combination under  
+   sub- section (1), the Commission may  call for a report  from the  Director 
+   General and such report  shall  be  submitted  by the  Director  General  
+   within such time as the Commission may direct.]
+  (2)  The Commission, if it is prima facie of the opinion that the combination has,
+or is likely to have, an appreciable adverse effect on competition, it shall,  
+within seven  working  days   from  the  date  of  receipt   of  the  response of  
+the  parties to  the combination, 
+51 [or the  receipt  of the  report  from Director  
+General called  under  sub  section (1A), whichever  is later] direct the par-
+ties  to  the said  combination to publish details  of the  combination within ten  
+working  days  of such  direction,  in such   manner, as  it  thinks   appropriate,  
+for  bringing   the   combination  to  the knowledge  or  information   of  the  
+public  and   persons  affected or  likely  to  be affected by such 
+combination.
+  (3)  The  Commission may  invite  any  person or  member of the  public,  affected
+or	likely	to	be	affected	by	the		said		combination,	to	file	his	written	objections,	
+if	any,	before	the		Commission		within	fifteen		working		days		from	the		date		on	 	
+which		the	details		of	the	combination	were	published	under		sub-section	(2).
+	 	 (4)		 The	 	 Commission	 may,	 	within	 fifteen	 working	 days	 	from	the	 	expiry	 of	 the 
+	 	 	 	 period	 specified	 in	 sub-section	 (3),	 call	 for	 such	 	 additional	 	 or	 other	 
+	 	 	 information		as	it	may	deem	fit	from	the	parties	to	the	said	combination.
+	 	 (5)			The			 additional			 or		 other			 information			 called			 for		 by		 the			 Commission 
+	 	 	 shall		 be	furnished	by	the	parties	referred	to	in	sub-section	(4)	within	fifteen 
+	 	 	 days		from	the	expiry	of	the	period	specified	in	sub-section	(4).
+	 	 (6)		 After	 receipt	 	 of	 all	 information	 	 and	 	 within	 a	 period	 	 of	 forty-five	 working 
+	 	 	 days	 from	the			 expiry		 of		 the			 period			 specified			 in		 sub-section		 (5),		 the 
+   Commission  shall proceed to  deal  with the  case  in accordance with the 
+   provisions contained in section 31.
+52[Procedure in case of notice under sub-section (2) of section 6]
+53[30. Where  any  person or enterprises has  given  a  notice  under  sub-section (2) 
+   of  section 6,  the  Commission shall  examine such  notice  and  form its prima 
+   facie opinion  as  provided   in  sub-section  (1)  of  section  29  and   proceed as 
+    per provisions contained in that section.]
+50			 Ins.	by	Competition	(Amendment)	Act,	2007
+51			 Ins.	by	Competition	(Amendment)	Act,	2007
+52			 Subs.	by	Competition	(Amendment)	Act,	2007	for	“Inquiry	into	disclosure	under	sub-section(2)		
+	 of	section	6”
+53			 Subs.	by	Competition	(Amendment)	Act,	2007	for:
+	 “Where	any	person	or	enterprise	has	given	a	notice	under	sub-section	(2)	of	section	6.	 The		
+ Commission shall inquire— 
+ (a)  whether the disclosure made in the notice is correct;
+ (b)  whether the combination has, or is likely to have, an appreciable adverse effect on   
+  competition.”
+(29)
+Orders of Commission on certain combinations
+31. (1)  Where  the Commission is of the opinion that any combination does not, or 
+    is not likely to,  have  an  appreciable adverse effect  on  competition, it shall, 
+    by order, approve that  combination including  the  combination  in respect of  
+	 	 	 	 which	a	notice	has		been	given	under		sub-section	(2)	of	section		6.
+  (2)  Where  the  Commission is of the  opinion  that  the  combination has, or is
+likely to have,   an  appreciable adverse  effect   on  competition,  it  shall  
+direct   that   the combination shall not take effect.
+  (3)  Where  the  Commission is of the  opinion  that  the  combination has, or is
+likely to have,  an appreciable adverse effect  on competition  but such 
+adverse	 effect	 	 can	 be	 	 	eliminated	 	 by	 	 suitable	 	 modification	 	 	to	 	 such	 
+combination,		it		may			propose	appropriate	modification	to	the	combination,	to	
+the parties to such  combination.
+	 	 (4)		 The		 parties,	who		 accept	the		 modification		 proposed	by		 the		 Commission 
+	 	 	 	 under	 	 subsection	 (3),	 shall	 carry	 out	 such	 	 modification	 within	 the	 period 
+	 	 	 	 specified	by	the	Commission.
+	 	 (5)		 If		 the		 parties	to		 the		 combination,	who		 have			 accepted	the		 modification	
+under	 	 subsection	 (4),	 fail	 to	 carry	 out	 the	 modification	 	 within	 the	 period 
+specified	by	the	Commission,	such		combination	shall	be	deemed	to	have		an	
+appreciable adverse effect  on  competition and  the  Commission shall  deal  
+with such  combination in accordance with the provisions of this Act.
+	 	 (6)		 If	 the		parties	to	the		combination	do	not	accept	the		modification		proposed	by
+the	 Commission	 	 under	 	 sub-section	 (3),	 such	 	 parties	 may,	 	within	 thirty	
+working	days		of		the		modification		proposed		by		the		Commission,		submit	 	 	
+amendment	 	to	 	the	 modification	 proposed	 by	 the	 Commission	 under	 	that	
+sub-section.
+	 	 (7)		 If		 the		 Commission	agrees		 with	the		 amendment	submitted	by	the		 parties 
+	 	 	 	 under		subsection	(6),	it	shall,	by	order,		approve	the	combination.
+	 	 (8)		 If	 the	 	Commission	does	not	accept	the	 	amendment	submitted	under	 	sub
+section	(6),	then,		the	parties	shall	be	allowed		a	further	period	of	thirty	working	
+days		within	which		such		parties	shall		accept	the		modification		proposed	by	
+the		Commission	under		sub-section	(3).
+	 	 (9)		 If	 the		 parties	fail	to	accept	the		 modification		 proposed	by	the		 Commission
+within	 thirty	 working	 days	 	referred	 to	 in	 sub-section	 (6)	 or	 within	 a	 further	
+period		of	thirty	working	days		referred	to	in	sub-section	(8),	the		combination	
+shall  be  deemed to have   an   appreciable  adverse  effect   on   competition  
+and   be   dealt   with  in accordance with the provisions of this Act.
+	 	 (10)	 Where	the		Commission	has		directed	under		sub-section	(2)	that		the			
+combination shall   not  take  effect  or  the  combination  is  deemed  to  have   
+an			appreciable	adverse	effect		on		competition		under		sub-section	(9),	then,	 	
+without  prejudice to any  penalty  which  may  be  imposed or any  prosecu -
+tion which  may  be  initiated under  this Act, the Commission may order that 
+(30)
+	(a)		 the	acquisition	referred	to	in	clause	(a)	of	section	5;	or
+	 	 	 	 	 (b)		 the	acquiring		of	control	referred	to	in	clause	(b)	of	section	5;	or
+	 	 	 	 	 (c)		 the	 merger	or	amalgamation	referred	to	in	clause	(c)	of	section	5,	shall	not	 
+	 	 	 	 	 	 be	given	effect	to:	
+      Provided that  the Commission may, if it considers appropriate, frame   
+	 	 	 	 	 	 a		scheme	to	implement	its	order	under	this	sub-section.
+ (11) If the Commission does not, on the expiry of a period  of 
+54[two hundred
+and  ten days  from the  date  of notice  given  to the  Commission 
+under  sub-section (2) of section 6], pass an  order  or issue direction  in 
+accordance	with	the		provisions		of	sub-section	(1)	or	sub-section	(2)	or		sub-
+section	(7),		 the		 combination	shall		 be	deemed	to	have		 been	approved	by	
+the Commission.
+Explanation.—For the  purposes of determining the  period  of 55[two hundred 
+and ten]	days	specified	in	this	subsection,	the		period		of	thirty	working	days	 	
+specified	 in	 sub-section	 (6)	 and	 	a	 	further	 	period	 	of	 thirty	 working	 	days	 	
+specified	in	sub-	section	(8)	shall	be	excluded.
+ (12) Where any  extension of time  is sought  by the  parties to the  combination,  
+   the period  of  ninety  working  days  shall  be  reckoned after  deducting the   
+   extended time granted at the request of the parties.
+ (13) Where the Commission has  ordered a combination to be void, the
+acquisition or acquiring  of control  or merger or amalgamation referred to in 
+section	5,	shall		be	dealt		with	by	the		authorities	under		any		other		law	for	the	 	
+time being  in force  as if such  acquisition or acquiring of control or merger or 
+amalgamation had  not taken place and  the parties to the combination shall 
+be dealt with accordingly.
+ (14) Nothing  contained in this Chapter shall  affect  any  proceeding initiated  or 
+   which may be initiated under  any other  law for the time being  in force.
+Acts taking place outside India  but  having an  effect on  competition in India
+32.  The Commission shall, notwithstanding that,—
+ (a)  an agreement referred to in section 3 has  been entered into outside India;or
+ (b)  any party to such  agreement is outside India; or
+ (c)  any enterprise abusing the dominant position  is outside India; or
+ (d)  a combination has  taken  place  outside India; or
+ (e)  any party to combination is outside India; or
+54			 Subs.	by	Competition	(Amendment)	Act,	2007	for:
+	 “ninety	working	days	from	the	date	of	publication	referred	to	in	sub-section(2)	of	section	29”
+55			 Subs.	by	Competition	(Amendment)	 Act,	2007	for	”ninety	days”
+(31)
+ (f)  any  other  matter  or practice or action  arising  out  of such  agreement or 
+   dominant position  or combination is outside India,
+have   power   to  inquire   56[in accordance  with  the   provisions  contained  in 
+sections	19,		20,		26,		29		and		30		of	the		Act]	into	such		agreement	or	abuse	of	
+dominant position  or  combination if  such  agreement or  dominant position  or 
+combination has,  or  is  likely  to   have,   an   appreciable  adverse  effect   on 
+competition in the  relevant market  in India  
+57[and  pass such orders as it may 
+deem	fit	in	accordance	with	the	provisions	of	this	Act.]
+58[Power to issue interim orders]
+59[33.	 	Where			during			an			inquiry,		the			Commission		is		satisfied		that			an			act			in
+contravention		of	sub-section	(1)	of	section	3	or	sub-section	(1)	of	section	4	or	
+section	6	has		been	committed	and		continues	to	be		committed		or	that		such	 	
+act  is about  to be  committed, the  Commission may, by order,  temporarily  
+restrain any party from carrying  on such  act until the conclusion of such inquiry 
+or until further orders, without giving notice  to such  party, where  it deems it 
+necessary.]
+56			 Ins.	by	the	Competition	(Amendment)	 Act,	2007
+57			 Ins.	by	the	Competition	(Amendment)	Act,	2007
+58			 Subs.	by	the	Competition	(Amendment)	Act,	2007	for	“Power	to	grant	interim	relief”
+59			 Subs.	by	the	Competition	(Amendment)	Act,	2007	for:
+ (1) Where during an inquiry before the Commission, it is proved to the satisfaction of the  
+	 	 Commission,	 by	affidavit	or	otherwise,	that	an	act	in	contravention	of	sub-section	(1)	of	 
+	 	 section	 3	or	sub-section	(1)	of	section	4	or	section	6	has	been	committed	and	continues 
+  to be committed or that such act is about to be committed, the Commission may, by  
+  order, grant a temporary injunction restraining any party from carrying on such act  
+  until the conclusion of such inquiry or until further orders, without giving notice to the  
+  opposite party, where it deems it necessary.
+ (2)  Where during the inquiry before the Commission it is proved to the satisfaction of the 
+Commission	by	affidavit	or	otherwise	that	import	of	any	goods	is	likely	to	contravene	sub-
+section	(1)	of	section	3	or	subsection	(1)	of	section	4	or	section	6,	it	may,	by	order,	grant	a	
+temporary injunction restraining any party from importing such goods until the conclusion 
+of such inquiry or until further orders, without giving notice to the opposite party, where it 
+deems it necessary and a copy of such order granting temporary injunction shall be sent 
+to the concerned authorities.
+	 (3)	 The	 provisions	 of	 rules	 2A	 to	 5	 (both	 inclusive)	 of	 Order	 XXXIX	 of	 the	 First
+ 
+	 	 Schedule		 to	 the	 Code	 of	 Civil	 Procedure,	 1908	 (5	 of	 1908)	 shall,	 as	 far	 as	 may	 be, 
+  apply to a temporary injunction issued by the Commission under this Act, as they apply  
+  to a temporary injunction issued by a civil court, and any reference in any such rule to a  
+  suit shall be construed as a reference to any inquiry before the Commission.
+(32)
+6034.				 [Omitted	 by	the Competition		(Amendment)	Act,	2007]	(39	of	2007	with	effect 
+	 	 from	12th	October	2007)
+Appearance before Commission
+35.   A 61[person or an enterprise] or the Director General may either  appear in
+person or authorise one  or more  chartered accountants or company secre-
+taries	or	cost	accountants	or	legal	practitioners	or	any		of	his	or	its	officers		to	
+present his or i ts case before  the Commission.
+Explanation.—For the purposes of this section,—
+	 (a)		 “chartered	 	 accountant”	 	means	 	a	 	 	chartered	 accountant	 as	 	defined	 	 	in	 
+	 	 clause	 (b)	of		sub-section	(1)	of	section	2		of	the		Chartered	Accountants	Act, 
+	 	 1949	 	 (38	 	of	 	1949)	 	and	 	who	 	has	 	 	obtained	 a	 	certificate	 	 	of	 	practice	 
+	 	 under	sub-section	(1)	of	section	6	of	that	 Act;	
+	 (b)		 “company	secretary”	means	a	company	secretary	as	defined		in	clause	(c)	of	
+sub-section	 (1)	 of	 section	 2	 of	 the	 	Company	 Secretaries	Act,	 1980	 	(56	 of	
+1980)		and		who	has	obtained	a	certificate		of	practice	under		sub-section	(1)	
+of	section	6	of	that	Act;
+	 (c)		 “cost		 accountant”	means		a		cost		accountant	as	defined		in	clause	(b)		of	sub
+section	(1)	of	section		2	of	the	Cost		and		Works	Accountants	Act,	1959	(23		of	
+1959)		and		who		has		obtained	a		certificate		of	practice	under		sub-	section	
+(1)	of	section	6	of	that	Act;
+ (d) “legal  practitioner”  means an  advocate, vakil or an  attorney of any  High  
+  Court, and  includes a pleader in practice.
+60			 Prior	to	omission,	section	34	read	as	under:-	
+	 	 “		Power	to	award	compensation
+ (1)  Without prejudice to any other provisions contained in this Act, any person may make an  
+  application to the Commission for an orderfor the recovery of compensation from any  
+  enterprise for any loss or damage shown to have been suffered, by such person as a  
+  result of any contravention of the provisions of Chapter II, having been committed by such 
+  enterprise.
+ (2)  The Commission may, after an inquiry made into the allegations mentioned in the  
+	 	 application	 made	 under	 sub-section	 (1),	 pass	 an	 order	 directing	 the	 enterprise	 to	 make 
+  payment to the applicant, of the amount determined by it as realisable from the enterprise  
+  as compensation for the loss or damage caused to the applicant as a result of any contra  
+  vention of the provisions of Chapter II having been committed by such enterprise.
+	 (3)		 Where	 any	loss	or	damage	referred	to	in	sub-section	(1)	is	caused	to	numerous	persons 
+  having the same interest, one or more of such persons may, with the permission of the  
+	 	 Commission,	 make	an	application		 under	that	sub-section	for	and	on	behalf	of,	or	for	the	 
+	 	 benefit	 of,	the	persons	so	interested,	and	thereupon,	the	provisions	of	rule	8	of	Order	1	of 
+  the First Schedule to the Code of Civil
+	 	 Procedure,	 1908	(5	of	1908),	shall	apply	subject	to	the	modification	that	every	reference 
+  therein to a suit or decree shall be construed as a reference to the application before the  
+  Commission and the order of the Commission thereon.”
+61			 Subs.	by	Competition	(Amendment)	 Act,	2007	for	“complainant	or	defendant”
+(33)
+62			 Subs.	by	Competition	(Amendment)	Act,	2007	for:
+ “(1)  The Commission shall not be bound by the procedure laid down by the Code of Civil 
+Procedure,1908	(5	of	1908),	but	shall	be	guided	by	the	principles	of	natural	justice	and,	
+subject to the other provisions of this Act and of any rules made by the Central Govern -
+ment, the Commission shall have powers to regulate its own procedure including the 
+places at which they shall have their sittings, duration of oral hearings when granted, and 
+times of its inquiry.
+ (2)   The Commission shall have, for the purposes of discharging its functions umder this
+ 
+	 	 Act,	the	same	powers	as	are	vested	in	a	civil	court	under	the	Code	of	Civil	Procedure,		
+	 	 1908(5	of	1908),	while	trying	a	suit,	in	respect	of	the	following	matters,	namely:—
+  (a) summoning and enforcing the attendance of any person and examining him on oath;  
+  (b) requiring the discovery and production of documents;
+	 	 (c)	 receiving	evidence	on	affidavits;
+  (d) issuing commissions for the examination of witnesses or documents;
+  (e) subject to the provisions of sections 123 and 124 of the Indian Evidence Act,   
+	 	 	 1872	(1of	1872),			requisitioning	any	public	record	or	document	or	copy	of	such		 	
+	 	 	 record	or	document	from	any	office;
+  (f) dismissing an application in default or deciding it ex parte; (g)any other matter which  
+   may be prescribed.
+ (3)   Every proceeding before the Commission shall be deemed to be a judicial proceeding
+ 
+	 	 within	the	meaning	of	sections	193	and	228	and
+	 	 for	 the	 purposes	 of	 section	 196	 of	 the	 Indian	 Penal	 Code	 (45	 of	 1860)	 and	 the	
+ 
+	 	 Commission	shall	be	deemed	to	be	a	civil	court	for	the	purposes	of	section	195	(2	of		
+	 	 1974)	and	Chapter	XXVI	of	the	Code	of	Criminal	Procedure,	1973.
+	 (4)		 The	 Commission	 may	 call	 upon	 such	 experts,	 from	 the	 fields	 of	 economics,	 commerce, 
+  accountancy, international trade or from any other discipline as it deems necessary, to  
+  assist the Commission in the conduct of any inquiry or proceeding before it.
+	 (5)		 The	Commission	may	direct	any	person—
+	 	 (a)	 to	produce	before	the	Director	General	or	the	Registrar	or	an	officer	authorised		 	
+   by it, such books, accounts or other documents in the custody or under the   
+	 	 	 control	 of	such	person	so	directed	as	may	be		specified	or	described	in	the	direction, 
+   being documents relating to any trade, the examination of which may be required for  
+   the purposes of this Act;
+	 	 (b)	 to	 furnish	to	the	Director	General	or	the	Registrar	or	any	officer	authorised	by	it,	as 
+   respects the trade or such other information as may be in his possession in relation  
+   to the trade carried on by such person, as may be required for the purposes of this  
+   Act.
+	 (6)			 If	the	Commission	is	of	the	opinion	that	any	agreement	referred	to	in	section	3	or	“abuse 
+	 	 of	 dominant	 position	 referred	 to	 in	 section	 4	 or	 the	 combination	 referred	 to	 in	 section	 5 
+  has  caused or is likely to cause an appreciable adverse effect on competition in the  
+  relevant market in India and it is necessary to protect, without further delay, the interests  
+  of consumers and other market participants in India, it may conduct an inquiry or  
+  adjudicate upon any matter under this Act after giving a reason able oral hearing to the  
+  parties concerned.”
+Power of Commission to regulate its  own  procedure
+62[36. (1) In  the   discharge  of  its  functions,  the   Commission  shall   be   guided  
+   by the principles  of natural  justice  and,  subject to the  other  pro 
+   visions  of this Act and  of any  rules  made by  the  Central   Government, the  
+   Commission shall  have   the powers to regulate its own procedure.
+(34)
+ (2)  The  Commission shall  have,  for the  purposes of discharging its functions 
+  under  this Act, the same powers as are  vested in a Civil Court  under  the 
+	 	 Code	 	 of	 Civil	 Procedure,	 1908	 	 	(5	 	of	 	1908),	 	 	while	 	trying	 	a	 	suit,	 	in 
+	 	 respect	of		the		following	matters,	namely:-
+  (a)  summoning and  enforcing  the  attendance of any  person and 
+    examining him on oath;
+  (b)  requiring  the discovery and  production of documents; 
+	 	 (c)	 receiving		evidence	on	affidavit;
+  (d)  issuing  commissions for the examination of witnesses or documents;
+  (e)  requisitioning, subject  to  the  provisions   of sections 123  and  124  
+	 	 	 	 of		the	 Indian	Evidence	Act,	1872		 (1	of	1872),		 any		 public	record		 or 
+	 	 	 	 document	or	copy	of	such	record	or	document	from	any	office.
+	 (3)		 The	 	 Commission	 	may	 	call	 	upon	 	such	 	 	experts,	 	from	 	the	 	 	fields	 	of 
+  economics, commerce, accountancy,  international trade   or  from  any 
+  other discipline as it deems necessary to assist the Commission in the 
+  conduct of any inquiry by it.
+	 (4)		 The	Commission	may	direct	any	person:
+  (a)  to  produce before   the  Director  General or  the  Secretary or  an  
+officer	authorized	by	it,	such		books,		or	other		documents	in	the		custody	
+or	under		the	control	of	such		person	so	directed	as	may	be	specified	or	
+described in the  direction,  being  documents relating  to  any  trade,  the  
+examination of which may be required for the purposes of this Act;
+  (b)  to  furnish  to  the  Director  General or  the  Secretary or  any  other  
+officer	authorized	by	it,	as	respects	the	trade		or	such		other		information	
+as may be in his  possession in relation  to the  trade  carried  on  by such  
+person, as may be required for the purposes of this Act.]
+63	37.		[Omitted	by	the Competition		(Amendment)	Act,	2007]	(39	of	2007	with	effect	from 
+	 		12th	October	2007)
+63			 Prior	to	omission,	section	37	read	as	under:-	
+ “  Review of orders of Commission
+ Any person aggrieved by an order of the Commission from which an appeal is allowed by this  
+ Act but no appeal has been preferred, may, within thirty days from the date of the order, apply  
+ to the Commission for review of its order and the Commission may make such order thereon  
+	 as	it	thinks	fit:
+	 Provided	 that	 the	 Commission	 may	 entertain	 a	 review	 application	 after	 the	 expiry	 of	 the	 said 
+	 period	 of	thirty	days,	if	it	is	satisfied	that	the	applicant	was	prevented	by	sufficient	cause	from 
+	 preferring	the	application	in	time:
+	 Provided	 further	 that	 no	 order	 shall	 be	 modified	 or	 set	 aside	 without	 giving	 an	 opportunity	 of
+ 
+ being heard to the person in whose favour the order is given and the Director General where  
+ he was a party to the proceedings.”
+(35)
+Rectification of orders
+38.  (1)  With a view to rectifying any  mistake apparent from the  record, the    
+  Commission may amend any order passed by it under  the provisions of this  
+  Act.
+ (2)  Subject to the other  provisions of this Act, the Commission may make— 
+	 	 (a)	 an	amendment	under		sub-section	(1)	of	its	own	motion;
+  (b)  an  amendment for rectifying any  such  mistake which has  been  
+   brought  to its notice  by any party to the order.
+Explanation.—-	For	the		removal		of	doubts,	it	is	hereby	declared	that		the		Commission	
+shall  not,  while rectifying any  mistake apparent from record, amend substantive part  
+of its order passed under  the provisions of this Act.
+64 [Execution of orders of Commission imposing monetary penalty]
+65[39.(1) If a person fails to pay  any  monetary penalty  imposed on him under  this 
+  Act, the  Commission shall  proceed to recover such  penalty,  in such  
+	 	 manner	as	may	be	specified	by	the	regulations.
+ (2)  In a case where  the  Commission is of the  opinion  that  it would be 
+  expedient to recover the penalty  imposed under  this Act in accordance with 
+	 	 the	 	 provisions	 of	 the	 	Income-tax	Act,	 1961	 (43	 of	 1961),	 	it	 may	 	make	 	a 
+	 	 reference	 to	 this	 effect	 	to	 the	 	concerned	 income-tax	 authority	 	under	 that 
+  Act for recovery of the  penalty  as tax due  under  the said Act.
+	 (3)		 Where		 a	reference	has		 been	made	by	the	Commission	under		 sub-section 
+  (2) for recovery of penalty,  the  person upon  whom  the  penalty  has  been  
+  imposed shall be deemed to be the assessee in default  under  the Income 
+	 	 T ax	 Act,	1961	(43	of	1961)		and		the		provisions	contained	in	sections	221		to 
+	 	 227,		 228A,		229,		231		and	232		of	the		said		Act	and		the		Second	Schedule 
+  to that  Act and  any  rules  made there  under  shall,  in so  far as may  be, 
+  apply  as if the  said  provisions  were  the provisions of this Act and referred 
+	 	 to	 sums	 by	 way	 of	 penalty	 	 imposed	 under	 	 this	Act	 instead	 of	 to	 income- 
+64			 Subs.	by	Competition	(Amendment)	Act,	2007	for	“Execution	of	orders	of	Commission”
+65			 Subs.	by	Competition	(Amendment)	Act,	2007	for:
+ “   Every order passed by the Commission under this Act shall be enforced by the Commission  
+ in the same manner as if it were a decree or order made by a High Court or the principal civil  
+ court in a suit pending therein and it shall be lawful for the Commission to send, in the event  
+ of its inability to execute it, such order to the High Court or the principal civil court, as the case  
+ may  be, within the local limits of whose jurisdiction,—
+	 (a)	 in	 the	case	of	an	order	against	a	person	referred	to	in	sub-clause	(iii)	or	sub-clause	(vi)	or 
+	 	 subclause	 (vii)	of	clause	(l)	of	section	2,	the	registered	office	or	the	sole	or	principal	place 
+	 	 of	 business	of	the	person	in	India	or	where	the	person	has	also	a	subordinate	office,	that 
+	 	 subordinate	office,	is	situated;
+ (b) in the case of an order against any other person, the place, where the person concerned  
+  voluntarily  resides  or carries on business or personally works for gain, is situated, and  
+  thereupon the court to which the order is so sent shall execute the order as if it were a  
+  decree or order sent to it for execution.”
+(36)
+	 	 tax	 	 and	 	 	 	sums	 	imposed	 by	 way	 of	 penalty,	 	fine,	 and	 interest	 under	 	the	 	 
+	 	 Income–tax	 Act,	1961		(43		of	1961)		and		to	the		Commission	instead	of	the		
+	 	 Assessing	Officer.
+Explanation 1 –	 Any	reference	to	sub-section	(2)	or	sub-section	(6)	of	section	220	of	
+the	income-tax	Act,	1961		(43	of	1961),		in	the		said		provisions	of	that		Act	or	the		rules	
+made	thereunder	shall	be	construed	as	references	to	sections	43	to	45	of	this	Act.
+Explanation 2 	 –		The		T ax		Recovery	Commissioner		and		the		T ax		Recovery	Officer	
+referred	to	in	the	Income-tax	Act,	1961		(43	of	1961)		shall		be		deemed	to	be		the		T ax	
+Recovery	Commissioner	and	the		T ax	Recovery	Officer	for	the		 purposes	of	recovery	
+of  sums  imposed by  way  of  penalty   under  this  Act  and  reference made by  the 
+Commission	under		sub-section	(2)	would	amount	to	drawing		of		a	certificate		by	the	
+T ax	Recovery	Officer	as	far	as	demand	relating	to	penalty		under		this	Act.
+Explanation 3 –	Any	reference	to	appeal	in	Chapter	XVIID	and		the	Second	Schedule	to	 	
+the		Income-tax	Act,		1961		(43		of		1961),		shall		be		construed	as	a		reference	to	appeal	
+before		the	Competition		Appellate		Tribunal	under		section	53B	of	this	Act.]
+6640.	 	 	[Omitted	 by	the Competition	 	(Amendment)	Act,	 2007]	 (39	 of	 2007	 with	 effect	 
+	 					from	12th	October	2007)
+66			 Prior	to	omission,	section	40	read	as	under:-
+	 “Any	 person	aggrieved	by	any	decision	or	order	of	the	Commission	may	file	an	appeal	to	the 
+ Supreme Court within sixty days from the date of communication of the decision or order of the  
+	 Commission	 to	him	on	one	or	more	of	the	grounds	specified	in	section	100	of	the	Code	of	Civil 
+	 Procedure,	 1908	 (5	 of	 1908):	 Provided	 that	 the	 Supreme	 Court	 may,	if	 it	 is	 satisfied	 that	 the 
+	 appellant	 was	prevented	by	sufficient	cause	from	filing	the	appeal	within	the	said	period,	allow 
+	 it	 to	be	filed	within	a	further	period	 not	exceeding	 sixty	days:	Provided	further	that	no	appeal 
+ shall lie against any decision or order of the Commission made with the consent of the parties.”
+(37)
+67		 Ins.	by	Competition	(Amendment)	 Act,	2007
+CHAPTER  V
+DUTIES OF DIRECTOR GENERAL
+Director General to investigate contravention
+41. (1)   The  Director  General shall,  when  so  directed by  the  Commission,  
+  assist  the Commission in investigating into any contravention of the  
+  provisions of this Act or any rules or regulations made thereunder.
+ (2)   The  Director  General  shall  have   all  the  powers as  are   conferred  
+	 	 upon	the	Commission	under		subsection	(2)	of	section	36.
+	 (3)		 Without	 prejudice	 to	 the	 	provisions	 of	 sub-section	 (2),	 sections	 240	 	and 
+	 	 240A 	of	the		 Companies		 Act,		 1956			 (1		 of		 1956),			 so		 far		 as	may		 be,	 
+  shall  apply  to  an investigation made  by  the  Director  General or  any 
+  other  person  investigating under  his authority,  as they apply to an  
+  inspector appointed under  that Act.
+67[Explanation.—For	the	purposes	of	this	section,	--
+ (a)  the  words  “the Central  Government” under  section 240  of the 
+	 	 Companies	 Act,1956	(1	of	1956)	shall	be	construed	as	“the	Commission”;
+	 (b)		 the		 word		“Magistrate”		under			section	240A		of		the		Companies	Act,		1956 
+	 	 (1	 of1956)	 shall	 be	 construed	 as	 “the	 Chief	 Metropolitan	 	 Magistrate,	 
+  Delhi”.]
+(38)
+CHAPTER  VI 
+PENALTIES
+Contravention of orders of Commission
+68[42.(1) The Commission may cause an inquiry to be made into compliance of its  
+  orders or directions made in exercise of its powers under  the Act.
+ (2)  If  any  person, without  reasonable clause, fails  to  comply  with  the  
+	 	 orders	 or	directions	of	the	Commission	issued	under		sections	27,		28,		31, 
+	 	 32,	 	 33,	 	42A	 and	 43A	 of	 the	Act,	 he	 shall	 be	 punishable	 with	 fine	 which 
+  may extend to rupees one lakh  for  each   day   during   which  such  
+	 	 non-compliance	 occurs,	 	 subject	 	 to	 	 a	 maximum	 	 of	 rupees	 ten	 crore,	 
+  as the Commission may determine.
+ (3)  If any person does not comply with the orders or directions issued, or fails 
+	 	 to	 pay	the			 fine			 imposed			 under			 sub-section		 (2),		 he			 shall,			 without 
+	 	 prejudice	 	 to	 	 any	 proceeding	 under	 	 section	 39,	 	 be	 	 punishable	 with 
+	 	 imprisonment	 for	 a	 term	 	which	 may	 	extend	 to	 three	 	years,	 or	 with	 fine 
+	 	 which	 may		 extend	to	rupees	twenty-five	crore,		 or	with	both,	as	the	Chief	 
+	 	 Metropolitan		Magistrate,	Delhi	may	deem	fit:
+  Provided that  the  Chief Metropolitan  Magistrate, Delhi shall  not take 
+	 	 cognizance	 of	 any	 offence	 under	 	 this	 section	 save	 on	 a	 complaint	 	 filed 
+	 	 by	the	Commission	or	any	of	its	officers	authorized	by	it.]
+69[Compensation in case of contravention of orders of Commission]
+70[42A.   Without  prejudice  to  the   provisions  of  this  Act,  any   person  may
+make an application to the  Appellate Tribunal for an order for the recovery 
+of compensation from any  enterprise for any  loss  or damage shown  to have  
+been suffered, by  such  person as a  result  of the  said  enterprise violating  
+68			 Subs.	by	Competition	(Amendment)	Act,	2007	for:
+ “(1) Without prejudice to  the provisions of  this Act, if any person contravenes, without any  
+  reasonable  ground, any order of the Commission, or any condition or restriction subject  
+  to which any approval, sanction, direction or exemption in relation to any matter has been  
+  accorded, given, made or granted under this Act or fails to pay the penalty imposed under 
+  this Act, he shall be liable to be detained in civil prison for a term which may extend to  
+  one year, unless in the meantime the Commission directs his release and he shall also  
+  be liable to a penalty not exceeding rupees ten lakhs.
+ (2) The Commission may, while making an order under this Act, issue such directions to any  
+  person or authority, not inconsistent with this Act, as it thinks necessary or desirable, for  
+  the proper implementation or execution of the order, and any person who commits  
+  breach of, or fails to comply with, any obligation imposed on him under such direction,  
+  may be ordered by the Commission to be detained in civil prison for a term not exceeding  
+  one year unless in the meantime the Commission directs his release and he shall also be  
+  liable to a penalty not exceeding rupees ten lakhs.”
+69			 Ins.	by	Competition	(Amendment)	Act,	2007
+70			 Ins.	by	Competition	(Amendment)	Act,	2007
+(39)
+directions issued by the  Commission or contravening, without any  reason -
+able ground,  any decision or order  of the Commission issued under  sections 
+27,	28,	31,	32	and		 33	or	any		 condition		 or	restriction		 subject	to	which	any	 	
+approval,  sanction, direction or  exemption  in  relation   to  any  matter   has   
+been  accorded,  given,   made  or granted under  this Act or delaying  in car-
+rying  out such  orders  or directions of the Commission.]
+Penalty for failure to comply with directions of Commission and Director General
+71[43.   If  any  person fails to comply,  without  reasonable cause, with a  direction   
+  given by—
+	 	 	 (a)	 the	Commission	under		sub-sections	(2)	and		(4)	of	section		36;	or
+	 	 	 (b)		 the	 Director	General	while	exercising	powers	referred	to	in	sub-section 
+    (2)of section 41,
+such		person	shall		be		punishable	with	fine	which	may		extend	to	rupees	one		lakh	for	
+each day during which such  failure continues subject to a maximum  of rupees one  
+crore,  as may be determined by the Commission.]
+72[Power to impose penalty for non-furnishing of information on  combinations]
+73[43A. If any person or enterprise who fails to give notice  to the Commission under  
+	 	 sub-	 section(2)		 of			 section		 6,		 the			 Commission		 shall			 impose		 on			 such 
+  person  or enterprise a penalty  which  may  extend to one  percent,  of the 
+  total turnover  or the assets,  whichever is higher, of such  a combination.]
+Penalty for making false statement or omission to furnish material information
+44.  If any person, being  a party to a combination,—
+ (a)   makes a statement which is false  in any material  particular,  or knowing it 
+   to be false;  or
+ (b)  omits to state any material  particular  knowing it to be material,
+ such  person shall  be  liable to a penalty  which shall  not be  less  than rupees  
+	 fifty	 lakhs		but	which	may		extend	to	rupees	one		crore,		as	may		be	determined	by	 
+ the Commission.
+71			 Subs.	by	Competition	(Amendment)	Act,	2007	for:
+ “If any person fails to comply with a direction given by—
+	 (a)		 the	Commission	under	sub-section	(5)	of	section	36;	or
+	 (b)		 the	 Director	General	while	exercising	powers	referred	to	in	sub-section	(2)	of	section	41, 
+  the Commission shall impose on such person a penalty of rupees one lakh for each day  
+  during which such failure continues.”
+72			 Ins.	by	Competition	(Amendment)	Act,	2007
+73			 Ins.	by	Competition	(Amendment)	 Act,	2007
+(40)
+Penalty for offences in relation to furnishing of information
+74[45.(1) Without prejudice to the  provisions of section 44,  if a person, who  
+  furnishes or is   required   to   furnish   under    this   Act   any   particulars,  
+  documents   or   any information,—
+  (a)  makes any  statement or furnishes any  document  which he  knows 
+   or has  reason to believe  to be false  in any material  particular;  or
+  (b)  omits to state any material  fact knowing it to be material;  or
+  (c)  wilfully alters,  suppresses or destroys any document which is 
+   required to be furnished as aforesaid,
+such		person	shall		be		punishable	with	fine		which		may		extend	to		rupees	one	crore	 	
+as may be determined by the Commission.]
+	 (2)		 Without	 prejudice	to	the	provisions	of	sub-section(1),	the	Commission	may 
+	 	 also	pass	such		other	order	as	it	deems	fit.
+Power to impose lesser penalty
+46.		 The	 Commission	 may,	 	 if	 it	 is	 satisfied	 that	 any	 producer,	 seller,	 	 distributor, 
+ trader or  service  provider   included   in  any  cartel,   which  is  alleged to  have 
+ violated section 3, has  made a full and  true disclosure in respect of the alleged  
+ violations and  such  disclosure is vital, impose upon such  producer, seller, 
+	 distributor,		 trader		or	service	provider		a	lesser	penalty		as	it	may		deem	fit,		than 
+	 leviable		under		this	 Act	or		the	rules	or	the	regulations:
+ 
+75[Provided that lesser penalty  shall not be imposed by the Commission in cases 
+	 where	 	 the	 	 report	 	 of	 investigation	 directed	 under	 	 section	 26	 	 has	 	 been 
+ received before making of such disclosure.]
+ Provided further  that  lesser penalty  shall  be  imposed by the  Commission  
+ only  in respect of a producer, seller,  distributor,  trader  or service provider  
+ included  in the cartel,  who 76[has] made the full, true and  vital disclosures  
+ under this section.
+74		Subs.	by	Competition	(Amendment)	Act,	2007	for	:
+ “(1)  Without prejudice to the provisions of section 44, if any person, who furnishes or is  
+  required to furnish under this Act any particulars, documents or any information—
+ (a) makes any statement or furnishes any document which he knows or has reason to  
+  believe to be false in any material particular; or
+ (b) omits to state any material fact knowing it to be material; or
+ (c) wilfully alters, suppresses or destroys any document which is required to be furnished as  
+  aforesaid, the Commission shall impose on such person a penalty which may extend to  
+  rupees ten lakhs.”
+75		Subs.	by	Competition	(Amendment)	Act,	2007	for:
+	 “Provided	 that	 lesser	 penalty	 shall	 not	 be	 imposed	 by	 the	 Commission	 in	 cases	 where	 
+ proceedings for the violation of any of the provisions of this Act or the rules or has the regulations 
+	 have	 been	 instituted	 or	 any	 investigation	 has	 been	 directed	 to	 be	 made	 under	 section	 26	 
+	 before	making	of	such	disclosure:”
+76		Subs.	by	Competition	(Amendment)	Act,	2007	for	“first”
+(41)
+77[Provided also  that  lesser penalty  shall  not be  imposed by the  Commission if the   
+person  making   the   disclosure does  not  continue  to  cooperate  with  the Commis-
+sion till the completion of the proceedings before  the Commission.]
+Provided also		 that		 the		 Commission	may,		if		 it	is		 satisfied			 that		 such			 producer,	
+seller,  distributor,  trader   or  service provider  included   in  the  cartel  had  in  the 
+course of proceedings,—
+ (a)  not complied  with the condition  on which the lesser penalty  was  imposed  
+  by the Commission; or
+ (b)  had  given false  evidence; or
+ (c)  the disclosure made is not vital,
+and  thereupon such  producer, seller,  distributor,  trader  or service provider  may be 
+tried for the offence  with respect to which the lesser penalty  was  imposed and shall  
+also  be  liable to the  imposition  of penalty  to which such  person has  been liable, had  
+lesser penalty  not been imposed.
+Crediting sums realised by way of penalties to Consolidated Fund of India
+47.  All sums realised by  way  of penalties under  this  Act shall  be  credited to  the  
+ Consolidated Fund of India.
+Contravention by companies
+48. (1)  Where  a person committing  contravention of any  of the  provisions of this 
+  Act  or of any  rule, regulation, order  made or direction  issued thereunder  
+  is a company, every person who, at the  time the  contravention was 
+  committed, was  in charge of, and  was  responsible to the  company  for  the 
+  conduct of the  business of the company, as  well  as  the   company,  shall  
+  be  deemed   to  be   guilty  of  the contravention  and   shall  be   liable   to 
+	 	 be	proceeded		against		and			punished	accordingly:
+  Provided	that		 nothing		 contained	in	this	sub-section	shall		 render	any	such 
+  person liable  to  any  punishment  if  he  proves that  the  contravention  was 
+  committed  without his knowledge or that  he  had  exercised  all due 
+  diligence to prevent the commission of such  contravention.
+	 (2)		 Notwithstanding	 anything	 contained	 in	 sub-section	 (1),	 where	 a 
+  contravention of any of the provisions of this Act or of any rule, regulation,  
+  order  made or direction issued thereunder has  been committed  by a 
+  company and  it is proved  that  the contravention  has    taken    place    with 
+  the   consent  or   connivance  of,   or   is attributable to  any  neglect on  the 
+	 	 part		 of,	any		director,		manager,		secretary		or	other		officer	of	the		company, 
+	 	 such	 	 director,	 	manager,	secretary	or	other	 	officer	shall	 	also	 	be	deemed 
+  to be  guilty of that  contravention and  shall  be  liable  to be proceeded  
+  against and punished accordingly.
+Explanation.—For the purposes of this section,—
+	 (a)	 ”company”	 means	 	 a	 body	 	 corporate	 and	 	 includes	 a	 firm	 or	 other 
+  association of individuals; and
+	 (b)	 ”director”,	in	relation	to	a	firm,	means	a	partner	in	the	firm.
+77			 Ins.	by	Competition	(Amendment)	Act,	2007
+(42)
+CHAPTER  VII 
+COMPETITION ADVOCACY
+Competition Advocacy 
+49. 78[(1) The Central  Government may,  in formulating  a policy on competition  
+  (including review   of   laws   related  to   competition)  or  any   other 
+  matter,  and   a   State Government may,  in formulating  a policy on  
+  competition or on any  other  matter, as  the  case may  be,  make   a 
+  reference to  the  Commission for its  opinion  on possible  effect  of  such 
+  policy  on  competition  and   on  the  receipt   of  such   a reference, the 
+  Commission shall, within sixty days  of making  such reference, give its 
+  opinion to the Central  Government, or the State Government, as the case 
+	 	 may	be,	which	may	thereafter	take		further	action		as	it	deems	fit.]
+	 (2)		 The		 opinion	given		by	the		Commission	under		sub-section	(1)	shall		not	be 
+  binding upon  the Central Government 79	[or the  State Government, as the 
+  case may  be] in formulating such policy.
+ (3)   The   Commission  shall   take   suitable measures  80[***]  for  the 
+  promotion of competition advocacy, creating awareness and imparting  
+  training about competition issues.
+78			 Subs.	by	Competition	(Amendment)	Act,	2007	for:
+ “(1)   In formulating a policy on competition (including review of laws related to competition), the 
+  Central Government may make a reference to the Commission for its opinion on possible  
+  effect of such policy on competition and on receipt of such a reference, the Commission  
+  shall, within sixty days of making such reference, give its opinion to the Central  
+	 	 Government,	which	may	thereafter	formulate	the	policy	as	it	deems	fit.”
+79			 Ins.	by	Competition	(Amendment)	Act,	2007
+80			 The	words	“as	may	be	prescribed”	omitted	by	Competition	(Amendment)	Act,	2007
+(43)
+CHAPTER  VIII
+FINANCE, ACCOUNTS  AND AUDIT 
+Grants by Central Government
+50.		 The	 	 Central	 	Government	 may,	 	after	 	due	 	appropriation	made	 by	Parliament 
+ by law in this behalf, make  to the Commission grants of such  sums of money 
+	 as	the	Government	may	think	fit	for	being		utilised	for	the	purposes	of	this	 Act.
+Constitution of Fund
+51. (1)  There  shall  be  constituted a fund to be  called  the  “Competition  Fund”   
+  and there  shall be credited thereto—
+  (a)  all Government grants received by the Commission;
+  81(b)	[Omitted	by	Competition		(Amendment)	Act,	2007]	
+  (c)  the fees received under  this Act;
+  (d)  the interest accrued on the amounts referred to in 82[clauses (a) and (c)].  
+ (2)  The Fund shall be applied  for meeting—
+  (a)  the  salaries  and  allowances  payable  to   the  Chairperson  and 
+   other Members and the  administrative expenses  including the salaries,  
+   allowances and  pension payable to the Director General, Additional,  
+   Joint, Deputy   or  Assistant  Directors   General,  the Registrar and 
+	 	 	 officers		and	other		employees	of	the	Commission;
+  (b)  the other  expenses of the Commission in connection with the discharge  
+   of its functions and for the purposes of this Act.
+ (3) The   Fund   shall   be   administered  by  a  committee  of  such   Members   
+  of  the Commission as may be determined by the Chairperson.
+	 (4)	The	 	 committee	 appointed	 under	 	 sub-section	 (3)	 shall	 	 spend	 monies	 
+  out   of the Fund for carrying out the objects for which the Fund has  been  
+  constituted.
+Accounts and Audit
+52.		 (1)	 The	 	 Commission	 shall	 	 maintain	 	 proper	 	 accounts	 and	 	 other	 	 relevant 
+  records and prepare an annual statement of accounts in such  form as may 
+  be  prescribed by the Central  Government in consultation with the 
+	 	 Comptroller	and		 Auditor-General	of	India.
+81			 Prior	to	omission,	clause	(b)	of	section	51(1)	read	as	under	:-
+ “the monies received as costs from parties to proceedings before the Commission;”
+82			 Subs.	by	Competition	(Amendment)	Act,	2007	for	“clauses	(a)	to	(c)”
+(44)
+ (2) The accounts of the Commission shall be audited by the Comptroller  and 
+	 	 Auditor-	 General		of			India			at			such			intervals			as		may			be			specified		by 
+  him  and   any expenditure  incurred   in  connection  with  such   audit   shall  
+	 	 be		 payable		 by		 the	Commission	to	the	Comptroller		 and	Auditor-General	of 
+  India.
+Explanation.—For the removal  of doubts, it is hereby declared that  the orders of the 
+Commission, being  matters appealable to the  83[Appellate  Tribunal  or the  Supreme 
+Court], shall not be subject to audit under  this section.
+	 (3)	 The	 Comptroller	 	 and	 	 Auditor-General	 of	 India	 and	 	 any	 other	 	 person 
+  appointed by him in  connection with the  audit  of the  accounts of the  
+  Commission shall  have  the  same  rights,  privileges  and  authority  in  
+	 	 connection	 with	 such	 	 audit	 	 as	 the	 Comptroller	 	 and	 	Auditor-General	 	 of 
+  India generally has, in connection with the audit  of  the  Government 
+  accounts and,   in  particular,  shall  have   the  right  to demand  the 
+  production  of  books,   accounts, connected   vouchers  and   other 
+	 	 documents	and		papers	and		to	inspect	any	of	the	offices	of	the	Commission.
+	 (4)		 The	 	 accounts	 of	 the	 	Commission	 as	 	certified	 	by	 	the	 	Comptroller	 	and 
+	 	 Auditor-	 General	of	India	or	any	other		person	appointed	by	him	in	this	behalf 
+  together with the  audit  report  thereon shall  be  forwarded annually  to the 
+  Central  Government and  that  Government shall  cause the  same  to  
+	 	 be		laid		before			each	House	of	Parliament.
+Furnishing of returns, etc., to Central Government
+53.  (1)  The  Commission shall  furnish  to the  Central  Government at  such  time 
+and  in such  form and manner as may be prescribed or as the Central  Gov-
+ernment may direct,   such   returns and   statements  and   such   particulars  
+in  regard  to  any proposed  or  existing   measures  for  the   promotion   of  
+competition advocacy, creating  awareness   and   imparting   training   about  
+competition issues,  as  the Central  Government may, from time to time, 
+require.
+ (2)  The Commission shall prepare once  in every  year,  in such  form and  at such
+time as may  be  prescribed, an  annual report  giving  a  true  and  full account 
+of  its activities during  the  previous year  and  copies of the  report  shall  be  
+forwarded to the Central  Government.
+	 (3)		 A 	copy	of	the	report	 	received	under	 	sub-section	(2)	shall	be	laid,	as	soon 
+	 	 as	may	be	after	it	is	received,	before		each	House	of	Parliament.
+83		Subs.	by	Competition	(Amendment)	Act,	2007	for	“Supreme	Court”
+(45)
+84		“Chapter	VIIIA”	Inserted	by	Competition	(Amendment)	Act,	2007
+84[CHAPTER VIIIA 
+APPELLATE TRIBUNAL
+Establishment of Appellate Tribunal:
+53A. (1)  The National Company Law Appellate Tribunal constituted under section 
+410 of the companies Act, 2013 shall, on and from the commencement of Part XIV of 
+Chapter VI of the Finance Act, 2017, be the Appellate Tribunal for the purpose of this 
+Act and the said appellate Tribunal shall –
+  (a)  to hear  and  dispose of appeals against any  direction  issued or  
+   decision made or order passed by the  Commission under  sub-sections  
+   (2) and  (6) of section 26,  section 27,  section 28,  section 31,  section 
+   32,  section 33, section 38,  section 39,  section 43,  section 43A,  
+   section 44,  section 45 or section 46 of the Act;
+  (b)  to adjudicate on claim for compensation that may arise  from the 
+	 	 	 findings	 of	the		 Commission		 or		 the		 orders	of		 the		Appellate			 Tribunal 
+	 	 	 in		 an		 appeal	against	any	finding	of	the	Commission	or	under		 section 
+   42A  or under  sub- section(2) of section 53Q  of this Act, and  pass 
+   orders for the  recovery of compensation under  section 53N of this Act.
+Appeal to Appellate Tribunal
+53B. (1) The  Central   Government  or  the   State  Government or  a  local  authority 
+  or enterprise or any person, aggrieved  by any direction,  decision or order 
+	 	 referred	 to	in	clause	(a)	of	section	53A	may	prefer	an	appeal	to	the	Appellate 
+  Tribunal.
+	 (2)		 Every		 appeal	under		 sub-section	(1)	shall	be		 filed	within	a		 period		 of	sixty	
+days  from the  date  on which a copy  of the  direction  or decision or order  
+made by the Commission is received by the Central  Government or the  State 
+Government or a local authority  or enterprise or any  person referred to in that  
+sub-section	and		it	shall	be	in	such		form	and		be	accompanied	by	such		fee	
+as	may	be	prescribed:
+Provided that  the  Appellate  Tribunal  may  entertain  an  appeal after the  
+expiry	of	the	said	period	of	sixty	days		if	it	is	satisfied	that	there		was		sufficient	
+cause	for	not	filing	it	within	that	period.
+	 (3)		 On	 receipt		of	an		appeal	under		sub-section	(1),	the		Appellate		Tribunal		may,	
+after giving the parties to the  appeal, an  opportunity  of being heard, pass 
+such		 orders	thereon		 as	it		 thinks			 fit,		 confirming,			 modifying		 or		 setting	 	 	
+aside  the   direction, decision or order appealed against.
+(46)
+ (4) The  Appellate Tribunal  shall  send a  copy  of  every   order  made by  it to   
+  the Commission and  the parties to the appeal.
+	 (5)		The	 	 appeal	 filed	 before	 	 the	 	 Appellate	 	 Tribunal	 	 under	 	 sub-section	 (1) 
+  shall  be dealt  with by it as expeditiously as possible and  endeavour shall  
+  be  made by it to dispose of the appeal within six months from the date  of 
+  receipt  of the appeal.
+[Omitted by the Finance Act, 2017, w.e.f. 26th May, 2017]
+Awarding compensation
+53N.(1) Without   prejudice  to  any  other   provisions contained  in  this  Act,  the  
+Central  Government or a State Government or a local authority  or any 
+enterprise or any person may make  an application to the Appellate  Tribunal  
+to	adjudicate	on	claim	for		compensation	that		may		arise		from		the		findings	 	
+of  the  Commission or  the orders  of  the   Appellate   Tribunal   in  an   appeal   
+against		 any			 findings			 of		 the	Commission	or	under		 section	42A	or	under	 	
+sub-section(2)	of	section	53Q		of	the	Act,	and		to	pass	an		order		for	the		re-
+covery of compensation from any enterprise for any loss  or damage shown  to 
+have  been suffered, by the Central  Government or a State Government or a 
+local authority  or any  enterprise or any  person as a result  of any contraven-
+tion of the provisions of Chapter II, having  been committed  by enterprise.
+	 (2)		Every			 application	made		 under			 sub-section		 (1)		 shall			 be		 accompanied 
+	 	 by	 the	findings		 of	the	Commission,	if	any,		and		 also		 be		 accompanied	with 
+  such  fees  as may be prescribed.
+ (3)  The Appellate  Tribunal may,  after an inquiry made into the allegations 
+mentioned	in		the		application	made		under			sub-section		(1),		pass		an	order	 	 	 
+directing   the enterprise to make payment to the  applicant, of the  amount de-
+termined by it as realisable from the enterprise as compensation for the loss 
+or damage caused to the  applicant as a  result  of any  contravention  of the  
+provisions	of	Chapter	II	having		been	committed		by	such		enterprise:
+  Provided that  the Appellate Tribunal  may  obtain  the recommendations of 
+  the Commission before  passing an order of compensation.
+	 (4)		Where	 	 any	 	 loss	 	 or	 damage	 referred	 to	 in	 sub-section	 (1)	 is	 caused	 to
+numerous persons having  the  same interest, one  or more  of such  persons 
+may,  with the permission of the Appellate Tribunal,  make  an application 
+under		that	sub-section	for		and			on		behalf			of,		or		for		the		benefit		of,		the	 	
+persons	so	interested,	and	thereupon,	the	provisions	of	rule	8	of	Order	1	of	
+the	First	Schedule	to	the	Code		of	Civil	Procedure,		1908		(5		of	1908),		shall	 	
+apply		subject	to		the		modification		that	every		reference	therein		to	a		suit	or	
+decree shall  be  construed as a  reference to the  application  before   the  
+Appellate   Tribunal  and   the  order   of  the  Appellate  Tribunal thereon.
+Explanation.—For the removal  of doubts, it is hereby declared that—
+ (a)   an  application may  be  made for compensation before  the  Appellate   
+(47)
+Tribunal only  after  either  the  Commission or  the  Appellate  Tribunal  on  
+appeal	under	clause	(a)		 of		 sub-section(1)	of		 section	53A	of		 the		Act,		 has	 	 	
+determined in  a proceeding before  it that  violation of the provisions  of the  
+Act	has		taken		place,	or	if	provisions	of	section		42A	or	sub-section(2)	of		sec-
+tion	53Q		of	the		Act	are	attracted.
+	 (b)		enquiry	 	 	 to	 	be	 	 	conducted	 	under	 	 	sub-section(3)	 	shall	 	 	be	 	 	for	 	the	 
+  purpose  of determining  the  eligibility  and   quantum  of  compensation  due 
+  to  a  person applying   for  the   same,   and  not  for  examining afresh  the  
+	 	 findings	 	 	 of	 	the	 Commission	 or	 the	 	Appellate	 	Tribunal	 	on	 	whether	 any 
+  violation  of the  Act has  taken  place.
+Procedures and powers of Appellate Tribunal
+53O.(1) The Appellate  Tribunal shall  not be  bound  by the  procedure  laid down  in 
+the	Code	of	Civil	Procedure,	1908		(5	of	1908),		but	shall		be		guided		by	the	 	
+principles  of natural  justice  and,  subject to the  other  provisions of this Act 
+and  of any  rules made by  the  Central  Government, the  Appellate  Tribunal  
+shall  have  power  to regulate its own procedure including   the  places at  
+which they  shall  have  their sittings.
+ (2)  The  Appellate  Tribunal  shall  have,  for the  purposes  of discharging its  
+  functions  under  this Act, the  same powers as are  vested in a civil court 
+  under  the  Code  of
+	 	 Civil	 Procedure,	1908		(5	of	1908)		while	trying	a		suit	in	respect	of	the		following 
+	 	 matters,	namely:-
+  a)  summoning and  enforcing  the  attendance of any  person and  examining 
+   him on oath;
+  b)  requiring  the discovery and  production of documents;
+	 	 c)		 receiving		evidence	on	affidavit;
+  d)  subject  to the  provisions of sections 123  and  124  of the  Indian  Evidence 
+	 	 	 Act,		 1872		(1		of	1872),		requisitioning	any		public		record		or		document	or 
+	 	 	 copy	of	such		record		or	document	from	any	office;
+  e)  issuing  commissions for the examination of witnesses or documents;
+  f) reviewing   its decisions;
+  g)  dismissing a representation for default  or deciding  it ex parte;
+  h)  setting  aside any  order  of dismissal of any  representation for default   
+   or any order passed by it ex parte;
+  i) any other  matter  which may be prescribed.
+ (3)   Every  proceedings before  the  Appellate  Tribunal  shall  be  deemed to be
+judicial	proceedings	within	the	meaning	of	sections	193	and		228,	and		for	the	
+purposes	of	section	196,		of	the		Indian		Penal	Code		(45	of	1860)		and		the	 	
+Appellate  Tribunal shall  be  deemed to be  a civil court  for the  purposes 
+(48)
+of	 section	 195	 	 and	 	 Chapter	 XXVI	 of	 the	 Code	 	 or	 Criminal	 Procedure,	 
+1973	(2	of	1974).
+Execution of orders of Appellate Tribunal
+53P.(1) Every order  made by the  Appellate  Tribunal  shall  be  enforced by it in  t h e 
+  same manner as if it  were  a decree made by a court  in a suit pending 
+therein,  and  it shall be lawful for the Appellate Tribunal to send, in case of its inability 
+to	execute	such		order,		to	the	court	within	the	local	limits	of	whose	jurisdiction,-
+	 	 a) 		 in	the		case	of	an		order		against	a		company,	the		registered	office	of	the		
+   company is situated; or
+  b)  in the  case of an  order  against any other  person, place  where the 
+   person concerned  voluntarily resides or carries on business or 
+   personally works for gain, is situated.
+	 (2)		Notwithstanding	 anything	 	 	 contained	 in	 	 sub-section	 	 (1),	 	 the	 	 Appellate 
+  Tribunal may  transmit  any order  made by it to a  civil court  having  local  
+  jurisdiction  and such civil court shall execute the order as if it were a decree  
+  made by that court.
+Contravention of orders of Appellate Tribunal
+53Q.(1) Without prejudice  to  the   provisions  of  this  Act,  if  any   person contravenes, 
+without any reasonable ground,  any  order  of the  Appellate  Tribunal,  
+he  shall  be liable for a penalty  of not exceeding rupees one  crore  or 
+imprisonment for a term up  to three  years or with both  as the  Chief 
+Metropolitan		Magistrate,	Delhi	may	deem	fit:
+Provided that  the  Chief Metropolitan  Magistrate, Delhi shall  not take  cogni-
+zance	of	any	offence	punishable	under		this	sub-section,	save	on	a	complaint	 	
+made	by	an	officer	authorized	by	the	Appellate		Tribubnal.
+ (2)  Without  prejudice  to  the   provisions  of  this  Act,  any   person  may   make
+an application to the  Appellate  Tribunal  for an  order  for the recovery 
+of compensation from any  enterprise for any  loss  or damage shown  to have 
+been suffered, by such person as a result  of the  said  enterprise contraven -
+ing, without any   reasonable  ground,  any  order   of  the   Appellate   Tribunal   
+or  delaying   in carrying out such  orders of the Appellate Tribunal.
+53R.		 [Omitted	by	the	finance	 Act,	2017,	w.e.f.	26th	May,	2017]
+Right to legal representation
+53S.(1)  A  person preferring  an  appeal to the  Appellate  Tribunal  may  either  appear
+in	person	or	authorize	one		or	more		chartered	accountants	or	company	secre-
+taries	or	cost		accountants	or	legal	practitioners	or	any	of	its	officers	to	present	
+his or its case before  the Appellate  Tribunal.
+ (2)  The  Central   Government  or  a  State  Government or  a  local  authority   or
+any enterprise  preferring  an  appeal to the  Appellate  Tribunal  may  
+authorize	one		or	more		chartered	accountants	or	company	secretaries	or	cost	 	
+(49)
+accountants	or	legal	practitioners	or	any		of	its	officers		to	act		as	presenting	
+officers	 	and	 	every	 	person	 so	 	authorized	 	may	 	present	 	the	 	case	 	with	 	
+respect  to  any  appeal  before   the Appellate  Tribunal.
+	 (3)		The	 	 Commission	 may	 	 authorize	 one	 	 or	 more	 	 chartered	 accountants	 or 
+  company secretaries  or cost  accountants or legal  practitioners or any  of its  
+	 	 officers	 	 to	 act	 as	 presenting	 officers	 and	 every	 	person	 so	 authorized	 may 
+  present the case with respect to any appeal before  the Appellate Tribunal.
+Explanation –  The  expressions  “chartered accountant” or  “company  secretary” or 
+“cost   accountant”  or  “legal  practitioner”   shall   have   the   meanings  respectively 
+assigned to them  in the Explanation	to	section	35.
+Appeal to Supreme Court
+53T.  The  Central  Government or any  State  Government or the  Commission or
+any statutory   authority  or  any   local   authority   or  any   enterprise  or  
+any   person aggrieved by any decision or order of the Appellate  Tribunal may 
+file	an	appeal	to	the		Supreme	Court		within		sixty		days		from		the		date			 of	 	
+communication of  the decision or order of the Appellate  Tribunal to them;
+Provided	that		the		Supreme	court		may,		if		it	is		satisfied	that		the		applicant	
+was	 prevented	 by	 sufficient	 cause	 from	 filing	 the	 appeal	 within	 the	 said 
+period,		allow	it	to	be	filed	after	the	expiry	of	the	said	period	of	sixty	days.
+Power to Punish for contempt
+53U.  The  Appellate  Tribunal  shall  have,  and  exercise, the  same jurisdiction,
+powers and  authority  in  respect of  contempt of  itself  as a  High  Court  has   
+and  may exercise and,  for this  purpose,  the  provisions of the  Contempt 
+of	Courts		 Act,	1971	(70	of	1971)	shall	have		 effect	subject	to	modifications	
+that,--
+  (a)  the  reference therein  to a  High Court  shall  be  construed as including  
+   a reference to the Appellate  Tribunal;
+	 	 (b)		 the		 references	to	the		Advocate-General	in	section	15	of	the		 said		Act 
+	 	 	 shall	 be			construed			as		a			reference		to			such				Law			Officer			as		the 
+	 	 	 Central		Government	may,	by	notification,	specify	in	this	behalf.	]
+(50)
+CHAPTER  IX 
+MISCELLANEOUS
+Power to exempt
+54.			 The	 Central		 Government	may,		by	notification,		 exempt	from	the	application 
+  of this Act,  or  any  provision  thereof, and  for  such   period  as it may 
+	 	 specify			 in		such		notification—
+  (a)  any  class of enterprises if such  exemption is necessary in the  interest 
+   of security  of the State or public interest;
+  (b)  any  practice  or  agreement arising   out  of  and   in  accordance with 
+   any obligation  assumed by India  under  any  treaty,  agreement or 
+   convention with any other  country or countries;
+  (c) any  enterprise  which  performs  a  sovereign  function   on  behalf   of   
+	 	 	 the	Central		Government	or	a	State	Government:
+Provided that  in  case an  enterprise is  engaged in  any  activity  including  the activity  
+relatable to  the  sovereign functions   of  the  Government,  the  Central Government 
+may  grant   exemption only  in  respect of  activity  relatable to  the sovereign functions.
+Power of Central Government to issue directions
+55.(1)    Without prejudice to the foregoing  provisions  of this Act, the Commission shall,
+in exercise of  its  powers or  the  performance of  its  functions   under  this  
+Act,  be bound   by  such   directions on  questions of policy,  other  than  those 
+relating  to technical and  administrative matters, as  the  Central   Govern-
+ment	may		give		in	writing	to	it	from	time	to	time:
+Provided  that   the   Commission  shall,   as  far   as  practicable, be   given   
+an opportunity   to  express its  views  before   any  direction  is  given  under   
+this		sub-	section.
+ (2)  The decision of the Central  Government whether a question is one  of policy  
+	 	 or	not	shall	be	final.
+Power of Central Government to supersede Commission
+56.  (1)  If at any time the Central  Government is of the opinion—
+  (a)  that on account of circumstances beyond the control of the Commission,  
+   it is unable to discharge the functions  or perform  the duties  imposed  
+   on it by or under  the provisions of this Act; or
+  (b)  that  the  Commission has  persistently made default  in complying  with
+any direction   given   by  the   Central   Government  under   this  Act  or  in  
+the discharge of the functions or performance of the duties  imposed on it 
+by or under  the provisions of this Act and  as a result  of such  default  the 
+financial	position		of	the		Commission	or	the		administration	of		the		Com-
+mission has  suffered; or
+(51)
+  (c)  that circumstances exist which render it necessary in the public  
+   interest so to do, 
+	 the		 Central		 Government	may,		by	notification		 and	for	reasons	to	be		 specified 
+ therein, supersede the  Commission for such  period,  not exceeding six months, 
+	 as	may	be	specified	in	the	notification:
+Provided that		before			issuing			any		such			notification,		the		Central			Government	
+shall give a reasonable opportunity  to the Commission to make  representations 
+against the  proposed  supersession and  shall  consider representations, if any, 
+of the Commission.
+	 (2)		Upon		the		publication			of		a		notification		under			sub-section	(1)			 	
+  superseding  the Commission,—
+  (a)  the Chairperson and other Members  shall as from  the date of 
+	 	 	 supersession,	vacate	their	offices	as	such;
+  (b)  all the powers, functions  and  duties  which may,  by or under  the 
+provisions of this Act, be exercised or discharged by or on behalf  of the 
+Commission	shall,			until		the			Commission		is		reconstituted		under			sub-
+section  (3),  be exercised and  discharged by the Central Government or 
+such  authority  as the Central  Government may specify in this behalf;
+  (c)  all  properties  owned   or  controlled   by  the   Commission  shall,   until 
+	 	 	 the	 Commission		 is		 reconstituted	under			 sub-section	(3),		 vest		 in		 the	 
+   Central  Government.
+	 (3)			On		or		before			the			expiration			of		the			period			of		supersession			specified
+in		the	notification	issued	 under	 	 subsection	 (1),	 the	 	 Central	 Government	 
+shall reconstitute the Commission by a fresh  appointment of its Chairperson 
+and  other Members and in such  case any  person who had  vacated his 
+office	under		clause	(a)	of	sub-section	(2)	shall	not	be	deemed	to	be	disquali-
+fied		for	re-appointment.
+		 (4)		The	 	 Central	 	Government	 shall	 	cause	 a	 	notification	 	issued	 under	 	sub- 
+  section (1) and  a  full  report  of any  action  taken  under  this  section and 
+  the  circumstances leading  to such  action  to be laid before  each House of 
+	 	 Parliament	at	the	earliest.
+Restriction on  disclosure of information
+57.  No information  relating  to any  enterprise, being  an  information  which has  been
+obtained by or on behalf  of 
+85[the Commission or the  Appellate  Tribunal] for the 
+purposes of  this  Act,  shall,  without  the  previous permission  in  writing  of  the 
+enterprise, be disclosed otherwise than  in compliance with or for the purposes of 
+this Act or any other  law for the time being  in force.
+85			 Subs.	by	Competition	(Amendment)	 Act,	2007	for	“the	Commission”
+(52)
+86[Chairperson, Members, Director General, Secretary, officers and other 
+employees, etc., to be  public servants]
+87[58.The Chairperson and  other  Members and  the Director General, Additional,
+Joint,	 Deputy	 or	Assistant	 Directors	 	General	 and	 	Secretary	 and	 	officers	 and	 	
+other	employees	of	the	Commission	and		the	Chairperson,	Members,	officers	and	 	
+other employees of the  Appellate  Tribunal  shall  be deemed, while acting  or pur-
+porting to act  in pursuance of any  of the  provisions of this  Act, to  be  public  ser-
+vants	within	the	meaning	of	section	21	of	the	Indian	Penal	Code		(45	of	1860).]
+Protection of action taken in good faith
+59.  No  suit,  prosecution  or  other   legal  proceedings  shall  lie  against  the
+Central		Government		or		Commission	or		any		officer		of		the		Central			Government	
+or	 	the	 Chairperson	 or	 any	 Member	 	or	 the	 Director-	 General,	Additional,	 Joint,	
+Deputy  or Assistant Directors  General or 
+88[the	 Secretary	 or	 officers	 or	 other	 	 	
+employees	of	the		Commission	or	the		Chairperson,	Members,		officers		and		other	 	
+employees of the Appellate  Tribunal] for anything  which is in good  faith done or 
+intended to be done  under  this Act or the rules or regulations made thereunder.
+Act to have overriding effect
+60.		The	 provisions	 of	 this	 Act	 shall	 	 have	 	 effect	 	 notwithstanding	 anything	 
+ inconsistent  therewith contained in any other  law for the time being  in force.
+Exclusion of jurisdiction of civil courts
+61.		No	civil	court	shall	have		jurisdiction	to	entertain	any	suit	or	proceeding	in	respect
+of any  matter which the  
+89 [Commission or the  Appellate  Tribunal] is empowered 
+by or under  this Act to determine and  no injunction shall be granted by any court 
+or other  authority  in respect of any  action  taken  or to be  taken  in pursuance of 
+any power  conferred by or under  this Act.
+86			 Subs.	 by	 Competition	 (Amendment)	 Act,	 2007	 for	 “Members,	 Director	 General,	 Registrar, 
+	 officers	and	other	employees,	etc.	of	Commission	to	be	public	servants”
+87			 Subs.	by	Competition	(Amendment)	Act,	2007	for	:
+ “The Chairperson and other Members and the Director General, Additional, Joint, Deputy or  
+	 Assistant	 Directors	 General	 and	 Registrar	 and	 officers	 and	 other	 employees	 of	 the	 
+ Commission shall be deemed, while acting or purporting to act in pursuance of any of the  
+	 provisions	 of	this	Act,	to	be	public	servants	within	the	meaning	of	section	21	of	the	Indian	Penal 
+	 Code	(45	of	1860).”
+88			 Subs.	 by	Competition	(Amendment)	Act,	2007	for	“the	Registrar	or	officers	or	other	employees 
+ of the Commission”
+89			 Subs.	by	Competition	(Amendment)	 Act,	2007	for	“Commission”
+(53)
+Application of other laws not  barred
+62.  The  provisions  of this  Act shall  be  in addition  to, and  not  in derogation of, 
+ the provisions of any other  law for the time being  in force.
+Power to make rules
+63.	(1)		The			 Central			 Government		 may,			 by		 notification,			 make			 rules			 to		 carry 
+  out  the provisions of this Act;
+ (2) In particular,  and  without prejudice to the generality of the foregoing  power, 
+	 	 such	rules	may	provide	for	all	or	any	of	the	following	matters,	namely:-—
+  
+90[(a)  the term of the Selection Committee and  the manner of selection of  
+	 	 	 	 panel		of	names	under	sub-section	(2)	of	Section	9;]
+  (b)  the  form and  manner in which and  the  authority  before  whom  the 
+	 	 	 	 oath		 of	office	and		of	secrecy	shall		be		made	and		subscribed	to	under 
+	 	 	 	 sub-section	(3)	of	section	10;
+  
+91(c)		 [Omitted	by	Competition		(Amendment)	 Act,	2007.
+  (d)  the  salary and  the other  terms  and  conditions of service 
+    including travelling  expenses,  house  rent   allowance  and 
+    conveyance  facilities, sumptuary   allowance   and  medical facilities    
+    to   be   provided to the Chairperson and  other  Members under   
+	 	 	 	 sub-section	(1)	of	section	14;
+  
+92[(da) the  number of Additional, Joint,  Deputy  or Assistant Directors 
+	 	 	 	 General	 or	such		 officers	or	other		 employees	in	the		 office	of	Director 
+    General and  the manner  in  which  such  Additional,  Joint,  Deputy 
+	 	 	 	 or	 	 Assistant	 	Directors	 	General	 or	 such	 	officers	 or	 other	 employees 
+	 	 	 	 may	be	appointed	under		sub-	section	(1A)	of	section	16;	]
+  (e)  the  salary,  allowances and  other  terms  and  conditions of service 
+    of the Director General, Additional,  Joint,  Deputy  or Assistant 
+    Directors  General or 
+93[such	 officers	 	 or	 	 other	 	 employees]	 under 
+	 	 	 	 sub-section	(3)	of	section16;
+	 	 (f)	 	 the	 qualifications	 for	 appointment	 of	 the	 Director	 General,	 Additional, 
+    Joint, Deputy   or   Assistant  Directors    General  or   94[such 
+	 	 	 	 officers		or		other	employees]	under	sub-section	(4)	of	section	16;
+90			 Subs.	by	Competition	(Amendment)	Act,	2007	for:
+	 “	 the	manner	in	which	the	Chairperson	and	other	Members	shall	be	selected	under	section	9;” 
+91			 Prior	to	omission,	clause	(c)	of	sub-section(2)	of	section	63	read	as	under:-
+	 “the	 financial	 and	 administrative	 powers	 which	 may	 be	 vested	 in	 the	 Member	Administration 
+ under section 13;”
+92			 Ins.	by	Competition	(Amendment)	Act,	2007
+93			 Subs.	by	Competition	(Amendment)	Act,	2007	for	“such	other	advisers,	consultants	or	officers”
+94			 Subs.	by	Competition	(Amendment)	 Act,	2007	for	“such	other	advisers,	consultants	or	officers”
+(54)
+ (g)  the  salaries and  allowances and  other  terms  and  conditions of service  
+   of  the   95	[Secretary]	and			officers			and			other			employees		payable,			
+	 	 	 and		the	number	of	such		officers		and		employees	under		sub-section	(2)		
+	 	 	 of		section17;
+	 96 (h)		 [Omitted	by	Competition		(Amendment)	 Act,	2007]
+ 97(i)		 [Omitted	by	Competition		(Amendment)	 Act,	2007]
+ 98(j)		 [Omitted	by	Competition		(Amendment)	 Act,	2007]
+ (k)  the  form  in  which  the  annual statement of  accounts shall  be  prepared  
+	 	 	 under	sub-section	(1)	of	section	52;
+ (/)  the  time within which and  the  form and  manner in which the 
+   Commission may   furnish   returns, statements  and   such   particulars  
+	 	 	 as	the		Central		Government	may	require	under		sub-section	(1)	of	section			
+	 	 	 53;
+ (m)   the  form in which  and  the  time  within which  the  annual report  shall  be  
+	 	 	 prepared	under	sub-section	(2)	of	section	53;
+ 99[(ma)	the	form	in	which	an		appeal	may		be		filed	before		the		Appellate		Tribunal		
+	 	 	 under		 sub-section	(2)	of	section	53B	and		the		fees		payable	in	respect	of 
+   such  appeal;
+ 
+95			 Subs.	by	Competition	(Amendment)	Act,	2007	for	“Registrar”
+96			 Prior	to	omission,	clause	(h)	of	sub-section(2)	of	section	63	read	as	under:-
+ “for securing any case or matter which requires to be decided by a Bench composed of more  
+	 than	two	Members	under	sub-section	(4)	of	section	23;”
+97			 Prior	to	omission,	clause	(i)	of	sub-section(2)	of	section	63	read	as	under:-
+ “any other matter in respect of which the Commission shall have power under clause (g) of  
+	 sub-section	(2)	of	section	36;”
+98			 Prior	to	omission,	clause	(j)	of	sub-section(2)	of	section	63	read	as	under:-
+ “the promotion of competition advocacy, creating awareness and imparting training about  
+	 competition	issues	under	sub-section	(3)	of	section49;”
+99			 Ins.	by	Competition	(Amendment)	Act,	2007
+(55)
+  (me)  the  fee  which  shall be  accompanied with every  application made under 
+	 	 	 	 sub-section	(2)	of	section		53N;
+	 	 (mf)		 the		 other			matters	under			clause	(i)	of		sub-section(2)		of		section	53O 
+    in respect of which the Appellate  Tribunal shall have  powers under  the  
+	 	 	 	 Code	of	Civil	Procedure,	1908	(5	of	1908)	while	trying	a	suit;]
+  
+100[(n) the   manner  in   which   the   monies   transferred   to   the   Competition 
+    Commission  of India or the  Appellate  Tribunal  shall  be  dealt  with by 
+    the Commission or  the  Appellate Tribunal,  as the  case may  be,  under 
+	 	 	 	 the	fourth	proviso	to	sub-section(2)	of	section	66	;]
+  (o)  any  other  matter  which  is to be,  or may  be,  prescribed, or in 
+    respect of which provision is to be, or may be, made by rules.
+	 (3)		 Every		 notification		 issued	under		 sub-section(3)	of	section	20		 and		 section	
+54		and	every		rule	made	under		this	Act	by	the	Central		Government	shall	be	
+laid,	as	soon		as	may		be		after		it	is		made,	before			 each		House	of		Parlia-
+ment, while  it is  in session, for a total period  of thirty days which may be  
+comprised in one  session, or in two or more  successive sessions, and  if, 
+before  the  expiry of the  session immediately   following  the  session or  the  
+successive	sessions		aforesaid,	both	Houses	agree		in		making			any		modifi-
+cation			in		the		notification		or		rule,		or		both	Houses	agree	that		the		notification	 	
+should		not		be		issued		or	rule		should		not		be	made,	the		notification		or	rule	 	
+shall		thereafter	have		effect		only	in	such		modified	form		or		be			of		no		effect,	 	
+as	the			case	may		be;			so,			however,		that			any			such	modification		or	annul-
+ment shall  be  without  prejudice to the  validity of anything  previously  done  
+under		that	notification	or	rule,	as	the	case	may	be.
+Power to make regulations
+64.	(1)		 The		Commission	may,		by	notification,		make		regulations	consistent	with	this		
+  Act and  the rules made thereunder to carry out the purposes of this Act.
+ (2)  In particular,  and  without prejudice to the  generality of the  foregoing  
+  provisions, such regulations may provide for all or any of the following  
+	 	 matters,	namely:—
+  (a) the   cost   of   production  to   be   determined  under    clause  (b)   of 
+    the Explanation to section 4;
+	 	 (b)		 the			 form		 of		 notice			 as		 may			 be			 specified		 and			 the			 fee			 which 
+	 	 	 	 maybe	determined	under		sub-section(2)	of	section	6;
+	 	 (c)		 the			 form			 in			 which			 details				 of			 the			 acquisition			 shall			 be			 filed 
+	 	 	 	 under		subsection(5)	of	Section	6;
+ 101[(d)	 		 the	procedures	to	be	followed		for	engaging	the	experts	and 	profession-	
+	 	 	 	 als	under		sub-section(3)	of	section	17;
+100			Subs.	by	Competition	(Amendment)	Act,	2007	for:
+ “  the manner in which the monies transferred to the Central Government shall be dealt with by  
+	 that	Government	under	the	fourth	proviso	to	sub-section	(2)	of	section	66;”
+101			Subs.	by	Competition	(Amendment)	Act,	2007	for:
+	 (d)				the	fee	which	may	be	determined	under	clause	(a)	of	sub-section	(1)	of	section	19;
+ (e)    any other matter in respect of which provision is to be, or may be, made by regulations.”
+(56)
+	 	 (e)		 the	 fee	which	may	be	determined	under	clause	(a)	of	sub-section(1)	of 
+	 	 	 	 section	19;
+  (f)  the  rules  of  procedure  in  regard   to  the  transaction of  business at 
+	 	 	 	 the	meetings	of	the	Commission	under		sub-section(1)	of	section	22;
+  (g)  the  manner in which  penalty  shall  be  recovered under  
+	 	 	 	 sub-section(1)	of	section	39;
+  (h)  any  other  matter  in respect of which provision  is to be,  or may  be,   
+    made by regulations.]
+ (3)   Every  regulation made under  this Act shall  be  laid, as soon  as may  be  after 
+it	is	made,	before	each	House	of	Parliament,	while	it	is	in	session,	for	a	total	
+period of thirty days  which may be comprised in one  session or in two or 
+more  successive sessions,  and   if, before   the  expiry  of  the  session  
+immediately   following  the session or the  successive sessions aforesaid, 
+both	 Houses	 agree	 in	 making	 	any	 modification	 	in	 the	 	regulation,	 or	 both	 	
+Houses agree that  the  regulation should  not  be  made, the  regulation 
+shall	 	thereafter	 have	 	effect	 	only	 in	 such	 	modified	 form	 	or	 	be	 	 	of	 	no 
+effect,			as	the			case	may		be;			so,			however,		that			any			such	modification		or 
+annulment shall  be  without  prejudice to the  validity of anything  previously  
+done under  that regulation.
+Power to remove difficulties
+65.	(1)		 If	 	 any	 	 difficulty	 arises	 in	 giving	 effect	 	to	 the	 	 provisions	 of	 this	 	Act,	 the 
+	 	 Central		 Government			may,			by			order			published		in		the			Official		Gazette, 
+  make   such  provisions, not inconsistent with the  provisions of this Act as  
+	 	 may		appear	to	it	to	be	necessary	for	removing		the	difficulty:	
+  Provided that no such  order  shall be made under  this section after the expiry  
+  of a period of two years from the commencement of this Act.
+ (2)  Every  order  made under  this section shall be  laid, as soon  as may  be 
+	 	 after	it	is	made,	before	each	House	of	Parliament.
+Repeal And saving
+66.[(1) 
+102The	 Monopolies	 and	 Restrictive	 Trade	 Practices	 Act,	 1969	 (54	 of 
+	 	 1969)	 is	 	 hereby	 repealed	 and	 the	 Monopolies	 and	 Restrictive	 Trade 
+	 	 Practices	 Commission	 established	 under	 sub-section	 (1)	 of	 section	 5	 of	 the 
+  said Act (hereinafter referred to as the repealed Act) shall stand dissolved.
+102		 Subs.	by	Competition	(Amendment)	Act,	2007	for:
+	 (1)	 “The	 Monopolies	 and	 Restrictive	 Trade	Practices	Act,	 1969	 is	 hereby	 repealed	 and	 the	 
+	 	 Monopolies	 and	Restrictive				Trade		Practices	Commission	established	under	sub-section 
+	 (1)		 of	section	5	of	the	said	 Act	(hereinafter	referred	to	as	the	repealed	Act)	(54	of	1969)	shall		
+  stand dissolved.”
+(57)
+ (102 A)[***]
+	 (1A)The	repeal	of	the	Monopolies	and	Restrictive	 Trade	Practices	Act,	1969	(54		
+	 of	1969)	shall,	however,	not	affect,-
+  a)  the previous operation of the Act so repealed or anything duly done or 
+    Suffered thereunder; or
+  b)  any right, privilege, obligation or liability acquired, accrued or incurred  
+    under the Act so repealed; or
+	 	 c)		 any	 penalty,	 confiscation	 or	 punishment	 incurred	 in	 respect	 of	 any 
+    contravention under the Act so repealed; or
+  d)  any proceeding or remedy in respect of any such right, privilege,  
+	 	 	 	 obligation,	 liability,	 penalty,	 confiscation	 or	 punishment	 as	 aforesaid,	 
+    and any such proceeding or remedy may be instituted, continued or 
+	 	 	 	 enforced,	 and	 any	 such	 penalty,	 confiscation	 or	 punishment	 may	 be 
+    imposed or made as if that Act had not been repealed.]
+	 2)	 On	 the	 dissolution	 of	 the	 Monopolies	 and	 Restrictive	 Trade	 Practices	
+Commission, the person appointed as the Chairman of the Monopolies and 
+Restrictive	Trade	Practices	Commission	and	every	other	person	appointed	as	
+Member and Director General of Investigation and Registration, Additional, 
+Joint, Deputy, or Assistant Directors General of Investigation and Registration 
+and	any	officer	and	other	employee	of	that	Commission	and	holding	office	as	
+such	immediately	before	such	dissolution	shall	vacate	their	respective	offices	
+and such Chairman and other Members shall be entitled to claim compensa -
+tion not exceeding three months’ pay and allowances for the premature termi-
+nation	of	term	of	their	office	or	of	any	contract	of	service.
+Provided that the Director General of Investigation and Registration,  
+Additional, Joint, Deputy or Assistant Directors General of Investigation and 
+Registration	 or	 any	 officer	 or	 other	 employee	 who	 has	 been,	 immediately 
+before	the	dissolution	of	the	Monopolies	and	Restrictive	Trade	Practices
+102 A		The	 proviso	 and	 the	 explanation	 omitted	 by	 Act	 39	 of	 2009,	 sec	 2(a)(w.e.f14-10-2009).The 
+	 proviso	and	the	explanation,	before	ommission,	stood	as	under:
+“Provided	that,	notwithstanding	anything	contained	in	this	sub-section,	the	Monopolies	and	Re-
+strictive	Trade	Practices	Commission	established	under	sub	section(1)	of	section	5	of	the	re-
+pealed Act, may continue to exercise jurisdiction and power under the repealed Act for a period 
+of two years from the date of the commencement of this Act in respect of all cases or proceed -
+ings	(including	complaints	received	by	it	or	references	or	applications	made	to	it)	filed	before	the	
+commencement	of	this	Act	as	if	the	Monopolies	and	Restrictive	Trade	Practices	Act,	1969	(54	
+of	1969)	had	not	been	repealed	and	all	the	provisions	of	the	said	Act	so	repealed	shall	mutatis	
+mutandis apply to such cases or proceedings or complaints or references or applications and 
+to all other matters. 
+Explanation:	For	the	removal	of	doubts,	it	is	hereby	declared	that	nothing	in	this	proviso	shall	
+confer	any	jurisdiction	or	power	upon	the	Monopolies	and	Restrictive	Trade	Practices	Commis
+-
+sion to decide or adjudicate any case or proceeding arising under the Monopolies and Restric -
+tive	Trade	Practices	Act,	1969	(54	of	1969)	on	or	after	the	commencement	of	this	Act.”
+(58)
+103	 	Subs.	by	Competition	(Amendment)	Act,	2007	for:
+“Provided	further	that	the	Director	General	of	Investigation	and	Registration,	Additional,	Joint,	
+Deputy	or	Assistant	Directors	General	of	Investigation	and	Registration	or	any	officer	or	other	
+employee who has been, immediately before the dissolution of the Monopolies and   
+Restrictive	Trade	Practices	 Commission,	 employed	 on	 regular	 basis	 by	 the	 Monopolies	 and 
+Restrictive	 Trade	 Practices	 Commission,	 shall	 become,	 on	 and	 from	 such	 dissolution,	 the	 
+officer	 and	 employee,	 respectively,	 of	 the	 Central	 Government	 with	 the	 same	 rights	 and 
+privileges as to pension, gratuity and other like matters as would have been admissible to him 
+if	the	rights	in	relation	to	such	Monopolies	and	Restrictive	Trade	Practices	Commission	had	not	
+been transferred to, and vested in, the Central Government and shall continue to do so unless 
+and until his employment in the Central Government is duly terminated or until his remunera
+-
+tion,	terms	and	conditions	of	employment	are	dulyaltered	by	that	Government:”
+104	 	Subs.	by	Competition	(Amendment)	Act,	2007	for	“the	Central	Government”
+Commission appointed on deputation basis to the Monopolies and Restrictive 
+Trade Practices	 Commission,	 shall,	 on	 such	 dissolution,	 stand	 reverted	 to	 his 
+parent	cadre,	Ministry	or	Department,	as	the	case	may	be:
+ 103[Provided further	that	the	Director-General	of	Investigation	and	Registration,	
+Additional, Joint, Deputy or Assistant Directors General of Investigation and 
+Registration	or	any	officer	or	other	employee	who	has	been,	immediately	before	
+the	 dissolution	 of	 the	 Monopolies	 and	 Restrictive	 Trade	 Practices	 Commission,	
+employed	 on	 regular	 basis	 by	 the	 Monopolies	 and	 Restrictive	 Trade	 Practices	
+Commission,	shall	become,	on	and	from	such	dissolution,	the	officer	and	employ-
+ee, respectively, of the Competition Commission of India or the Appellate Tribunal, 
+in	such	manner	as	may	be	specified	by	the	Central	Government,	with	the	same	
+rights and privileges as to pension, gratuity and other like matters as would have 
+been admissible to him if the rights in relation to such Monopolies and Restric-
+tive	Trade	Practices	Commission	had	not	been	transferred	to,	and	vested	in,	the 
+Competition Commission of India or the Appellate Tribunal, as the case may 
+be, and shall continue to do so unless and until his employment in the Competi -
+tion Commission of India or the Appellate Tribunal, as the case may be, is duly 
+terminated or until his remuneration, terms and conditions of employment are duly 
+altered by the Competition Commission of India or the Appellate
+Tribunal, as the case may be.]
+Provided also that notwithstanding anything contained in the Industrial Disputes 
+Act,	1947(14	of	1947),	or	in	any	other	law	for	the	time	being	in	force,	the	transfer	of	
+the services of any Director General of Investigation and Registration, Additional, 
+Joint, Deputy or Assistant Directors General of Investigation and Registration or 
+any	officer	or	other	employee,	employed	in	the	Monopolies	and	Restrictive	Trade	
+Practices	Commission,	to	
+104[the Competition Commission of India or the Appellate 
+Tribunal], as the case may be, shall not entitle such Director General of Investiga-
+tion and Registration, Additional, Joint, Deputy or Assistant Directors General of 
+Investigation	and		Registration	or	any	officer	or	other	employee	any	compensation	
+under this Act or any other law for the time being in force and no such claim shall  
+be	entertained	by	any	court,	tribunal	or	other	authority:	
+Provided also	 that	where	the	Monopolies	and	Restrictive	Trade	Practices	Com-
+mission has established a provident fund, superannuation, welfare or other fund 
+(59)
+for	the	benefit	of	the	Director	General	of	Investigation	and	Registration,	Additional,	
+Joint, Deputy or Assistant Directors General of Investigation and Registration or the 
+officers	and	other	employees	employed	in	the	Monopolies	and	Restrictive	Trade	
+Practices	Commission,	the	monies	relatable	to	the	officers	and	other	employees	
+whose services have been transferred by or under this Act to 105[the Competition 
+Commission of India or the Appellate Tribunal, as the case may be, shall, out of the 
+monies	standing]	on	the	dissolution	of	the	Monopolies	and	Restrictive	Trade	Prac-
+tices Commission to the credit of such provident fund, superannuation, welfare or 
+other fund, stand transferred to, and vest in, 
+106[the Competition Commission of 
+India or the Appellate Tribunal as the case may be, and such monies which stand 
+so transferred shall be dealt with by the said Commission or the Tribunal, as the 
+case may be, in such manner as may be prescribed.]
+107  (3)  All cases pertaining to monopolistic trade practices or restrictive trade
+practices  pending (including such cases, in which any unfair trade 
+practice has also been alleged), before the Monopolies and Restrictive Trade 
+Practices	Commission	shall	,	(107	A) on the commencement of the competition 
+Amendment	Act,.2009	stand	transferred	to	the	Appellate	Tribunal	and	shall	be 
+adjudicated by the Appellate Tribunal in accordance with the provisions of the 
+repealed Act as if that Act had not been repealed.]
+(107B) “Explanation- ‘For the removal of doubts, it is hereby declared that 
+all	 cases	 	 referred	 to	 in	 this	 sub-section,	 sub-section(4)and	 sub-sec-
+tion	 (5)shall	 be	 deemed	 to	 include	 all	 applications	 made	 for	 the	 losses	 or 
+damages	under	section	12(B)of	the	Monopolies	and	Restrictive	Trade	Prac-
+tices	Act,1969(54of1969)as	it	stood	before	its	repeal”;
+(4)	 Subject	to	the	provisions	of	sub-section(3),	all	cases	pertaining	to	unfair	trade	
+practices	other	than	those	referred	to	in	clause	(x)	of	sub-section(1)	of	section	
+36A	of	the	Monopolies	and	Restrictive	Trade	Practices	Act,	1969	(54	of	1969)	
+and pending before 
+105			 Subs.	 by	 Competition	 (Amendment)	 Act,	 2007	 for	 “the	 Central	 Government	 shall,	 out	 of 
+ the monies standing”
+106			 Subs.	by	Competition	(Amendment)	Act,	2007	for:
+ “the Central Government and such monies which stand so transferred shall be dealt with by  
+ the said Government in such manner as may be prescribed.”
+107		 Subs.	by	Competition	(Amendment)	 Act,	2007	for:
+“ All cases pertaining to monopolistic trade practices or restrictive trade practices pending  
+before	 the	 Monopolies	 and	 Restrictive	 Trade	 Practices	 Commission	 on	 or	 before	 the 
+commencement of this Act, including such cases, in which any unfair trade practice has also 
+been alleged, shall, on such commencement, stand transferred to the Competition Commis -
+sion of India and shall be adjudicated by that Commission in accordance with the provisions 
+of	the	repealed	Act	as	if	that	Act	had	not	been	repealed.”	Subs	by	Act	39of	2009,	sec	2(b)(i)	
+w.e.f	14-10-2009)	for		“after	the	expiry	of	two	years	referred	to	in	the	proviso	to	subsection(1)”	
+Explanation	added	by	Act	39of	2009,	sec	2(b)(ii)	w.e.f	14-10-2009)	
+107	A	 Subs		by	Act	39	of	2009,	Section	2(b)(i)	w.e.f	14-10-2009,	for”	after	the	expiry	of	two	year	re	
+ ferred to in the proviso to the Subsection (i)”
+107	B	 Explanation	added	by	Act	39	of	2009,	Section	2(b)(ii)		w.e.f	14-10-2009.	
+(60)
+108			 Subs.	 by	Act	39	of	2009,	Section	2(c)(i)		 w.e.f	14-10-2009.for	“on	or	before	the	expiry	of	two 
+ years referred to in the proviso to subsection (1)”
+108	A	 Proviso	inserted	by	Act		39	of	2009,	Section	2(c)(ii)		w.e.f	14-10-2009.
+109		 Subs.	by	Competition	(Amendment)	 Act,	2007	for:
+	 “	 All	 cases	 pertaining	 to	 unfair	 trade	 practices	 referred	 to	 in	 clause	 (x)	 of	 sub-section	 (1)	 of 
+	 section	 36A	 of	 the	 Monopolies	 and	 Restrictive	 Trade	 Practices	 Act,	 1969	 (54	 of	 1969)	 and	 
+	 pending	 before	the	Monopolies	and	Restrictive	Trade	Practices	Commission	on	or	before	the 
+ commencement of this Act shall, on such commencement, stand transferred to the  
+ Competition Commission of India, and the Competition Commission of India shall dispose of  
+	 such	cases	as	if	they	were	cases	filed	under	that	 Act,.”
+109	A	 Subs	 by	 Act	 39	 of	 2009,	 Section	 2(d)	 w.e.f	 14-10-2009	 for	 “after	 the	 expiry	 of	 two	 years 
+ referred to in the proviso to subsection (1)”
+the	Monopolies	and	Restrictive	Trade	Practices	Commission	108[“immediately 
+before	the	commencement	of	the	Competition	(Amendment)	Act,	2009	shall,	
+on such commencement”, shall, stand transferred to the National Commission 
+constituted	 under	 the	 Consumer	 Protection	Act,	 1986	 (68	 of	 1986)	 and	 the	
+National	Commission	shall	dispose	of	such	cases	as	if	they	were	cases	filed	
+under	that	Act:	
+Provided that the National Commission may, if it considers appropriate, trans-
+fer	any	case	transferred	to	it	under	this	sub-section,	to	the	concerned	State	
+Commission	 established	 under	 section	 9	 of	 the	 Consumer	 Protection	 Act,	
+1986	(68	of	1986)	and	that	State	Commission	shall	dispose	of	such	case	as	if	
+it	was	filed	under	that	Act.
+(108	A) Provided further that all the cases relating to the unfair trade practices 
+pending,	before	the	National	Commission	under	this	sub-section,	on	or	before	
+the	date	on	which	the	competition	(Amendment)	Bill,	2009	receives	the	assent	
+of	the	President,	shall,	on	and	from	that	date,	stand	transferred	to	the	Appel-
+late Tribunal and be adjudicated by the Appellate Tribunal in accordance with 
+the provisions of the repealed Act as if that Act had not been repealed.
+	 (5)	 	(109) All cases pertaining to unfair trade practices referred to in clause (x) of  
+subsection	(1)	of	section	36A	of	the	Monopolies	and	Restrictive	Trade	Prac-
+tices	 Act,	 1969	 and	 pending	 before	 the	 Monopolies	 and	 Restrictive	 Trade	
+Practices	Commission	shall,	(109A) “on the commencement of the Competition 
+(Amendment)	Act,	2009”	stand	transferred	to	the	Appellate	Tribunal	and	the	
+Appellate	 Tribunal	 shall	 dispose	 of	 such	 cases	 as	 if	 they	 were	 cases	 filed	
+under that Act.]
+	 (6)   All investigations or proceedings, other than those relating to unfair trade
+practices, pending before the Director General of Investigation and Registra -
+tion on or before the commencement of this Act shall, on such commence -
+ment, stand transferred to the Competition Commission of India, and the 
+Competition Commission of India may conduct or order for conduct of such 
+investigation	or	proceedings	in	the	manner	as	it	deems	fit.
+	 (7)	 All	investigations	or	proceedings,	relating	to	unfair	trade	practices,	other	than	
+	 	 those	 referred	to	in	clause	(x)	of	sub-section	(1)	of	section	36A	of	the	Monopolies	
+(61)
+and	 Restrictive	 Trade	 Practices	Act,	 1969(54	 of	 1969)	 and	 pending	 before	
+the Director General of Investigation and Registration on or before the com-
+mencement of this Act shall, on such commencement, stand transferred to the 
+National	 Commission	 constituted	 under	 the	 Consumer	 Protection	Act,	 1986	
+(68	of	1986)	and	the	National	Commission	may	conduct	or	order	for	conduct	
+of	such	investigation	or	proceedings	in	the	manner	as	it	deems	fit.
+(109B)	“Provided that all investigations or proceedings, relating to unfair trade 
+practices pending before the National Commission, on or before the date on 
+which	 the	 Competition	 (Amendment)	 Bill,	 2009	 receives	 the	 assent	 of	 the	
+President	 shall,	 on	 and	 from	 that	 date,	 stand	 transferred	 to	 the	 Appellate 
+Tribunal and the Appellate Tribunal may conduct or order for conduct of such 
+investigation	or	proceedings	in	the	manner	as	it	deems	fit.”
+	 (8)	 	All	investigations	or	proceedings	relating	to	unfair	trade	practices	referred	to
+in	clause	(x)	of	subsection	(1)	of	section	36A	of	the	Monopolies	and	Restric-
+tive	Trade	Practices	Act,	1969(54	of	1969),	and	pending	before	the	Director	
+General of Investigation and Registration on or before the commencement of 
+this Act shall, on such commencement, stand transferred to the Competition 
+Commission of India and the Competition Commission of India may conduct 
+or	order	for	conduct	of	such	investigation	in	the	manner	as	it	deems	fit.
+	 (9)	 Save	 as	 otherwise	 provided	 under	 sub-sections	 (3)	 to	 (8),	 all	 cases	 or 
+	 	 proceedings	 pending	before	the	Monopolies	and	Restrictive	Trade	Practices 
+  Commission shall abate.
+	 (10)The	 mention	 of	 the	 particular	 matters	 referred	 to	 in	 sub-sections	 (3)	 to	 (8) 
+	 	 shall	 not	be	held	to	prejudice	or	affect	the	general	application	of	section	6	of 
+	 	 the	 General	 Clauses	 Act,	 1897	 (10	 of	 1897)	 with	 regard	 to	 the	 effect	 of 
+  repeal.
+109	B	 Proviso	inserted	by	Act.		39	of	2009,	Section	2(e)		w.e.f	14-10-2009.

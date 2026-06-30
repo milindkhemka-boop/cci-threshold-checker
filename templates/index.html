@@ -1,0 +1,98 @@
+{% extends "base.html" %}
+{% block content %}
+
+<section class="hero">
+  <div>
+    <h1>CCI merger-control thresholds, in every currency</h1>
+    <p class="lede">The thresholds under Section 5 of the Competition Act are converted to USD, EUR and other currencies using the <strong>average of RBI reference rates over the last 6 months</strong> — the basis the CCI applies. Upload financials on the <a href="{{ url_for('check') }}">Check</a> page to flag breaches.</p>
+  </div>
+</section>
+
+<!-- RATES PANEL -->
+<section class="card">
+  <div class="card-head">
+    <h2>CCI conversion rate <span class="muted">(6-month RBI average)</span></h2>
+    <button id="refreshBtn" class="btn">Fetch RBI rates now</button>
+  </div>
+
+  {% if avg.has_data %}
+    <p class="muted small">
+      Averaged over <strong>{{ avg.n_days }}</strong> RBI publication days,
+      {{ avg["from"] }} → {{ avg["to"] }}
+      (trailing {{ avg.window_days }} days).
+      {% if last_scrape_at %}Last fetched {{ last_scrape_at }} UTC.{% endif %}
+    </p>
+    <div class="rate-grid">
+      {% for ccy, val in avg.averages.items() %}
+        <div class="rate-chip">
+          <div class="rate-ccy">{{ ccy }}</div>
+          <div class="rate-val">₹{{ '%.4f'|format(val) }}</div>
+          <div class="rate-sub muted">per 1 {{ ccy }}
+            {% if avg.latest.get(ccy) %}· latest ₹{{ '%.2f'|format(avg.latest[ccy]) }}{% endif %}
+          </div>
+        </div>
+      {% endfor %}
+    </div>
+  {% else %}
+    <div class="empty">
+      <p><strong>No rate data yet.</strong> Click <em>Fetch RBI rates now</em> to scrape the last 6 months from the RBI Reference Rate Archive. The threshold conversions below will populate once rates are loaded.</p>
+    </div>
+  {% endif %}
+  <div id="refreshStatus" class="refresh-status"></div>
+</section>
+
+<!-- THRESHOLD TABLE -->
+<section class="card">
+  <div class="card-head">
+    <h2>Thresholds</h2>
+    <form method="get" class="inline-form">
+      <label for="ccy">Show in</label>
+      <select name="ccy" id="ccy" onchange="this.form.submit()">
+        {% for c in currencies %}
+          <option value="{{ c }}" {{ 'selected' if c==display }}>{{ c }}</option>
+        {% endfor %}
+      </select>
+    </form>
+  </div>
+
+  {% for label, rows in grouped %}
+    {% if rows %}
+    <h3 class="group-title">{{ label }}</h3>
+    <div class="table-scroll">
+    <table class="data">
+      <thead>
+        <tr>
+          <th>Threshold</th>
+          <th>Statutory value</th>
+          <th>In INR (₹)</th>
+          <th>In {{ display }}</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for r in rows %}
+        <tr>
+          <td>
+            <div class="th-label">{{ r.label }}</div>
+            {% if r.india_leg %}<div class="muted small">{{ r.india_leg }}</div>{% endif %}
+            {% if r.note %}<div class="muted small note">{{ r.note }}</div>{% endif %}
+            <div class="cite small">{{ r.citation }}{% if r.effective %} · eff. {{ r.effective }}{% endif %}</div>
+          </td>
+          <td class="mono">{{ r.native }}</td>
+          <td class="mono">{% if r.is_ratio or r.is_percent %}<span class="muted">{{ r.native }}</span>{% elif r.inr %}{{ fmt_dual(r.inr, 'INR') }}{% else %}<span class="muted">needs rates</span>{% endif %}</td>
+          <td class="mono">{% if r.is_ratio or r.is_percent %}—{% else %}{{ r.display }}{% endif %}</td>
+        </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+    </div>
+    {% endif %}
+  {% endfor %}
+</section>
+
+{% endblock %}
+
+{% block scripts %}
+<script>
+  document.getElementById('refreshBtn')?.addEventListener('click', refreshRates);
+</script>
+{% endblock %}

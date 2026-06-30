@@ -1,0 +1,158 @@
+{
+  "meta": {
+    "regime": "Section 5, Competition Act, 2002 — incorporating the MCA threshold revision (07-Mar-2024) and the Deal Value Threshold / Combination Regulations 2024 (in force 10-Sep-2024).",
+    "fx_window_days": 183,
+    "fx_methodology": "Foreign-currency figures are converted to INR using the average of RBI reference rates over the trailing 6 months — the conversion basis the CCI applies for the value of assets / turnover.",
+    "deal_value_floor_for_exemption": 2000,
+    "last_reviewed": "2026-06-24",
+    "display_currencies": ["INR", "USD", "EUR", "GBP", "JPY", "AED"],
+    "disclaimer": "Indicative screening tool only. Values reflect the editor's reading of the law as at the review date and must be verified against the bare Act, the current MCA notifications and the CCI (Combinations) Regulations before any filing decision. Not legal advice.",
+    "fields": {
+      "parties_assets_india":      {"label": "Combined ASSETS in India (parties)",        "group": "Parties to the combination", "metric": "assets",   "scope": "india"},
+      "parties_turnover_india":    {"label": "Combined TURNOVER in India (parties)",       "group": "Parties to the combination", "metric": "turnover", "scope": "india",     "hint": "Revenue from operations — exclude other income & indirect taxes."},
+      "parties_assets_worldwide":  {"label": "Combined ASSETS worldwide (parties)",        "group": "Parties to the combination", "metric": "assets",   "scope": "worldwide"},
+      "parties_turnover_worldwide":{"label": "Combined TURNOVER worldwide (parties)",      "group": "Parties to the combination", "metric": "turnover", "scope": "worldwide"},
+
+      "group_assets_india":        {"label": "ASSETS in India (group)",                    "group": "Group", "metric": "assets",   "scope": "india"},
+      "group_turnover_india":      {"label": "TURNOVER in India (group)",                  "group": "Group", "metric": "turnover", "scope": "india"},
+      "group_assets_worldwide":    {"label": "ASSETS worldwide (group)",                   "group": "Group", "metric": "assets",   "scope": "worldwide"},
+      "group_turnover_worldwide":  {"label": "TURNOVER worldwide (group)",                 "group": "Group", "metric": "turnover", "scope": "worldwide"},
+
+      "target_assets_india":       {"label": "TARGET assets in India",                     "group": "Target (de minimis / small target)", "metric": "assets",   "scope": "india"},
+      "target_turnover_india":     {"label": "TARGET turnover in India",                   "group": "Target (de minimis / small target)", "metric": "turnover", "scope": "india"},
+
+      "deal_value":                {"label": "Deal / transaction value (global)",         "group": "Deal value threshold", "metric": "deal", "scope": "global"},
+      "target_turnover_global":    {"label": "TARGET turnover worldwide",                  "group": "Substantial Business Operations in India (SBOI)", "metric": "turnover", "scope": "global"},
+      "target_gmv_india":          {"label": "TARGET gross merchandise value in India",   "group": "Substantial Business Operations in India (SBOI)", "metric": "gmv", "scope": "india"},
+      "target_gmv_global":         {"label": "TARGET gross merchandise value worldwide",  "group": "Substantial Business Operations in India (SBOI)", "metric": "gmv", "scope": "global"},
+      "target_users_india_pct":    {"label": "TARGET India users as % of global users",   "group": "Substantial Business Operations in India (SBOI)", "metric": "percent", "scope": "india", "is_percent": true}
+    }
+  },
+
+  "thresholds": [
+    {
+      "id": "parties_india_assets", "category": "jurisdictional_parties",
+      "label": "Parties — Assets in India",
+      "field": "parties_assets_india", "value": 2500, "unit": "INR_CRORE",
+      "operator": "gt", "flag": "breach",
+      "citation": "S.5(a)(i)(A), Competition Act 2002; MCA S.O. 1131(E), 07-Mar-2024",
+      "effective": "2024-03-07"
+    },
+    {
+      "id": "parties_india_turnover", "category": "jurisdictional_parties",
+      "label": "Parties — Turnover in India",
+      "field": "parties_turnover_india", "value": 7500, "unit": "INR_CRORE",
+      "operator": "gt", "flag": "breach",
+      "citation": "S.5(a)(i)(A), Competition Act 2002; MCA S.O. 1131(E), 07-Mar-2024",
+      "effective": "2024-03-07"
+    },
+    {
+      "id": "parties_ww_assets", "category": "jurisdictional_parties",
+      "label": "Parties — Worldwide Assets (with India leg)",
+      "field": "parties_assets_worldwide", "value": 1.25, "unit": "USD_BILLION",
+      "operator": "gt", "flag": "breach",
+      "india_leg": {"field": "parties_assets_india", "value": 1250, "unit": "INR_CRORE", "operator": "gte"},
+      "citation": "S.5(a)(i)(B), Competition Act 2002; MCA S.O. 1131(E), 07-Mar-2024",
+      "effective": "2024-03-07"
+    },
+    {
+      "id": "parties_ww_turnover", "category": "jurisdictional_parties",
+      "label": "Parties — Worldwide Turnover (with India leg)",
+      "field": "parties_turnover_worldwide", "value": 3.75, "unit": "USD_BILLION",
+      "operator": "gt", "flag": "breach",
+      "india_leg": {"field": "parties_turnover_india", "value": 3750, "unit": "INR_CRORE", "operator": "gte"},
+      "citation": "S.5(a)(i)(B), Competition Act 2002; MCA S.O. 1131(E), 07-Mar-2024",
+      "effective": "2024-03-07"
+    },
+
+    {
+      "id": "group_india_assets", "category": "jurisdictional_group",
+      "label": "Group — Assets in India",
+      "field": "group_assets_india", "value": 10000, "unit": "INR_CRORE",
+      "operator": "gt", "flag": "breach",
+      "citation": "S.5(a)(ii)(A), Competition Act 2002; MCA S.O. 1131(E), 07-Mar-2024",
+      "effective": "2024-03-07"
+    },
+    {
+      "id": "group_india_turnover", "category": "jurisdictional_group",
+      "label": "Group — Turnover in India",
+      "field": "group_turnover_india", "value": 30000, "unit": "INR_CRORE",
+      "operator": "gt", "flag": "breach",
+      "citation": "S.5(a)(ii)(A), Competition Act 2002; MCA S.O. 1131(E), 07-Mar-2024",
+      "effective": "2024-03-07"
+    },
+    {
+      "id": "group_ww_assets", "category": "jurisdictional_group",
+      "label": "Group — Worldwide Assets (with India leg)",
+      "field": "group_assets_worldwide", "value": 5, "unit": "USD_BILLION",
+      "operator": "gt", "flag": "breach",
+      "india_leg": {"field": "group_assets_india", "value": 1250, "unit": "INR_CRORE", "operator": "gte"},
+      "citation": "S.5(a)(ii)(B), Competition Act 2002; MCA S.O. 1131(E), 07-Mar-2024",
+      "effective": "2024-03-07"
+    },
+    {
+      "id": "group_ww_turnover", "category": "jurisdictional_group",
+      "label": "Group — Worldwide Turnover (with India leg)",
+      "field": "group_turnover_worldwide", "value": 15, "unit": "USD_BILLION",
+      "operator": "gt", "flag": "breach",
+      "india_leg": {"field": "group_turnover_india", "value": 3750, "unit": "INR_CRORE", "operator": "gte"},
+      "citation": "S.5(a)(ii)(B), Competition Act 2002; MCA S.O. 1131(E), 07-Mar-2024",
+      "effective": "2024-03-07"
+    },
+
+    {
+      "id": "de_minimis_assets", "category": "de_minimis",
+      "label": "Small-Target Exemption — Target assets in India",
+      "field": "target_assets_india", "value": 450, "unit": "INR_CRORE",
+      "operator": "lte", "flag": "exempt",
+      "citation": "MCA S.O. 1132(E), 07-Mar-2024 (small target / de minimis exemption)",
+      "effective": "2024-03-07",
+      "note": "Exemption is unavailable where the deal value exceeds ₹2,000 crore (Combination Regulations 2024)."
+    },
+    {
+      "id": "de_minimis_turnover", "category": "de_minimis",
+      "label": "Small-Target Exemption — Target turnover in India",
+      "field": "target_turnover_india", "value": 1250, "unit": "INR_CRORE",
+      "operator": "lte", "flag": "exempt",
+      "citation": "MCA S.O. 1132(E), 07-Mar-2024 (small target / de minimis exemption)",
+      "effective": "2024-03-07",
+      "note": "Exemption is unavailable where the deal value exceeds ₹2,000 crore (Combination Regulations 2024)."
+    },
+
+    {
+      "id": "deal_value_threshold", "category": "deal_value",
+      "label": "Deal Value Threshold (with SBOI)",
+      "field": "deal_value", "value": 2000, "unit": "INR_CRORE",
+      "operator": "gt", "flag": "breach",
+      "requires_sboi": true,
+      "citation": "S.5(d), Competition Act 2002 (ins. Amendment Act 2023); CCI (Combinations) Regulations 2024",
+      "effective": "2024-09-10",
+      "note": "Notifiable only if BOTH the deal value exceeds ₹2,000 crore AND the target has Substantial Business Operations in India."
+    },
+
+    {
+      "id": "sbo_turnover", "category": "sbo", "type": "ratio",
+      "label": "SBOI — India turnover ≥ 10% of global AND > ₹500 cr",
+      "field": "target_turnover_india", "global_field": "target_turnover_global",
+      "ratio_pct": 10, "abs_value": 500, "abs_unit": "INR_CRORE", "abs_operator": "gt",
+      "citation": "Reg. defining 'substantial business operations in India', CCI (Combinations) Regulations 2024",
+      "effective": "2024-09-10"
+    },
+    {
+      "id": "sbo_gmv", "category": "sbo", "type": "ratio",
+      "label": "SBOI — India GMV ≥ 10% of global GMV AND > ₹500 cr",
+      "field": "target_gmv_india", "global_field": "target_gmv_global",
+      "ratio_pct": 10, "abs_value": 500, "abs_unit": "INR_CRORE", "abs_operator": "gt",
+      "citation": "Reg. defining 'substantial business operations in India', CCI (Combinations) Regulations 2024",
+      "effective": "2024-09-10"
+    },
+    {
+      "id": "sbo_users", "category": "sbo", "type": "percent",
+      "label": "SBOI — India users ≥ 10% of global users (digital)",
+      "field": "target_users_india_pct", "value": 10, "unit": "PERCENT",
+      "operator": "gte", "flag": "breach",
+      "citation": "Reg. defining 'substantial business operations in India', CCI (Combinations) Regulations 2024",
+      "effective": "2024-09-10"
+    }
+  ]
+}

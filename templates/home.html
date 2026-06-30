@@ -1,0 +1,72 @@
+{% extends "base.html" %}
+{% block content %}
+
+<div class="rate-strip" id="rateStrip">
+  <span class="muted">Loading the RBI six-month average…</span>
+</div>
+
+<div class="home-grid">
+
+  <!-- LEFT: the Schedule of thresholds -->
+  <section class="card table-card">
+    <div class="card-head">
+      <h2>Schedule of thresholds</h2>
+      <button id="refreshBtn" class="btn small-btn" title="Re-scrape the latest RBI rates">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 12a9 9 0 1 1-2.64-6.36"/><path d="M21 4v5h-5"/></svg>
+        Rates
+      </button>
+    </div>
+
+    <div class="toolbar">
+      <div class="toggle-group" id="ccyToggle">
+        <span class="toggle-label">Currency</span>
+        <div class="tg-controls">
+          <div class="seg">
+            <button data-ccy="INR" class="active">INR ₹</button>
+            <button data-ccy="USD">USD $</button>
+            <button data-ccy="EUR">EUR €</button>
+          </div>
+          <select id="otherCcy" class="other-ccy" aria-label="Other currencies"><option value="">Other…</option></select>
+        </div>
+      </div>
+
+      <div class="toggle-group" id="numToggle">
+        <span class="toggle-label">Numbering</span>
+        <div class="seg">
+          <button data-sys="inr" class="active">Lakh · Crore</button>
+          <button data-sys="intl">Million · Billion</button>
+        </div>
+        <div class="num-sample" id="numSample" aria-hidden="true">
+          <span class="num-sample-label">₹2,500 crore, written —</span>
+          <span class="num-sample-figure" id="numSampleFigure"></span>
+        </div>
+      </div>
+
+      <div class="toggle-group" id="dateToggle">
+        <span class="toggle-label">As-of date</span>
+        <div class="tg-controls">
+          <input type="date" id="asOfDate" class="date-input" aria-label="As-of date — six-month average ending on this date">
+          <button type="button" id="todayBtn" class="btn small-btn">Today</button>
+        </div>
+      </div>
+    </div>
+
+    <div id="thresholdTable" class="threshold-table-wrap"><p class="muted">Loading…</p></div>
+    <p id="tableDisclaimer"></p>
+  </section>
+
+  <!-- Daily RBI rates behind the average -->
+  <section class="card rate-history-card">
+    <div class="card-head">
+      <h2>Rate history</h2>
+      <span class="muted small" id="rateHistorySub">Daily RBI reference rates behind the six-month average</span>
+    </div>
+    <div id="rateHistoryTable" class="rate-history-wrap"><p class="muted">Loading…</p></div>
+  </section>
+
+</div>
+{% endblock %}
+
+{% block scripts %}
+<script src="{{ url_for('static', filename='home.js') }}"></script>
+{% endblock %}

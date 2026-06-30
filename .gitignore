@@ -1,0 +1,17 @@
+# Local environment
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+# Secrets — never commit your API key
+config/api_key.txt
+
+# Raw corpus PDFs (~1GB) — not needed at runtime, only to rebuild the index
+# (data/corpus.db and data/corpus_fts.db, which ARE needed, are kept)
+data/corpus/
+
+# Logs
+data/*.log
+site/build.log
+site/docs/build.log

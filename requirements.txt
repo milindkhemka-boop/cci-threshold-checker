@@ -1,0 +1,11 @@
+# Core (required)
+Flask>=2.2,<3.1
+anthropic>=0.40        # Claude API — the notification-assessment engine
+markdown>=3.5          # render the assessment to HTML
+
+# Optional document parsers — enable richer auto-extraction from uploads.
+# The app runs fine without these (you can paste text / enter figures manually,
+# and .txt/.csv/.eml uploads still work via the standard library).
+pypdf>=3.17        # PDF text extraction
+openpyxl>=3.1      # .xlsx spreadsheets
+python-docx>=1.1   # .docx Word documents

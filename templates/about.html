@@ -1,0 +1,43 @@
+{% extends "base.html" %}
+{% block content %}
+
+<section class="hero compact">
+  <h1>Methodology &amp; sources</h1>
+</section>
+
+<section class="card prose">
+  <h2>The exchange rate</h2>
+  <p>For converting foreign-currency assets and turnover, the CCI uses the <strong>average of the RBI reference rates over the relevant trailing period of six months</strong>. This tool scrapes the daily reference rates (USD, GBP, EUR, JPY, AED, IDR) from the
+    <a href="https://www.rbi.org.in/scripts/referenceratearchive.aspx" target="_blank" rel="noopener">RBI Reference Rate Archive</a>,
+    stores them locally, and computes the simple average over the trailing {{ meta.fx_window_days }} days. JPY (quoted per 100) and IDR (per 10,000) are normalised to “INR per 1 unit”.</p>
+  {% if avg.has_data %}
+  <p class="muted">Current window: {{ avg["from"] }} → {{ avg["to"] }} over {{ avg.n_days }} publication days.</p>
+  {% endif %}
+
+  <h2>The numbering systems</h2>
+  <p>Indian filings report in <strong>lakh / crore</strong>; international documents in <strong>million / billion</strong>. The tool reads and displays both, on the equivalences
+    <span class="mono">1 crore = 10 million</span>, <span class="mono">100 crore = 1 billion</span>, <span class="mono">1 lakh crore = 1 trillion</span>. Every amount is shown in both systems, e.g. <span class="mono">₹2,500 crore (= 25.00 billion)</span>.</p>
+
+  <h2>The thresholds (Section 5, Competition Act 2002)</h2>
+  <p>This build reflects the MCA threshold revision of 7 March 2024 and the Deal Value Threshold / CCI (Combinations) Regulations 2024 in force from 10 September 2024:</p>
+  <ul>
+    <li><strong>Jurisdictional — parties:</strong> India assets &gt; ₹2,500 cr or turnover &gt; ₹7,500 cr; or worldwide assets &gt; USD 1.25 bn / turnover &gt; USD 3.75 bn (each with an India leg of ₹1,250 cr / ₹3,750 cr).</li>
+    <li><strong>Jurisdictional — group:</strong> India assets &gt; ₹10,000 cr or turnover &gt; ₹30,000 cr; or worldwide assets &gt; USD 5 bn / turnover &gt; USD 15 bn (same India legs).</li>
+    <li><strong>Small-target / de minimis exemption:</strong> target assets in India ≤ ₹450 cr or turnover ≤ ₹1,250 cr — <em>unavailable where the deal value exceeds ₹2,000 cr</em>.</li>
+    <li><strong>Deal Value Threshold:</strong> deal value &gt; ₹2,000 cr <em>and</em> the target has Substantial Business Operations in India.</li>
+    <li><strong>SBOI:</strong> India turnover or GMV ≥ 10% of global and &gt; ₹500 cr; or India digital users ≥ 10% of global.</li>
+  </ul>
+  <p class="muted">Turnover is taken as <strong>revenue from operations</strong> (excluding other income and indirect taxes); values are book values from the audited accounts of the financial year preceding the transaction.</p>
+
+  <h2>How a filing decision is indicated</h2>
+  <p>A combination is flagged as likely notifiable if <em>either</em> a jurisdictional limb is crossed (and the small-target exemption does not rescue it) <em>or</em> the deal-value threshold is met with SBOI. This mirrors the structure of the Act but is a screening indicator only.</p>
+
+  <div class="callout">
+    <strong>Disclaimer.</strong> {{ meta.disclaimer }} Values last reviewed {{ meta.last_reviewed }}. Verify against the bare Act, current MCA notifications and the CCI (Combinations) Regulations before any filing decision.
+  </div>
+
+  <h2>Keeping rates current</h2>
+  <p>Set the daily scrape to run automatically — see <span class="mono">README.md</span> and <span class="mono">scripts/com.ccichecker.scrape.plist</span> for the macOS launchd job, or run <span class="mono">python3 scripts/scrape_rates.py</span> any time.</p>
+</section>
+
+{% endblock %}

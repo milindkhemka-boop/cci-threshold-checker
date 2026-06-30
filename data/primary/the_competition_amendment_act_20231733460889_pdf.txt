@@ -1,0 +1,1124 @@
+THE COMPETITION (AMENDMENT) ACT,  2023
+NO. 9 OF 2023
+[11th April, 2023.]
+An Act further to amend the Competition Act, 2002.
+BE it enacted by Parliament in the Seventy-fourth Year of the Republic of India as
+follows:—
+1. (1) This Act may be called the Competition (Amendment) Act, 2023.
+(2) It shall come into force on such date as the Central Government may, by notification
+in the Official Gazette, appoint:
+Provided that different dates may be appointed for different provisions of this Act and
+any reference in any such provision to the commencement of this Act shall be construed as
+a reference to the coming into force of that provision.
+Short title and
+commencement.
+vlk/kkj.k
+EXTRAORDINARY
+Hkkx  II — [k.M 1
+PART II — Section 1
+izkf/kdkj ls izdkf'kr
+PUBLISHED  BY  AUTHORITY
+lañ   9] ubZ fnYyh] eaxyokj] vizSy 11] 2023@pS= 21] 1945 ¼'kd½
+No. 9] NEW DELHI, TUESDAY, APRIL 11, 2023/CHAITRA 21, 1945 (SAKA)
+bl Hkkx esa fHkUu i`"B la[;k nh tkrh gS ftlls fd ;g vyx ladyu ds :i esa j[kk tk ldsA
+Separate paging is given to this Part in order that it may be filed as a separate compilation.
+xxxGIDHxxx
+xxxGIDExxx
+jftLVªh lañ Mhñ ,yñ —( ,u)04@0007@2003— 23 REGISTERED N O. DL—(N)0 4/000 7/200 3— 23
+MINISTRY OF LAW AND JUSTICE
+(Legislative Department)
+New Delhi, the 11th April, 2023/Chaitra 21, 1945  (Saka)
+The following Act of Parliament received the assent of the President on the
+11th April, 2023 and is hereby published for general information:—
+सी.जी.-डी.एल.-अ.-11042023-245101
+CG-DL-E-11042023-245101
+सी.जी.-डी.एल.-अ.-11042023-245101
+CG-DL-E-11042023-245101
+2 THE GAZETTE OF INDIA EXTRAORDINARY [PART II—
+2. In the Competition Act, 2002 (hereinafter referred to as the principal Act),—
+(a) for the words and figures "the Companies Act, 1956", wherever they occur,
+the words and figures "the Companies Act, 2013" shall be substituted;
+(b) for the figures and word "1 of 1956", wherever they occur, the figures and
+word "18 of 2013" shall be substituted.
+3. In section 2 of the principal Act,—
+(a) after clause (e), the following clause shall be inserted, namely:—
+'(ea) "commitment" means the commitment referred to in section 48B;';
+(b) in clause ( h), for the portion beginning with the words "a person or a
+department of the Government" and ending with the words "defence and space", the
+following words shall be substituted, namely:—
+"a person or a department of the Government, including units, divisions,
+subsidiaries, who or which is, or has been, engaged in any economic activity ,
+relating to the production, storage, supply, distribution, acquisition or control of
+articles or goods, or the provision of services, of any kind, or in investment, or in
+the business of acquiring, holding, underwriting or dealing with shares,
+debentures or other securities of any other body corporate, either directly or
+through one or more of its units or divisions or subsidiaries, but does not
+include any activity of the Government relatable to the sovereign functions of
+the Government including all activities carried on by the departments of the
+Central Government dealing with atomic energy, currency, defence and space;";
+(c) after clause (k), the following clause shall be inserted, namely:—
+'(ka) "party" includes a consumer or an enterprise or a person or an
+information provider, or a consumer association or a trade association, or the
+Central Government or any State Government or any statutory authority, as the
+case may be, and shall include an enterprise or a person against whom any
+inquiry or proceeding is instituted; and any enterprise or person impleaded by
+the Commission to join the proceedings;';
+(d) in clause (l), in sub-clause (vi), for the words and figures "section 617 of the
+Companies Act, 1956", the words, brackets and figures "clause (45) of section 2 of the
+Companies Act, 2013" shall be substituted;
+(e) for clause (p), the following clause shall be substituted, namely:—
+'(p) "public financial institution" means public financial institution as
+defined in clause (72) of section 2 of the Companies Act, 2013 and includes a
+State Financial Corporation, State Industrial Corporation or State Investment
+Corporation;';
+(f) for clause (t), the following clause shall be substituted, namely:—
+'(t) "relevant product market" means a market comprising of all those
+products or services—
+(i) which are regarded as inter-changeable or substitutable by the
+consumer, by reason of characteristics of the products or services, their
+prices and intended use; or
+(ii) the production or supply of, which are regarded as inter-
+changeable or substitutable by the supplier , by reason of the ease of
+switching production between such products and services and marketing
+them in the short term without incurring significant additional costs or
+risks in response to small and permanent changes in relative prices;';
+Substitution
+of references
+to certain
+expressions
+by certain
+other
+expressions.
+12 of 2003.
+1 of 1956.
+Amendment
+of section 2.
+1 of 1956.
+18 of 2013.
+18 of 2013.
+18 of 2013.
+SEC. 1] THE GAZETTE OF INDIA EXTRAORDINARY 3
+(g) after clause (u), the following clause shall be inserted, namely:—
+'(ua) "settlement" means the settlement referred to in section 48A;'.
+4. In section 3 of the principal Act,—
+(a) in sub-section (3), after the proviso, the following proviso shall be inserted,
+namely:—
+"Provided further that an enterprise or association of enterprises or a
+person or association of persons though not engaged in identical or similar
+trade shall also be presumed to be part of the agreement under this sub-section
+if it participates or intends to participate in the furtherance of such agreement.";
+(b) in sub-section (4),—
+(i) for the words "Any agreement amongst enterprises or persons", the
+words "Any other agreement amongst enterprises or persons including but not
+restricted to agreement amongst enterprises or persons" shall be substituted;
+ (ii) in clause ( b), for the word "supply", the word "dealing" shall be
+substituted;
+(iii) before the Explanation, the following proviso shall be inserted,
+namely:—
+"Provided that nothing contained in this sub-section shall apply to
+an agreement entered into between an enterprise and an end consumer.";
+(iv) in the Explanation,—
+(i) for clauses (a) and (b), the following clauses shall be substituted,
+namely:—
+'(a) "tie-in arrangement" includes any agreement requiring a
+purchaser of goods or services, as a condition of such purchase, to
+purchase some other distinct goods or services;
+(b) "exclusive dealing agreement" includes any agreement
+restricting in any manner the purchaser or the seller, as the case may
+be, in the course of his trade from acquiring or selling or otherwise
+dealing in any goods or services other than those of the seller or the
+purchaser or any other person, as the case may be;';
+(ii) in clause (c), after the word "goods", at both the places where it
+occurs, the words "or services" shall be inserted;
+(iii) in clause (d), after the word "goods", at both the places where
+it occurs, the words "or services" shall be inserted;
+(iv) in clause ( e), for the words "includes any agreement to sell
+goods on condition", the words "includes, in case of any agreement to
+sell goods or provide services, any direct or indirect restriction" shall be
+substituted;
+(c) in sub-section (5),  in clause (i), after sub-clause (f), the following sub-clause
+shall be inserted, namely:—
+"(g) any other law for the time being in force relating to the protection of
+other intellectual property rights.".
+5. In section 4 of the principal Act, in sub-section (2), in clause (a), in the Explanation,
+for the words "discriminatory condition or price", the words "condition or price" shall be
+substituted.
+Amendment
+of section 3.
+Amendment
+of section 4.
+4 THE GAZETTE OF INDIA EXTRAORDINARY [PART II—
+6. In section 5 of the principal Act,—
+(A) in clause (c), in sub-clause (ii), in item (B), for the word "India.", the words
+"India; or" shall be substituted;
+(B) after clause (c), the following clauses shall be inserted, namely:—
+"(d) value of any transaction, in connection with acquisition of any control,
+shares, voting rights or assets of an enterprise, merger or amalgamation exceeds
+rupees two thousand crore:
+Provided that the enterprise which is being acquired, taken control of,
+merged or amalgamated has such substantial business operations in India as
+may be specified by regulations.
+(e) notwithstanding anything contained in clause ( a) or clause ( b) or
+clause (c), where either the value of assets or turnover of the enterprise being
+acquired, taken control of, merged or amalgamated in India is not more than such
+value as may be prescribed, such acquisition, control, merger or amalgamation,
+shall not constitute a combination under section 5.";
+(C) for the Explanation, the following Explanation shall be substituted, namely:—
+'Explanation.—For the purposes of this section,—
+(a) "control" means the ability to exercise material influence, in any
+manner whatsoever, over the management or affairs or strategic commercial
+decisions by—
+(i) one or more enterprises, either jointly or singly, over another
+enterprise or group; or
+(ii) one or more groups, either jointly or singly, over another
+group or enterprise;
+(b) "group" means two or more enterprises where one enterprise is
+directly or indirectly, in a position to—
+(i) exercise twenty-six per cent. or such other higher percentage
+as may be prescribed, of the voting rights in the other enterprise; or
+(ii) appoint more than fifty per cent. of the members of the
+board of directors in the other enterprise; or
+(iii) control the management or affairs of the other enterprise;
+(c) "turnover" means the turnover certified by the statutory auditor
+on the basis of the last available audited accounts of the company in the
+financial year immediately preceding the financial year in which the notice
+is filed under sub-section ( 2) or sub-section ( 4) of section 6 and such
+turnover in India shall be determined by excluding intra-group sales, indirect
+taxes, trade discounts and all amounts generated through assets or
+business from customers outside India, as certified by the statutory auditor
+on the basis of the last available audited accounts of the company in the
+financial year immediately preceding the financial year in which the notice
+is filed under sub-section (2) or sub-section (4) of section 6;
+(d) "value of transaction" includes every valuable consideration,
+whether direct or indirect, or deferred for any acquisition, merger or
+amalgamation;
+(e) the value of assets shall be determined by taking the book value
+of the assets as shown, in the audited books of account of the enterprise,
+in the financial year immediately preceding the financial year in which the
+date of proposed combination falls and if such financial statement has not
+yet become due to be filed with the Registrar under the Companies
+Act, 2013 then as per the statutory auditor's report made on the basis of
+Amendment
+of section 5.
+18 of 2013.
+SEC. 1] THE GAZETTE OF INDIA EXTRAORDINARY 5
+the last available audited accounts of the company in the financial year
+immediately preceding the financial year in which the notice is filed under
+sub-section ( 2) or sub-section ( 4) of section 6, as reduced by any
+depreciation, and the value of assets shall include the brand value, value
+of goodwill, or value of copyright, patent, permitted use, collective mark,
+registered proprietor, registered trade mark, registered user, homonymous
+geographical indication, geographical indications, design or layout-design
+or similar other commercial rights under the laws provided in sub-section (5)
+of section 3;
+(f) where a portion of an enterprise or division or business is being
+acquired, taken control of, merged or amalgamated with another enterprise,
+the value of assets or turnover or value of transaction as may be applicable,
+of the said portion or division or business or attributable to it, shall be the
+relevant assets or turnover or relevant value of transaction for the purpose
+of applicability of the thresholds under section 5.'.
+7. In section 6 of the principal Act,—
+(a) in sub-section (2),—
+(i) for the words "within thirty days of", the words "after any of the
+following, but before consummation of the combination" shall be substituted;
+(ii) in clause (a), after the word, brackets and letter "clause (c)", the words,
+brackets and letter "and clause (d)" shall be inserted;
+(iii) in clause ( b), after the word, brackets and letter "clause ( a)", the
+words, brackets and letter "and clause (d)" shall be inserted;
+(iv) the following Explanation shall be inserted, namely:—
+'Explanation .—For the purposes of this sub-section, "other
+document" means any document, by whatever name called, conveying an
+agreement or decision to acquire control, shares, voting rights or assets or
+if the acquisition is without the consent of the enterprise being acquired,
+any document executed by the acquiring enterprise, by whatever name
+called, conveying a decision to acquire control, shares or voting rights or
+where a public announcement has been made in accordance with the
+provisions of the Securities and Exchange Board of India (Substantial
+Acquisition of Shares and Takeovers) Regulations, 2011 made under the
+Securities and Exchange Board of India Act, 1992 for acquisition of shares,
+voting rights or control such public document.';
+(b) in sub-section ( 2A), for the words "two hundred and ten days", the words
+"one hundred and fifty days" shall be substituted;
+(c) in sub-section ( 3), for the words and figures "sections 29, 30 and 31", the
+words, figures and letter "sections 29, 29A, 30 and 31" shall be substituted;
+(d) for sub-sections ( 4) and ( 5) and the Explanation, the following shall be
+substituted, namely:—
+'(4) Notwithstanding anything contained in sub-sections (2A) and (3) and
+section 43A, if a combination fulfils such criteria as may be prescribed and is not
+otherwise exempted under this Act from the requirement to give notice to the
+Commission under sub-section ( 2), then notice for such combination may be
+given to the Commission in such form and on payment of such fee as may be
+specified by regulations, disclosing the details of the proposed combination
+and thereupon a separate notice under sub-section ( 2) shall not be required to
+be given for such combination.
+Amendment
+of section 6.
+15 of 1992.
+6 THE GAZETTE OF INDIA EXTRAORDINARY [PART II—
+(5) Upon filing of a notice under sub-section ( 4) and acknowledgement
+thereof by the Commission, the proposed combination shall be deemed to have
+been approved by the Commission under sub-section (1) of section 31 and no
+other approval shall be required under sub-section (2) or sub-section (2A).
+(6) If within the period referred to in sub-section ( 1) of section 20, the
+Commission finds that the combination notified under sub-section (4) does not
+fulfil the requirements specified under that sub-section or the information or
+declarations provided are materially incorrect or incomplete, the approval under
+sub-section (5) shall be void ab initio and the Commission may pass such order
+as it may deem fit:
+Provided that no such order shall be passed unless the parties to the
+combination have been given an opportunity of being heard.
+(7) Notwithstanding anything contained in this section and section 43A,
+upon fulfilment of such criteria as may be prescribed, certain categories
+of combinations shall be exempted from the requirement to comply with
+sub-sections (2), (2A) and (4).
+(8) Notwithstanding anything contained in sub-sections ( 4), ( 5), ( 6)
+and (7)—
+(i) the rules and regulations made under this Act on the matters
+referred to in these sub-sections as they stood immediately before the
+commencement of the Competition (Amendment) Act, 2023 and in force at
+such commencement, shall continue to be in force, till such time as the
+rules or regulations, as the case may be, made under this Act; and
+(ii) any order passed or any fee imposed or combination
+consummated or resolution passed or direction given or instrument
+executed or issued or thing done under or in pursuance of any rules and
+regulations made under this Act shall, if in force at the commencement of
+the Competition (Amendment) Act, 2023, continue to be in force, and shall
+have effect as if such order passed or such fee imposed or such combination
+consummated or such resolution passed or such direction given or such
+instrument executed or issued or done under or in pursuance of this Act.
+(9) The provisions of this section shall not apply to share subscription or
+financing facility or any acquisition, by a public financial institution, foreign
+portfolio investor, bank or Category I alternative investment fund, pursuant to
+any covenant of a loan agreement or investment agreement.
+Explanation.—For the purposes of this section, the expression—
+(a) "Category I alternative investment fund" has the same meaning
+as assigned to it under the Securities and Exchange Board of India
+(Alternative Investment Funds) Regulations, 2012 made under the
+Securities and Exchange Board of India Act, 1992;
+(b) "foreign portfolio investor" has the same meaning as assigned
+to it under the Securities and Exchange Board of India (Foreign Portfolio
+Investors) Regulations, 2019 made under the Securities and Exchange
+Board of India Act,1992.'.
+8.  After section 6 of the principal Act, the following section shall be inserted, namely:—
+'6A. Nothing contained in sub-section (2A) of section 6 and section 43A shall
+prevent the implementation of an open offer or an acquisition of shares or securities
+15 of 1992.
+15 of 1992.
+Insertion of a
+new section
+6A.
+Open offers,
+etc.
+SEC. 1] THE GAZETTE OF INDIA EXTRAORDINARY 7
+convertible into other securities from various sellers, through a series of transactions
+on a regulated stock exchange from coming into effect, if—
+(a) the notice of the acquisition is filed with the Commission within such
+time and in such manner as may be specified by regulations; and
+(b) the acquirer does not exercise any ownership or beneficial rights or
+interest in such shares or convertible securities including voting rights and
+receipt of dividends or any other distributions, except as may be specified by
+regulations, till the Commission approves such acquisition in accordance with
+the provisions of sub-section (2A) of section 6 of the Act.
+Explanation.—For the purposes of this section, "open offer" means an open
+offer made in accordance with the Securities and Exchange Board of India (Substantial
+Acquisition of Shares and Takeovers) Regulation, 2011 made under the Securities and
+Exchange Board of India Act,1992.'.
+9. In section 8 of the principal Act, in sub-section (2), after the word "industry,", the
+word "technology," shall be inserted.
+10. In section 9 of the principal Act, in sub-section (1), in clause (d), after the word
+"industry,", the word "technology," shall be inserted.
+11. For section 12 of the principal Act, the following section shall be substituted,
+namely:—
+"12. (1) The Chairperson and other Members shall, for a period of two years from
+the date on which they cease to hold office, not accept any employment in or advise as
+a consultant, retainer or in any other capacity whatsoever , or be connected with the
+management or administration of—
+(a) any enterprise which is or has been a party to a proceeding before the
+Commission under this Act; or
+(b) any person who appears or has appeared before the Commission under
+section 35.
+(2) Notwithstanding anything contained in section 35, the Chairperson or any
+other Member after retirement or otherwise ceasing to be in service for any reason
+shall not represent for any person or enterprise before the Commission:
+Provided that nothing contained in this section shall apply to any employment
+under the Central Government or a State Government or local authority or in any
+statutory authority or any corporation established by or under any Central, State or
+Provincial Act or a Government company as defined in clause (45) of section 2 of the
+Companies Act, 2013.".
+12. In section 16 of the principal Act, in sub-section ( 1), for the words "Central
+Government may, by notification", the words "Commission may, with the prior approval of
+the Central Government" shall be substituted.
+13. For section 18 of the principal Act, the following section shall be substituted,
+namely:—
+"18. Subject to the provisions of this Act, it shall be the duty of the Commission
+to eliminate practices having adverse effect on competition, promote and sustain
+competition, protect the interests of consumers and ensure freedom of trade carried on
+by other participants, in markets in India:
+15 of 1992.
+Amendment
+of section 8.
+Amendment
+of section 9.
+Substitution of
+new section
+for section 12.
+Restriction on
+employment
+of Chairperson
+and other
+Members.
+Amendment
+of section 16.
+18 of 2013.
+Substitution
+of new
+section for
+section 18.
+Duties and
+functions of
+Commission.
+8 THE GAZETTE OF INDIA EXTRAORDINARY [PART II—
+Provided that the Commission may, for the purpose of discharging its duties or
+performing its functions under this Act, enter into any memorandum or arrangement with
+the prior approval of the Central Government, with any agency of any foreign country:
+Provided further that, the Commission may, for the purpose of discharging its
+duties or performing its functions under this Act, enter into any memorandum or
+arrangement with any statutory authority or department of Government.".
+14. In section 19 of the principal Act,—
+(a) in sub-section (1), the following provisos shall be inserted, namely:—
+ "Provided that the Commission shall not entertain an information or a
+reference unless it is filed within three years from the date on which the cause of
+action has arisen:
+ Provided further that an information or a reference may be entertained
+after the period specified in the first proviso if the Commission is satisfied that
+there had been sufficient cause for not filing the information or the reference
+within such period after recording its reasons for condoning such delay.";
+(b) in sub-section (3),—
+(i) in clause (c), the words "by hindering entry into the market" shall be
+omitted;
+(ii) in clause (d), for the words "accrual of benefits", the words "benefits
+or harm" shall be substituted;
+(c) in sub-section (6), after clause (h), the following clauses shall be inserted,
+namely:—
+"(i) characteristics of goods or nature of services;
+(j) costs associated with switching supply or demand to other areas.";
+(d) in sub-section (7),—
+(i) in clause ( a), after the words "end-use of goods", the words "or the
+nature of services" shall be inserted;
+(ii) after clause (f), the following clauses shall be inserted, namely:—
+"(g) costs associated with switching demand or supply to other
+goods or services;
+(h) categories of customers.".
+15. In section 20 of the principal Act,—
+(a) in sub-section ( 1),  for the words, brackets and letter "clause ( c) of that
+section", the words, brackets, letters and figure "clause (c) of section 5 or acquisition
+of any control, shares, voting right or assets of an enterprise, merger or amalgamation
+referred to in clause (d) of that section" shall be substituted;
+(b) in sub-section (3),  for the words "by notification, enhance or reduce, on the
+basis of the wholesale price index or fluctuations in exchange rate of rupee or foreign
+currencies, the value of assets or the value of turnover", the words "enhance or reduce
+by notification, or keep at the same level, on the basis of the wholesale price index or
+fluctuations in exchange rate of rupee or foreign currencies, or such factors that in its
+opinion are relevant in this matter, the value of assets or the value of turnover or value
+of transaction" shall be substituted;
+(c) in sub-section ( 4), in clause ( c), for the word "combination", the word
+"concentration" shall be substituted.
+16.  In section 21 of the principal Act, in sub-section (1), for the proviso, the following
+proviso shall be substituted, namely:—
+"Provided that any statutory authority, may, suo motu, make a reference to the
+Amendment
+of section 19.
+Amendment
+of section 20.
+Amendment
+of section 21.
+SEC. 1] THE GAZETTE OF INDIA EXTRAORDINARY 9
+Commission on any issue that involves any provision of this Act or is related to
+promoting the objectives of this Act, as the case may be.".
+17. In section 21A of the principal Act, in sub-section (1),—
+(a) for the words "this Act", the words "an Act" shall be substituted;
+(b) for the proviso, the following proviso shall be substituted, namely:—
+"Provided that the Commission, may , suo motu, make a reference to a
+statutory authority on any issue that involves provisions of an Act whose
+implementation is entrusted to that statutory authority.".
+18.  In section 22 of the principal Act, in sub-section (3), the words "and in the event
+of equality of votes, the Chairperson or in his absence, the Member presiding, shall have a
+second or casting vote" shall be omitted.
+19. In section 26 of the principal Act,—
+(a) after sub-section (2), the following sub-section shall be inserted, namely:—
+"(2A) The Commission may not inquire into agreement referred to in
+section 3 or conduct of an enterprise or group under section 4, if the same or
+substantially the same facts and issues raised in the information received under
+section 19 or reference from the Central Government or a State Government or a
+statutory authority has already been decided by the Commission in its previous
+order.";
+(b) after sub-section (3), the following sub-sections shall be inserted, namely:—
+"(3A) If, after consideration of the report of the Director General referred to
+in sub-section (3), the Commission is of the opinion that further investigation is
+required, it may direct the Director General to investigate further into the matter.
+(3B) The  Director  General  shall,  on  receipt  of  direction  under
+sub-section (3A), investigate the matter and submit a supplementary report on
+his findings within such period as may be specified by the Commission.";
+(c) in sub-section ( 4), for the word, brackets and figure "sub-section ( 3)",
+at both the places where they occur , the words, brackets, figures and letter
+"sub-sections (3) and ( 3B)" shall be substituted;
+(d) in sub-section (5), for the word, brackets and figure "sub-section ( 3)", the
+words, brackets, figures and letter "sub-sections ( 3) and (3B)" shall be substituted;
+(e) in sub-section ( 8), for the word, brackets and figure "sub-section ( 3)", the
+words, brackets, figures and letter "sub-sections ( 3) and (3B)" shall be substituted;
+(f) after sub-section (8), the following sub-section shall be inserted, namely:—
+"(9) Upon  completion  of  the  investigation  or  inquiry  under
+sub-section (7) or sub-section (8), as the case may be, the Commission may pass
+an order closing the matter or pass an order under section 27, and send a copy of
+its order to the Central Government or the State Government or the statutory
+authority or the parties concerned, as the case may be:
+Provided that before passing such order , the Commission shall issue a
+show-cause notice indicating the contraventions alleged to have been committed
+and such other details as may be specified by regulations and give a reasonable
+opportunity of being heard to the parties concerned.".
+20. In section 27 of the principal Act, for clause ( b), the following clause shall be
+substituted, namely:—
+'(b) impose such penalty, as it may deem fit which shall be not more than ten
+per cent. of the average of the turnover or income, as the case may be, for the last three
+Amendment of
+section 21A.
+Amendment
+of section 22.
+Amendment
+of section 26.
+Amendment
+of section 27.
+10 THE GAZETTE OF INDIA EXTRAORDINARY [PART II—
+preceding financial years, upon each of such person or enterprise which is a party to
+such agreement or has abused its dominant position:
+Provided that in case any agreement referred to in section 3 has been entered
+into by a cartel, the Commission may impose upon each producer, seller, distributor,
+trader or service provider included in that cartel, a penalty of up to three times of its
+profit for each year of the continuance of such agreement or ten per cent. of its
+turnover or income, as the case may be, for each year of the continuance of such
+agreement, whichever is higher.
+Explanation 1.—For the purposes of this clause, the expression "turnover" or
+"income", as the case may be, shall be determined in such manner as may be specified
+by regulations.
+Explanation  2.—For the purposes of this clause, "turnover" means global
+turnover derived from all the products and services by a person or an enterprise.'.
+21. In section 29 of the principal Act,—
+(a) in sub-section ( 1), for the words "within thirty days", the words "within
+fifteen days" shall be substituted;
+(b) after sub-section (1A), the following sub-section shall be inserted, namely:—
+"(1B) The Commission shall, within thirty days of receipt of notice under
+sub-section ( 2) of section 6, form its prima facie  opinion referred to in
+sub-section ( 1).";
+(c) in sub-section (2),—
+(i) for the words "within seven working days", the words "within seven
+days" shall be substituted;
+(ii) for the words "within ten working days", the words "within seven
+days" shall be substituted;
+(d) in sub-section (3), for the words "within fifteen working days", the words
+"within ten days" shall be substituted;
+(e) in sub-section (4), for the words "within fifteen working days", the words
+"within seven days" shall be substituted;
+(f) in sub-section ( 5), for the words "within fifteen days", the words "within
+ten days" shall be substituted;
+(g) for sub-section (6), the following sub-sections shall be substituted, namely:—
+"(6) After receipt of all information, the Commission shall proceed to deal
+with the case in accordance with the provisions contained in section 29A or
+section 31, as the case may be.
+(7) Notwithstanding anything contained in this section, the Commission
+may accept appropriate modifications offered by the parties to the combination
+or suo motu  propose modifications, as the case may be, before forming a
+prima facie opinion under sub-section (1).".
+22.  After section 29 of the principal Act, the following section shall be inserted,
+namely:—
+"29A. (1) Upon completion of the process under section 29, where the Commission
+is of the opinion that the combination has, or is likely to have, an appreciable adverse
+effect on competition, it shall issue a statement of objections to the parties identifying
+such appreciable adverse effect on competition and direct the parties to explain within
+twenty-five days of receipt of the statement of objections, why such combination
+should be allowed to take effect.
+(2) Where the parties to the combination consider that such appreciable adverse
+effect on competition can be eliminated by suitable modification to such combination,
+Amendment
+of section 29.
+Insertion of
+new section
+29A.
+Issue of
+statement of
+objections by
+Commission
+and proposal
+of
+modifications.
+SEC. 1] THE GAZETTE OF INDIA EXTRAORDINARY 11
+they may submit an offer of appropriate modification to the combination along with
+their explanation to the statement of objections issued under sub-section ( 1) in such
+manner as may be specified by regulations.
+(3) If the Commission does not accept the modification submitted by the parties
+under sub-section (2) it shall, within seven days from the date of receipt of the proposed
+modifications under that sub-section, communicate to the parties as to why the
+modification is not sufficient to eliminate the appreciable adverse effect on competition
+and call upon the parties to furnish, within twelve days of the receipt of the said
+communication, revised modification, if any, to eliminate the appreciable adverse effects
+on competition:
+Provided that the Commission shall evaluate such proposal for modification
+within twelve days from receipt of such proposal:
+Provided further that the Commission may suo motu  propose appropriate
+modifications to the combination which may be considered by the parties to the
+combination.".
+23. In section 31 of the principal Act,—
+(a) in the marginal heading, the word "certain" shall be omitted;
+(b) in sub-section (1), the words "including the combination" shall be omitted;
+(c) after sub-section (1), the following proviso shall be inserted, namely:—
+"Provided that if the Commission does not form a prima facie opinion
+as provided under sub-section (1B) of section 29, the combination shall be
+deemed to have been approved and no separate order shall be required to be
+passed.";
+(d) for sub-sections ( 3), (4), (5) and ( 6), the following sub-sections shall be
+substituted, namely:—
+"(3) Where the Commission is of the opinion that any appreciable adverse
+effect on competition that the combination has, or is likely to have, can be
+eliminated by modification proposed by the parties or the Commission, as the
+case may be, under sub-section ( 7) of section 29 or sub-section ( 2) or
+sub-section (3) of section 29A, it may approve the combination subject to such
+modifications as it thinks fit.
+(4) Where a combination is approved by the Commission under
+sub-section (3), the parties to the combination shall carry out such modification
+within such period as may be specified by the Commission.
+(5) Where—
+(a) the Commission has directed under sub-section ( 2) that the
+combination shall not take effect; or
+(b) the parties to the combination, fail to carry out the modification
+within such period as may be specified by the Commission under
+sub-section (4); or
+(c) the Commission is of the opinion that the combination has, or is
+likely to have, an appreciable adverse effect on competition which cannot
+be eliminated by suitable modification to such combination,
+then, without prejudice to any penalty which may be imposed or any prosecution
+which may be initiated under this Act, the Commission may order that such
+combination shall not be given effect to, or be declared void, or frame a scheme
+to be implemented by the parties to address the appreciable adverse effect on
+competition, as the case may be.
+Amendment
+of section 31.
+12 THE GAZETTE OF INDIA EXTRAORDINARY [PART II—
+(6) If no order is passed or direction issued by the Commission in
+accordance with  the provisions of sub-section ( 1) or sub-section ( 2) or
+sub-section (3) or  sub-section (5), as the case may be, within a period of one
+hundred and fifty days from the date of notice given to the Commission under
+sub-section (2) of section 6,  the combination shall be deemed to have been
+approved by the Commission.";
+(e) sub-sections (7), (8), (9), (10), (11) and (12) shall be omitted.
+24. In section 32 of the principal Act, for the figures and word "29 and 30", the figures,
+letter and word "29, 29A and 30" shall be substituted.
+25. Section 35 of the principal Act shall be numbered as sub-section (1) thereof,—
+(a) in sub-section (1) as so numbered, for the words "A person or an enterprise",
+the words "A party'' shall be substituted;
+(b) after sub-section ( 1) as so numbered, the following sub-section shall be
+inserted, namely:—
+"(2) Without prejudice to sub-section (1), a party may call upon experts
+from the fields of economics, commerce, international trade or from any other
+discipline to provide an expert opinion in connection with any matter related to
+a case.".
+26. In section 41 of the principal Act,—
+(a) for sub-section (3), the following sub-sections shall be substituted, namely:—
+"(3) Without prejudice to sub-section (2), it shall be the duty of all officers,
+other employees and agents of a party which are under investigation—
+(a) to preserve and to produce all information, books, papers, other
+documents and records of, or relating to, the party which are in their
+custody or power to the Director General or any person authorised by it in
+this behalf; and
+(b) to give all assistance in connection with the investigation to the
+Director General.
+(4) The Director General may require any person other than a party referred
+to in sub-section (3) to furnish such information or produce such books, papers,
+other documents or records before it or any person authorised by it in this behalf
+if furnishing of such information or the production of such books, papers, other
+documents or records is relevant or necessary for the purposes of its
+investigation.
+(5) The Director General may keep in his custody any information, books,
+papers, other documents or records produced under sub-section ( 3) or
+sub-section (4) for a period of one hundred and eighty days and thereafter shall
+return the same to the person by whom or on whose behalf the information,
+books, papers, other documents or records were produced:
+Provided that the information, books, papers, other documents or records
+may be called for by the Director General if they are needed again for a further
+period of one hundred and eighty days by an order in writing:
+Amendment
+of section 32.
+Amendment
+of section 35.
+Amendment
+of section 41.
+SEC. 1] THE GAZETTE OF INDIA EXTRAORDINARY 13
+Provided further that the certified copies of the information, books, papers,
+other documents or records, as may be applicable, produced before the Director
+General may be provided to the party or person on whose behalf the information,
+books, papers, other documents or records are produced at their own cost.
+(6) The Director General may examine on oath—
+(a) any of the officers and other employees and agents of the party
+being investigated; and
+(b) with the previous approval of the Commission, any other person,
+in relation to the affairs of the party being investigated and may administer an
+oath accordingly and for that purpose may require any of those persons to
+appear before it personally.
+(7) The examination under sub-section (6) shall be recorded in writing and
+shall be read over to or by, and signed by, the person examined and may thereafter
+be used in evidence against it.
+(8) Where in the course of investigation, the Director General has reasonable
+grounds to believe that information, books, papers, other documents or records
+of, or relating to, any party or person, may be destroyed, mutilated, altered,
+falsified or secreted, the Director General may make an application to the Chief
+Metropolitan Magistrate, Delhi for an order for seizure of such information,
+books, papers, other documents or records.
+(9) The Director General may make requisition of the services of any police
+officer or any officer of the Central Government to assist him for all or any of the
+purposes specified in sub-section ( 10) and it shall be the duty of every such
+officer to comply with such requisition.
+(10) The Chief Metropolitan Magistrate, Delhi may, after considering the
+application and hearing from the Director General, by order, authorise the Director
+General—
+(a) to enter, with such assistance, as may be required, the place or
+places where such information, books, papers, other documents or records
+are kept;
+(b) to search that place or places in the manner specified in the
+order; and
+(c) to seize information, books, papers, other documents or records
+as it considers necessary for the purpose of the investigation:
+Provided that certified copies of the seized information, books, papers,
+other documents or records, as the case may be, may be provided to the party or
+person from whose place or places such documents have been seized at its cost.
+(11) The Director General shall keep in his custody such information,
+books, papers, other documents or records seized under this section for such
+period not later than the conclusion of the investigation as it considers necessary
+and thereafter shall return the same to the party or person from whose custody
+or power they were seized and inform the Chief Metropolitan Magistrate, of
+such return:
+Provided that the Director General may, before returning such information,
+books, papers, other documents or records take copies of, or extracts thereof or
+place identification marks on them or any part thereof.
+14 THE GAZETTE OF INDIA EXTRAORDINARY [PART II—
+(12) Save as otherwise provided in this section, every search or seizure
+made under this section shall be carried out in accordance with the provisions of
+the Code of Criminal Procedure, 1973, relating to search or seizure made under
+that Code.";
+(b) for the Explanation , the following Explanation shall be substituted,
+namely:—
+‘Explanation.—For the purposes of this section,—
+(a) "agent", in relation to any person, means any one acting or
+purporting to act for or on behalf of such person, and includes the bankers,
+and persons employed as auditors and legal advisors, by such person;
+(b) "officers", in relation to any company or body corporate, includes
+any trustee for the debenture holders of such company or body corporate;
+(c) any reference to officers and other employees or agents shall be
+construed as a reference to past as well as present officers and other
+employees or agents, as the case may be.’.
+27. In section 42 of the principal Act,—
+(a) in sub-section (2), for the words, figures and letters "sections 27, 28, 31, 32,
+33, 42A and 43A of the Act, he shall be punishable with fine", the words, figures and
+letters "sections 6, 27, 28, 31, 32, 33, 42A, 43, 43A, 44 and 45 of the Act, he shall be liable
+to a penalty" shall be substituted;
+(b) in sub-section ( 3), for the words, brackets and  figure "pay the fine
+imposed under sub-section ( 2)'', the words, brackets and  figure "pay the penalty
+imposed under sub-section (2)'' shall be substituted.
+28. In section 42A of the principal Act, for the words and figures "under sections 27",
+the words and figures "under sections 6, 27" shall be substituted.
+29. In section 43 of the principal Act, for the words "shall be punishable with fine", the
+words "shall be liable to a penalty" shall be substituted.
+30. For section 43A of the principal Act, the following section shall be substituted,
+namely:—
+"43A. If any person or enterprise fails to give notice to the Commission under
+sub-section (2) or sub-section ( 4) of section 6 or contravenes sub-section ( 2A) of
+section 6 or submit information pursuant to an inquiry under sub-section ( 1) of
+section 20, the Commission may impose on such person or enterprise, a penalty which
+may extend to one per cent., of the total turnover or assets or the value of transaction
+referred to in clause (d) of section 5, whichever is higher, of such a combination:
+Provided that in case any person or enterprise has given a notice under
+sub-section ( 4) of section 6 and such notice is found to be void ab initio under
+sub-section (6) of section 6, then a notice under sub-section ( 2) of section 6 may be
+given by the acquirer or parties to the combination, as may be applicable, within a
+period of thirty days of the order of the Commission under sub-section ( 6) of that
+section and no action under this section shall be taken by the Commission till the
+expiry of such period of thirty days.".
+31. In section 44 of the principal Act, for the words "rupees one crore", the words
+"rupees five crore" shall be substituted.
+2 of 1974.
+Amendment
+of section 42.
+Amendment
+of section
+42A.
+Amendment
+of section 43.
+Substitution
+of new
+section for
+section 43A.
+Power to
+impose
+penalty for
+non-
+furnishing of
+information
+on
+combination.
+Amendment
+of section 44.
+SEC. 1] THE GAZETTE OF INDIA EXTRAORDINARY 15
+32. In section 45 of the principal Act,—
+(a) in the marginal heading, for the word "offences", the word "contraventions"
+shall be substituted;
+(b) in sub-section (1),—
+(i) after the words "W ithout prejudice to the provisions of", the words,
+brackets and figures "sub-section (6) of section 6 and" shall be inserted;
+(ii) for the words "punishable with fine", the words "liable to a penalty"
+shall be substituted.
+33. For section 46 of the principal Act, the following section shall be substituted,
+namely:—
+"46. ( 1) The Commission may , if it is satisfied that any producer , seller ,
+distributor, trader or service provider included in any cartel, which is alleged to have
+violated section 3, has made a full and true disclosure in respect of the alleged
+violations and such disclosure is vital, impose upon such producer, seller, distributor,
+trader or service provider a lesser penalty as may be specified by regulations, than
+leviable under this Act or the rules or the regulations made under this Act:
+Provided that lesser penalty shall not be imposed by the Commission in cases
+where the report of investigation directed under section 26 has been received before
+making of such disclosure:
+Provided further that lesser penalty shall be imposed by the Commission only in
+respect of a producer , seller, distributor, trader or service provider included in the
+cartel, who has made the full, true and vital disclosures under this section:
+Provided also that lesser penalty shall not be imposed by the Commission if the
+person making the disclosure does not continue to co-operate with the Commission till
+the completion of the proceedings before the Commission:
+Provided also that the Commission may , if it is satisfied that such producer ,
+seller, distributor, trader or service provider included in the cartel had in the course of
+proceedings,—
+(a) not complied with the condition on which the lesser penalty was
+imposed by the Commission; or
+(b) had given false evidence; or
+(c) the disclosure made is not vital,
+and thereupon such producer, seller, distributor, trader or service provider may be tried
+for the contravention with respect to which the lesser penalty was imposed and shall
+also be liable to the imposition of penalty to which such person has been liable, had
+lesser penalty not been imposed.
+(2) The Commission may allow a producer, seller, distributor, trader or service
+provider included in the cartel, to withdraw its application for lesser penalty under this
+section, in such manner and within such time as may be specified by regulations.
+(3) Notwithstanding anything contained in sub-section (2), the Director General
+and the Commission shall be entitled to use for the purposes of this Act, any evidence
+submitted by a producer, seller, distributor, trader or service provider in its application for
+lesser penalty, except its admission.
+(4) Where during the course of the investigation, a producer, seller, distributor,
+trader or service provider who has disclosed a cartel under sub-section ( 1), makes a
+full, true and vital disclosure under sub-section ( 1) with respect to another cartel in
+which it is alleged to have violated section 3, which enables the Commission to form a
+prima facie opinion under sub-section (1) of section 26 that there exists another cartel,
+then the Commission may impose upon such producer , seller, distributor, trader or
+Amendment
+of section 45.
+Substitution of
+new section
+for section 46.
+Power to
+impose lesser
+penalty .
+16 THE GAZETTE OF INDIA EXTRAORDINARY [PART II—
+service provider a lesser penalty as may be specified by regulations, in respect of the
+cartel already being investigated, without prejudice to the producer, seller, distributor,
+trader or service provider obtaining lesser penalty under sub-section (1) regarding the
+newly disclosed cartel.".
+34. In section 47 of the principal Act, after the word "penalties'', the words "and
+recovery of legal costs by the Commission" shall be inserted.
+35. For section 48 of the principal Act, the following sections shall be substituted,
+namely:—
+'48. (1) Where a person committing contravention of any of the provisions of
+this Act or of any rule, regulation, order made or direction issued thereunder is a company,
+every person who, at the time the contravention was committed, was in charge of, and
+was responsible to the company for the conduct of the business of the company , as
+well as the company, shall be deemed to be in contravention of this Act and unless
+otherwise provided in this Act, the Commission may impose such penalty on such
+persons, as it may deem fit which shall not be more than ten per cent. of the average of
+the income for the last three preceding financial years:
+Provided that in case any agreement referred to in sub-section (3) of section 3
+has been entered into by a cartel, the Commission may unless otherwise provided in
+this Act, impose upon such persons referred to in sub-section (1),  a penalty of up to
+ten per cent. of the income for each year of the continuance of such agreement.
+(2) Nothing contained in sub-section (1) shall render any such person liable to
+any penalty if he proves that the contravention was committed without his knowledge or
+that he had exercised all due diligence to prevent the commission of such
+contravention.
+(3) Notwithstanding anything contained in sub-section ( 1), where a
+contravention of any of the provisions of this Act or of any rule, regulation, order
+made or direction issued thereunder has been committed by a company and it is
+proved that the contravention has taken place with the consent or connivance of, or is
+attributable to any neglect on the part of, any director , manager, secretary or other
+officers of the company, such director, manager, secretary or other officers shall also
+be deemed to be in contravention of the provisions of this Act and unless otherwise
+provided in this Act, the Commission may impose such penalty on such persons, as it
+may deem fit which shall not be more than ten per cent. of the average of the income for
+the last three preceding financial years:
+Provided that in case any agreement referred to in sub-section (3) of section 3
+has been entered into by a cartel, the Commission may , unless otherwise provided
+under this Act, impose upon such person a penalty as it may deem fit which shall not
+exceed ten per cent. of the income for each year of the continuance of such agreement.
+Explanation.—For the purposes of this section,—
+(a) "company" means a body corporate and includes a firm or other
+association of individuals;
+(b) "director", in relation to a firm, means a partner in the firm;
+(c) "income", in relation to a person, shall be determined in such manner as
+may be specified by regulations.
+48A. (1) Any enterprise, against whom any inquiry has been initiated under
+sub-section ( 1) of section 26 for contravention of sub-section ( 4) of section 3 or
+section 4, may, for settlement of the proceeding initiated for the alleged contraventions,
+submit an application in writing to the Commission in such form and upon payment of
+such fee as may be specified by regulations.
+Amendment
+of section 47.
+Substitution of
+new sections
+for section 48.
+Contravention
+by companies.
+Settlement.
+SEC. 1] THE GAZETTE OF INDIA EXTRAORDINARY 17
+(2) An application under sub-section (1) may be submitted at any time after the
+receipt of the report of the Director General under sub-section ( 4) of section 26 but
+prior to such time before the passing of an order under section 27 or section 28 as may
+be specified by regulations.
+(3) The Commission may, after taking into consideration the nature, gravity and
+impact of the contraventions, agree to the proposal for settlement, on payment of such
+amount by the applicant or on such other terms and manner of implementation of
+settlement and monitoring as may be specified by regulations.
+(4) While considering the proposal for settlement, the Commission shall provide
+an opportunity to the party concerned, the Director General, or any other party to
+submit their objections and suggestions, if any.
+(5) If the Commission is of the opinion that the settlement offered under
+sub-section (1) is not appropriate in the circumstances or if the Commission and the
+party  concerned do not reach an agreement on the terms of the settlement within such
+time as may be specified by regulations, it shall, by order, reject the settlement application
+and proceed with its inquiry under section 26.
+(6) The procedure for conducting the settlement proceedings under this section
+shall be such as may be specified by regulations.
+(7) No appeal shall lie under section 53B against any order passed by the
+Commission under this section.
+(8) All settlement amounts, realised under this Act shall be credited to the
+Consolidated Fund of India.
+48B. (1) Any enterprise, against whom any inquiry has been initiated under
+sub-section ( 1) of section 26 for contravention of sub-section ( 4) of section 3 or
+section 4, as the case may be, may submit an application in writing to the Commission,
+in such form and on payment of such fee as may be specified by regulations, offering
+commitments in respect of the alleged contraventions stated in the Commission's
+order under sub-section (1) of section 26.
+(2) An offer for commitments under sub-section (1) may be submitted at any time
+after an order under sub-section (1) of section 26 has been passed by the Commission
+but within such time prior to the receipt by the party of the report of the Director
+General under sub-section (4) of section 26 as may be specified by regulations.
+(3) The Commission may, after taking into consideration the nature, gravity and
+impact of the alleged contraventions and effectiveness of the proposed commitments,
+accept the commitments offered on such terms and the manner of implementation and
+monitoring as may be specified by regulations.
+(4) While considering the proposal for commitment, the Commission shall provide
+an opportunity to the party concerned, the Director General, or any other party to
+submit their objections and suggestions, if any.
+(5) If the Commission is of the opinion that the commitment offered under
+sub-section (1) is not appropriate in the circumstances or if the Commission and the
+party concerned do not reach an agreement on the terms of the commitment, it shall
+pass an order rejecting the commitment application and proceed with its inquiry under
+section 26 of the Act.
+(6) The procedure for commitments offered under this section shall be such as
+may be specified by regulations.
+(7) No appeal shall lie under section 53B against any order passed by the
+Commission under this section.
+Commitment.
+18 THE GAZETTE OF INDIA EXTRAORDINARY [PART II—
+48C. If an applicant fails to comply with the order passed under section 48A or
+section 48B or it comes to the notice of the Commission that the applicant has not
+made full and true disclosure or there has been a material change in the facts, the order
+passed under section 48A or section 48B, as the case may be, shall stand revoked and
+withdrawn and such enterprise shall be liable to pay legal costs incurred by the
+Commission which may extend to rupees one crore and the Commission may restore or
+initiate the inquiry in respect of which the order under section 48A or section 48B was
+passed.'.
+36. In section 49 of the principal Act, in sub-section (3), after the words "competition
+advocacy", the words "or culture" shall be inserted.
+37. In section 51 of the principal Act, in sub-section (1), after clause (d), the following
+clause shall be inserted, namely:—
+"(e) all sums received by the Commission from such other sources as may be
+decided upon by the Government.".
+38. In section 53A of the principal Act, in sub-section (1), in clause (a), for the words,
+brackets and figures "sub-sections ( 2) and (6) of section 26", the words, brackets, figures
+and letter "sub-section ( 6) of section 6, sub-sections ( 2), (2A), (6) and ( 9) of section 26"
+shall be substituted.
+39. In section 53B, in sub-section (2), after the proviso, the following proviso shall be
+inserted, namely:—
+"Provided further that no appeal by a person, who is required to pay any amount
+in terms of an order of the Commission, shall be entertained by the Appellate Tribunal
+unless the appellant has deposited twenty-five per cent. of that amount in the manner
+as directed by the Appellate Tribunal.".
+40. In section 53N of the principal Act,—
+(a) in sub-section ( 1), for the words, brackets, figures and letter "under
+sub-section (2) of section 53Q of the Act, and to pass an order for the recovery of
+compensation from any enterprise for any loss or damage shown to have been suffered,
+by the Central Government or a State Government or a local authority or any enterprise
+or any person as a result of any contravention of the provisions of  Chapter II, having
+been committed by enterprise", the words, brackets, figures and letters "under
+sub-section (2) of section 53Q or the orders of the Supreme Court in an appeal against
+the findings of  the Appellate Tribunal under section 53T or an order for settlement
+passed under section 48A, and to pass an order for the recovery of compensation from
+any enterprise for any loss or damage shown to have been suffered, by the Central
+Government or a State Government or a local authority or any enterprise or any person
+as a result of any contravention of the provisions of  Chapter II, having been committed
+by enterprise or as a result of order of settlement passed by the Commission" shall be
+substituted;
+(b) in sub-section (2), after the words "findings of the Commission", the words
+"or Appellate Tribunal or the Supreme Court, or an order for settlement" shall be
+inserted;
+(c) in the Explanation,—
+(i) in clause (a), after the words, brackets, figures and letter "sub-section (1)
+of section 53A", the words, figures and letter "or the Supreme Court on appeal
+under section 53T" shall be inserted;
+(ii) in clause (b), after the words "or the Appellate Tribunal", the words "or
+the Supreme Court," shall be inserted.
+Revocation
+of the
+settlement or
+commitment
+order and
+penalty .
+Amendment
+of section 49.
+Amendment
+of section 51.
+Amendment
+of section
+53A.
+Amendment
+of section
+53B.
+Amendment
+of section
+53N.
+SEC. 1] THE GAZETTE OF INDIA EXTRAORDINARY 19
+41. In section 53Q of the principal Act, for sub-section (1), the following sub-section
+shall be substituted, namely:—
+"(1) Without prejudice to the provisions of this Act, if any person contravenes,
+without any reasonable ground, any order of the Appellate Tribunal, he shall be liable
+for contempt proceeding under section 53U.".
+42. After section 59 of the principal Act, the following section shall be inserted, namely:—
+"59A. Notwithstanding anything contained in the Code of Criminal Procedure, 1973,
+any of fence punishable under this Act, not being an of fence punishable with
+imprisonment only or imprisonment and also with fine, may either before or after the
+institution of any proceeding, be compounded by the Appellate Tribunal or a court
+before which such proceeding is pending.".
+43. In section 63 of the principal Act, in sub-section (2),—
+(i) clause (a) shall be re-lettered as clause (ae) thereof, and before clause (ae) as
+so re-lettered, the following clauses shall be inserted, namely:—
+"(a) the value of the assets or turnover of the enterprise acquired, taken
+control of, merged or amalgamated in India under clause (e) of section 5;
+(ab) the percentage of voting rights higher than twenty-six per cent. under
+sub-clause (i) of clause (b) of the Explanation to section 5;
+(ac) the criteria of combinations under sub-section (4) of section 6;
+(ad) the criteria under sub-section (7) of section 6;";
+(ii) after clause (mf), the following clause shall be inserted, namely:—
+"(mg) the form of the publication of guidelines under sub-section (5)  of
+section 64B;".
+44. In section 64 of the principal Act, in sub-section (2),—
+(i) for clause (c), the following clauses shall be substituted, namely:—
+"(c) the manner of determination of substantial business operations in
+India under clause (d) of section 5;
+(ca) the form and fee for notice for combination under sub-section (4) of
+section 6;
+ (cb) the time and manner for filing notice of acquisition under clause (a) of
+section 6A;
+(cc) the manner and circumstance in which the acquirer may exercise the
+ownership or beneficial right or interest in shares or convertible securities
+including voting right and receipt of dividends or any other distributions as an
+exception under clause (b) of section 6A;";
+(ii) after clause (f), the following clauses shall be inserted, namely:—
+"(fa) other details to be indicated in the show-cause notice under
+sub-section (9) of section 26;
+(fb) the manner of determining turnover or income under the Explanation
+to clause (b) of section 27;
+(fc) the manner in which modification may be proposed by parties to the
+combination to the Commission under sub-section (2) of section 29A;";
+(iii) after clause (g), the following clauses shall be inserted, namely:—
+"(ga) the lesser penalty to be imposed on producer , seller, distributor,
+trader or service provider under sub-section (1) of section 46;
+Amendment
+of section 63.
+Amendment
+of section 64.
+Amendment
+of section
+53Q.
+Insertion of
+new section
+59A.
+Compounding
+of certain
+offences.
+2 of 1974.
+20 THE GAZETTE OF INDIA EXTRAORDINARY [PART II—
+(gb) the manner and time for withdrawal of application for lesser penalty
+under sub-section (2) of section 46;
+(gc) the lesser penalty to be imposed on producer, seller, distributor, trader
+or service provider under sub-section (4) of section 46;
+(gd) the manner of determining income under clause (c) of Explanation to
+section 48;
+(ge) the form of application and fee under sub-section (1), the time under
+sub-section (2), the terms and manner of implementations and monitoring under
+sub-section (3) and the procedure for conducting settlement proceedings under
+sub-section (6) of section 48A;
+(gf) the form of application and fee under sub-section (1), the time under
+sub-section (2), the terms and manner of implementations and monitoring under
+sub-section (3) and the procedure for commitments offered under sub-section (6)
+of section 48B;
+(gg) the other details to be published along with draft regulations and the
+period for inviting public comments under clause (a) of section 64A;".
+45. After section 64 of the principal Act, the following sections shall be inserted,
+namely:—
+ "64A. The Commission shall ensure transparency while making regulations
+under section 64, by—
+(a) publishing draft regulations along with such other details as may be
+specified on its website and inviting public comments for a specified period prior
+to issuing regulations;
+ (b) publishing a general statement of its response to the public comments,
+not later than the date of notification of the regulations;
+(c) periodically reviewing such regulations:
+Provided that if the Commission is of the opinion that certain regulations are
+required to be made or existing regulations are required to be amended urgently in
+public interest or the subject matter of the regulation relates solely to the internal
+functioning of the Commission, it may make regulations or amend the existing
+regulations, as the case may be, without following the provisions stated in this section
+recording the reason, for doing so.
+64B. (1) The Commission may publish guidelines on the provisions of this Act or
+the rules and regulations made thereunder either on a request made by a person or on
+its own motion.
+(2) Guidelines issued under sub-section ( 1) shall not be construed as
+determination of any question of fact or law by the Commission, its Members or
+officers and shall not be binding on the Commission, its Members or officers.
+(3) Without prejudice to anything contained in sub-section (1), the Commission
+shall publish guidelines as to the appropriate amount of any penalty for any
+contravention of provision of this Act.
+(4) While imposing penalty under clause (b) of section 27 or under section 43A
+or section 48 for any contravention of provision of this Act, the Commission shall
+consider the guidelines under sub-section ( 3) and provide reasons in case of any
+divergence from such guidelines.
+Insertion of
+new sections
+64A and 64B.
+Process of
+issuing
+regulations.
+Commission
+to issue
+guidelines.
+SEC. 1] THE GAZETTE OF INDIA EXTRAORDINARY 21
+(5) The guidelines under sub-sections ( 1) and ( 3) shall be published in such
+form as may be prescribed.".
+————
+DR. REETA VASISHTA,
+   Secretary to the Govt. of  India.
+MGIPMRND—13GI(S3)—1 1-04-2023.
+UPLOADED BY THE MANAGER, GOVERNMENT OF INDIA PRESS, MINTO ROAD,  NEW DELHI–110002
+AND PUBLISHED BY  THE CONTROLLER OF  PUBLICA TIONS, DELHI–1 10054.

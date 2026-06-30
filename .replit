@@ -1,0 +1,13 @@
+run = "pip install -r requirements.txt --quiet && python3 app.py"
+modules = ["python-3.11"]
+
+[nix]
+channel = "stable-23_11"
+
+[deployment]
+run = ["sh", "-c", "pip install -r requirements.txt --quiet && python3 app.py"]
+deploymentTarget = "cloudrun"
+
+[[ports]]
+localPort = 5057
+externalPort = 80

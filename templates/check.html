@@ -1,0 +1,105 @@
+{% extends "base.html" %}
+{% block content %}
+
+<section class="hero compact">
+  <h1>Check financials against the thresholds</h1>
+  <p class="lede">Upload a financial statement, email or document — figures are parsed <strong>in memory and never stored</strong> — then confirm the numbers and run the check. You can also type figures directly. Amounts accept words like <span class="mono">2,500 crore</span>, <span class="mono">1.25 billion</span> or <span class="mono">450 cr</span>.</p>
+</section>
+
+{% if not avg.has_data %}
+<div class="flash error">No exchange-rate data loaded yet — foreign-currency figures can't be converted. Go to <a href="{{ url_for('index') }}">Rates &amp; Thresholds</a> and click <em>Fetch RBI rates now</em> first.</div>
+{% endif %}
+
+<form method="post" enctype="multipart/form-data" class="check-form">
+
+  <!-- UPLOAD -->
+  <section class="card">
+    <h2>1 · Upload documents <span class="muted">(optional)</span></h2>
+    <div id="dropzone" class="dropzone">
+      <input type="file" id="documents" name="documents" multiple
+             accept=".pdf,.xlsx,.docx,.csv,.txt,.eml,.htm,.html">
+      <p>Drop files here or click to choose · PDF, Excel, Word, CSV, TXT, EML</p>
+    </div>
+    <div id="extractNotes" class="muted small"></div>
+    <div id="candidates" class="candidates"></div>
+    <p class="muted small">Tip: click a detected figure, then click the field below you want to fill it into.</p>
+  </section>
+
+  <!-- INPUTS -->
+  <section class="card">
+    <div class="card-head">
+      <h2>2 · Confirm the figures</h2>
+      <div class="inline-form">
+        <label>Currency</label>
+        <select name="currency" id="currency">
+          {% for c in currencies %}<option value="{{ c }}" {{ 'selected' if c==form_ccy }}>{{ c }}</option>{% endfor %}
+        </select>
+        <label>Default magnitude</label>
+        <select name="scale" id="scale">
+          {% for v, lbl in scales %}<option value="{{ v }}" {{ 'selected' if v==form_scale }}>{{ lbl }}</option>{% endfor %}
+        </select>
+      </div>
+    </div>
+    <p class="muted small">“Default magnitude” is applied only when you don’t type a scale word yourself. So with magnitude = <em>crore</em>, typing <span class="mono">2500</span> means ₹2,500 crore; typing <span class="mono">1.25 billion</span> always means 1.25 billion regardless.</p>
+
+    {% for group, items in groups.items() %}
+      <fieldset class="field-group">
+        <legend>{{ group }}</legend>
+        <div class="field-grid">
+          {% for fid, meta in items %}
+            <label class="field">
+              <span class="field-label">{{ meta.label }}{% if meta.is_percent %} <em>(%)</em>{% endif %}</span>
+              <input type="text" name="{{ fid }}" data-field="{{ fid }}"
+                     value="{{ inputs.get(fid, '') }}"
+                     placeholder="{{ '0–100' if meta.is_percent else 'e.g. 2,500 or 1.25 billion' }}"
+                     autocomplete="off">
+              {% if meta.hint %}<span class="muted small">{{ meta.hint }}</span>{% endif %}
+            </label>
+          {% endfor %}
+        </div>
+      </fieldset>
+    {% endfor %}
+
+    <button type="submit" class="btn primary">Run threshold check →</button>
+  </section>
+</form>
+
+<!-- RESULTS -->
+{% if results %}
+<section id="results" class="card">
+  <h2>3 · Result</h2>
+
+  <div class="verdict {{ results.summary.tone }}">
+    <div class="verdict-badge">{{ results.summary.verdict }}</div>
+    <div class="verdict-body">
+      <p class="verdict-headline">{{ results.summary.headline }}</p>
+      {% if results.summary.points %}
+        <ul>{% for p in results.summary.points %}<li>{{ p }}</li>{% endfor %}</ul>
+      {% endif %}
+    </div>
+  </div>
+
+  <table class="data results-table">
+    <thead><tr><th>Threshold</th><th>Status</th><th>Detail</th></tr></thead>
+    <tbody>
+      {% for t, r in ordered %}
+      <tr class="sev-{{ r.severity }}">
+        <td>
+          <div class="th-label">{{ t.label }}</div>
+          <div class="cite small">{{ t.citation }}</div>
+        </td>
+        <td><span class="pill pill-{{ r.severity }}">{{ r.status.replace('_',' ') }}</span></td>
+        <td class="detail">{{ r.message }}</td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+  <p class="muted small">{{ meta.disclaimer }}</p>
+</section>
+{% endif %}
+
+{% endblock %}
+
+{% block scripts %}
+<script>initCheckPage();</script>
+{% endblock %}

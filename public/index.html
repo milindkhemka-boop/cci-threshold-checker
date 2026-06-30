@@ -1,0 +1,243 @@
+<!doctype html>
+<html lang="en"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>CCI merger-control thresholds</title>
+<meta name="description" content="CCI merger-control (Section 5) thresholds converted to any currency on the six-month average of RBI reference rates.">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;1,600&family=IBM+Plex+Mono:wght@500;600&family=IBM+Plex+Sans:wght@400;600&display=swap" rel="stylesheet">
+<style>
+:root{--navy:#0b2645;--copper:#bf7c54;--copper2:#a5673f;--copperS:#d6a982;--sageBg:#e7eedb;--sageLine:#cdd9b8;--cream:#f5f1e6;--page:#fffdf8;--page2:#f2ecdd;--line:#e3ddcc;--line2:#d3cbb2;--ink:#0b2645;--ink2:#2a3340;--muted:#787566;
+--serif:"Cormorant Garamond",Georgia,serif;--sans:"IBM Plex Sans",system-ui,sans-serif;--mono:"IBM Plex Mono",ui-monospace,monospace}
+*{box-sizing:border-box}body{margin:0;font-family:var(--sans);color:var(--ink2);background:var(--cream);font-size:15px;line-height:1.55}
+.wrap{max-width:1080px;margin:0 auto;padding:0 24px}a{color:var(--copper2)}
+.mono{font-family:var(--mono);font-variant-numeric:tabular-nums}.num{text-align:right;white-space:nowrap}.muted{color:var(--muted)}
+header.mh{background:var(--navy);color:#e7ecf2;border-bottom:2px solid var(--copper)}
+.mh-in{display:flex;align-items:center;justify-content:space-between;min-height:64px;gap:16px;flex-wrap:wrap}
+.brand{font-family:var(--serif);font-weight:600;font-size:22px;color:#fff;display:flex;align-items:center;gap:11px}
+.seal{width:26px;height:26px;border:1px solid var(--copperS);border-radius:50%;display:flex;align-items:center;justify-content:center;color:var(--copperS);font-family:var(--serif);font-size:14px}
+.mh nav a{color:#c2cbd7;font-size:11px;font-weight:600;letter-spacing:1.4px;text-transform:uppercase;margin-left:18px;text-decoration:none}
+.mh nav a:hover{color:var(--copperS)}
+.hero{background:var(--navy);color:#e7ecf2;padding:38px 0 44px}
+.eyebrow{font-size:10px;letter-spacing:2px;text-transform:uppercase;color:var(--copperS);font-weight:600}
+h1{font-family:var(--serif);font-weight:600;font-size:46px;line-height:1.05;margin:14px 0 0;color:#fff}
+h1 .c{color:var(--copper)}
+.sub{margin:14px 0 0;max-width:62ch;color:#aeb9c8;font-size:16px}
+.rates{margin-top:26px;border:1px solid #1d3a63;border-radius:8px;overflow:hidden}
+.rates .rh{padding:10px 16px;background:#0e2a4d;border-bottom:1px solid #1d3a63;display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap}
+.rates .rh .eyebrow{color:#9fb0c6}.rates .rh span.win{font-size:12px;color:#8fa0b8}
+.rgrid{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr))}
+.rcell{padding:14px 16px;border-right:1px solid #14305a}.rcell:last-child{border-right:0}
+.rcell .cc{font-family:var(--mono);font-size:11px;color:var(--copperS);font-weight:600}
+.rcell .rv{font-family:var(--mono);font-size:15px;color:#fff;margin-top:3px}
+.rcell .rs{font-size:10.5px;color:#8fa0b8;margin-top:2px}
+section{padding:40px 0}#thresholds{background:var(--cream)}#methodology{background:var(--page)}
+h2{font-family:var(--serif);font-weight:600;font-size:30px;color:var(--ink);margin:0 0 4px}
+.dotrule{display:flex;align-items:center;gap:10px;margin:8px 0 22px}.dotrule .ln{height:1px;width:46px;background:var(--copper);opacity:.5}.dotrule .dt{width:7px;height:7px;border-radius:50%;background:var(--copper)}
+.toolbar{display:flex;gap:24px;flex-wrap:wrap;margin:0 0 18px}
+.tg .lbl{font-size:10px;letter-spacing:1.3px;text-transform:uppercase;color:var(--muted);font-weight:600;display:block;margin-bottom:6px}
+.seg{display:inline-flex;background:var(--page2);border:1px solid var(--line2);border-radius:7px;padding:3px}
+.seg button{font:inherit;font-size:12px;font-weight:600;cursor:pointer;border:0;background:transparent;color:var(--ink2);padding:6px 12px;border-radius:5px}
+.seg button.on{background:var(--navy);color:#fff}
+table.t{width:100%;border-collapse:collapse;font-size:14px}
+table.t thead th{text-align:left;font-size:10px;text-transform:uppercase;letter-spacing:1px;color:var(--muted);font-weight:600;padding:6px 12px 10px;border-bottom:1px solid var(--navy)}
+table.t thead th:last-child,table.t thead th:nth-child(2){text-align:right}
+tr.cat td{padding:18px 12px 6px}
+.sch{display:flex;align-items:center;gap:11px;font-family:var(--serif);font-weight:600;font-size:19px;color:var(--ink)}
+.sch .d{width:8px;height:8px;border-radius:50%;background:var(--copper);box-shadow:0 0 0 3px var(--page)}
+.sch .ln{flex:1;height:1px;background:var(--copper);opacity:.32}
+tr.row td{padding:11px 12px;border-bottom:1px solid var(--line);vertical-align:top}
+tr.row td:first-child{box-shadow:inset 2px 0 var(--copperS)}
+.lab{font-size:14.5px;font-weight:600;color:var(--ink)}
+.leg{font-size:12px;color:var(--muted);margin-top:4px}
+.en{font-family:var(--mono);font-size:12.5px;color:var(--ink2)}
+.en .legv{display:block;color:var(--muted);font-size:11.5px;margin-top:4px}
+.val{font-family:var(--mono);font-weight:600;font-size:14px;color:var(--ink)}
+.val .legv{display:block;color:var(--muted);font-weight:500;font-size:12px;margin-top:4px}
+.foot-note{margin-top:14px;font-size:12px;color:var(--muted);font-style:italic;font-family:var(--serif)}
+.mtable-wrap{max-height:520px;overflow:auto;border:1px solid var(--line);border-radius:8px;margin-top:8px}
+table.m{width:100%;border-collapse:collapse;font-size:13px}
+table.m thead th{position:sticky;top:0;background:var(--page2);text-align:right;font-size:10px;text-transform:uppercase;letter-spacing:.8px;color:var(--muted);font-weight:600;padding:9px 12px;border-bottom:1px solid var(--line2)}
+table.m thead th:first-child{text-align:left}
+table.m td{padding:7px 12px;border-bottom:1px solid var(--line)}
+table.m tr.avg td{font-weight:600;color:var(--ink);background:var(--sageBg);border-top:2px solid var(--copper);position:sticky;bottom:0}
+table.m tr.avg td:first-child{font-family:var(--sans)}
+.mcap{font-size:13px;color:var(--ink2);max-width:80ch}
+footer{background:var(--navy);color:#aeb9c8;border-top:1px solid var(--copper);padding:22px 0;font-size:12.5px}
+footer .dis{font-family:var(--serif);font-style:italic;color:#c8d0db;font-size:14px}
+@media(max-width:620px){h1{font-size:33px}h2{font-size:24px}.mh nav a{margin-left:12px}}
+</style></head>
+<body>
+<header class="mh"><div class="wrap mh-in">
+  <div class="brand"><span class="seal">C</span>CCI Threshold Checker</div>
+  <nav><a href="#thresholds">Thresholds</a><a href="#methodology">Methodology</a></nav>
+</div></header>
+
+<div class="hero"><div class="wrap">
+  <div class="eyebrow">India · merger control</div>
+  <h1>CCI merger-control <span class="c">thresholds</span></h1>
+  <p class="sub">Converted to any currency on the average of RBI reference rates over the trailing six months.</p>
+  <div class="rates">
+    <div class="rh"><span class="eyebrow">Six-month average to 2026-06-29</span><span class="win">116 RBI publication days · 2025-12-29 – 2026-06-24</span></div>
+    <div class="rgrid"><div class='rcell'><div class='cc'>USD</div><div class='rv'>₹92.9667</div><div class='rs'>per 1 USD</div></div><div class='rcell'><div class='cc'>EUR</div><div class='rv'>₹108.5801</div><div class='rs'>per 1 EUR</div></div><div class='rcell'><div class='cc'>GBP</div><div class='rv'>₹125.1501</div><div class='rs'>per 1 GBP</div></div><div class='rcell'><div class='cc'>AED</div><div class='rv'>₹25.4352</div><div class='rs'>per 1 AED · 99 days</div></div><div class='rcell'><div class='cc'>JPY</div><div class='rv'>₹58.8500</div><div class='rs'>per 100 ¥</div></div></div>
+  </div>
+</div></div>
+
+<section id="thresholds"><div class="wrap">
+  <h2>Thresholds</h2><div class="dotrule"><span class="dt"></span><span class="ln"></span></div>
+  <div class="toolbar">
+    <div class="tg"><span class="lbl">Currency</span><div class="seg" id="ccy"><button data-c='INR' class='on'>INR ₹</button><button data-c='USD' class=''>USD $</button><button data-c='EUR' class=''>EUR €</button><button data-c='GBP' class=''>GBP £</button><button data-c='AED' class=''>AED</button></div></div>
+    <div class="tg"><span class="lbl">Numbering</span><div class="seg" id="num"><button data-s="inr" class="on">Lakh · Crore</button><button data-s="intl">Million · Billion</button></div></div>
+  </div>
+  <table class="t"><thead><tr><th>Threshold</th><th>As enacted</th><th id="valhead">Value · INR</th></tr></thead><tbody id="tbody"></tbody></table>
+  <p class="foot-note">Indicative reference, current to 2026-06-29. Not legal advice.</p>
+</div></section>
+
+<section id="methodology"><div class="wrap">
+  <h2>Methodology</h2><div class="dotrule"><span class="dt"></span><span class="ln"></span></div>
+  <p class="mcap">The figures are the simple average of the daily RBI reference rates over the six months to 2026-06-29 (116 publication days, 2025-12-29 – 2026-06-24). Rates are INR per one unit, except JPY which is shown per 100. JPY and IDR are normalised from RBI's per-100 / per-10,000 quotes. Source: <a href="https://www.rbi.org.in/scripts/referenceratearchive.aspx">RBI Reference Rate Archive</a>.</p>
+  <p class="mcap" style="margin-top:10px"><strong>AED:</strong> RBI began publishing the INR–AED reference rate on 2026-01-22; there is no AED rate before that date, so the AED average is computed over 99 of the 116 days.</p>
+  <div class="mtable-wrap"><table class="m"><thead><tr><th>Date</th><th>USD</th><th>GBP</th><th>EUR</th><th>JPY / 100</th><th>AED</th></tr></thead>
+  <tbody><tr><td class='mono'>2025-12-29</td><td class='mono num'>89.9756</td><td class='mono num'>121.4053</td><td class='mono num'>105.8407</td><td class='mono num'>57.5800</td><td class='mono num'>—</td></tr>
+<tr><td class='mono'>2025-12-30</td><td class='mono num'>89.9429</td><td class='mono num'>121.5656</td><td class='mono num'>105.9269</td><td class='mono num'>57.6400</td><td class='mono num'>—</td></tr>
+<tr><td class='mono'>2025-12-31</td><td class='mono num'>89.9198</td><td class='mono num'>121.0237</td><td class='mono num'>105.5557</td><td class='mono num'>57.4200</td><td class='mono num'>—</td></tr>
+<tr><td class='mono'>2026-01-01</td><td class='mono num'>89.9792</td><td class='mono num'>121.2476</td><td class='mono num'>105.6915</td><td class='mono num'>57.4200</td><td class='mono num'>—</td></tr>
+<tr><td class='mono'>2026-01-02</td><td class='mono num'>90.1242</td><td class='mono num'>121.3510</td><td class='mono num'>105.8401</td><td class='mono num'>57.4200</td><td class='mono num'>—</td></tr>
+<tr><td class='mono'>2026-01-05</td><td class='mono num'>90.2729</td><td class='mono num'>121.2780</td><td class='mono num'>105.5230</td><td class='mono num'>57.4800</td><td class='mono num'>—</td></tr>
+<tr><td class='mono'>2026-01-06</td><td class='mono num'>90.1810</td><td class='mono num'>122.2139</td><td class='mono num'>105.8070</td><td class='mono num'>57.6500</td><td class='mono num'>—</td></tr>
+<tr><td class='mono'>2026-01-07</td><td class='mono num'>89.9432</td><td class='mono num'>121.4887</td><td class='mono num'>105.1784</td><td class='mono num'>57.5300</td><td class='mono num'>—</td></tr>
+<tr><td class='mono'>2026-01-08</td><td class='mono num'>89.8930</td><td class='mono num'>120.9720</td><td class='mono num'>104.9950</td><td class='mono num'>57.4200</td><td class='mono num'>—</td></tr>
+<tr><td class='mono'>2026-01-09</td><td class='mono num'>90.1395</td><td class='mono num'>121.0201</td><td class='mono num'>105.0065</td><td class='mono num'>57.2600</td><td class='mono num'>—</td></tr>
+<tr><td class='mono'>2026-01-12</td><td class='mono num'>90.1899</td><td class='mono num'>121.1695</td><td class='mono num'>105.2270</td><td class='mono num'>57.0800</td><td class='mono num'>—</td></tr>
+<tr><td class='mono'>2026-01-13</td><td class='mono num'>90.2677</td><td class='mono num'>121.5689</td><td class='mono num'>105.2299</td><td class='mono num'>56.8100</td><td class='mono num'>—</td></tr>
+<tr><td class='mono'>2026-01-14</td><td class='mono num'>90.2016</td><td class='mono num'>121.1997</td><td class='mono num'>105.0482</td><td class='mono num'>56.6200</td><td class='mono num'>—</td></tr>
+<tr><td class='mono'>2026-01-16</td><td class='mono num'>90.6497</td><td class='mono num'>121.3147</td><td class='mono num'>105.2244</td><td class='mono num'>57.2400</td><td class='mono num'>—</td></tr>
+<tr><td class='mono'>2026-01-19</td><td class='mono num'>90.9705</td><td class='mono num'>121.8841</td><td class='mono num'>105.7769</td><td class='mono num'>57.6400</td><td class='mono num'>—</td></tr>
+<tr><td class='mono'>2026-01-20</td><td class='mono num'>91.0356</td><td class='mono num'>122.3257</td><td class='mono num'>106.1918</td><td class='mono num'>57.4800</td><td class='mono num'>—</td></tr>
+<tr><td class='mono'>2026-01-21</td><td class='mono num'>91.5500</td><td class='mono num'>123.0347</td><td class='mono num'>107.3106</td><td class='mono num'>57.8900</td><td class='mono num'>—</td></tr>
+<tr><td class='mono'>2026-01-22</td><td class='mono num'>91.5826</td><td class='mono num'>122.9484</td><td class='mono num'>107.0552</td><td class='mono num'>57.6700</td><td class='mono num'>24.9345</td></tr>
+<tr><td class='mono'>2026-01-23</td><td class='mono num'>91.6195</td><td class='mono num'>123.6246</td><td class='mono num'>107.6211</td><td class='mono num'>57.7500</td><td class='mono num'>24.9446</td></tr>
+<tr><td class='mono'>2026-01-27</td><td class='mono num'>91.8244</td><td class='mono num'>125.6856</td><td class='mono num'>109.0635</td><td class='mono num'>59.4500</td><td class='mono num'>25.0001</td></tr>
+<tr><td class='mono'>2026-01-28</td><td class='mono num'>91.6945</td><td class='mono num'>126.5946</td><td class='mono num'>109.9869</td><td class='mono num'>60.0600</td><td class='mono num'>24.9650</td></tr>
+<tr><td class='mono'>2026-01-29</td><td class='mono num'>91.9644</td><td class='mono num'>127.2530</td><td class='mono num'>110.2273</td><td class='mono num'>60.0800</td><td class='mono num'>25.0381</td></tr>
+<tr><td class='mono'>2026-01-30</td><td class='mono num'>91.8983</td><td class='mono num'>126.3834</td><td class='mono num'>109.5661</td><td class='mono num'>59.7200</td><td class='mono num'>25.0204</td></tr>
+<tr><td class='mono'>2026-02-02</td><td class='mono num'>91.6443</td><td class='mono num'>125.2429</td><td class='mono num'>108.5692</td><td class='mono num'>59.2000</td><td class='mono num'>24.9512</td></tr>
+<tr><td class='mono'>2026-02-03</td><td class='mono num'>90.4495</td><td class='mono num'>123.8875</td><td class='mono num'>106.8558</td><td class='mono num'>58.1900</td><td class='mono num'>24.6259</td></tr>
+<tr><td class='mono'>2026-02-04</td><td class='mono num'>90.4693</td><td class='mono num'>124.1106</td><td class='mono num'>107.0559</td><td class='mono num'>57.8900</td><td class='mono num'>24.6313</td></tr>
+<tr><td class='mono'>2026-02-05</td><td class='mono num'>90.3957</td><td class='mono num'>123.0328</td><td class='mono num'>106.5488</td><td class='mono num'>57.6000</td><td class='mono num'>24.6110</td></tr>
+<tr><td class='mono'>2026-02-06</td><td class='mono num'>90.4163</td><td class='mono num'>122.7431</td><td class='mono num'>106.6864</td><td class='mono num'>57.6400</td><td class='mono num'>24.6171</td></tr>
+<tr><td class='mono'>2026-02-09</td><td class='mono num'>90.4006</td><td class='mono num'>123.0834</td><td class='mono num'>107.0458</td><td class='mono num'>57.7700</td><td class='mono num'>24.6121</td></tr>
+<tr><td class='mono'>2026-02-10</td><td class='mono num'>90.5773</td><td class='mono num'>123.8614</td><td class='mono num'>107.8697</td><td class='mono num'>58.3100</td><td class='mono num'>24.6606</td></tr>
+<tr><td class='mono'>2026-02-11</td><td class='mono num'>90.5675</td><td class='mono num'>123.8384</td><td class='mono num'>107.9643</td><td class='mono num'>59.2100</td><td class='mono num'>24.6578</td></tr>
+<tr><td class='mono'>2026-02-12</td><td class='mono num'>90.5947</td><td class='mono num'>123.3580</td><td class='mono num'>107.4459</td><td class='mono num'>59.1000</td><td class='mono num'>24.6650</td></tr>
+<tr><td class='mono'>2026-02-13</td><td class='mono num'>90.7415</td><td class='mono num'>123.4459</td><td class='mono num'>107.6218</td><td class='mono num'>59.2000</td><td class='mono num'>24.7063</td></tr>
+<tr><td class='mono'>2026-02-16</td><td class='mono num'>90.7125</td><td class='mono num'>123.7572</td><td class='mono num'>107.6497</td><td class='mono num'>59.2400</td><td class='mono num'>24.6975</td></tr>
+<tr><td class='mono'>2026-02-17</td><td class='mono num'>90.7744</td><td class='mono num'>123.5706</td><td class='mono num'>107.5205</td><td class='mono num'>59.3800</td><td class='mono num'>24.7141</td></tr>
+<tr><td class='mono'>2026-02-18</td><td class='mono num'>90.6669</td><td class='mono num'>122.9262</td><td class='mono num'>107.3901</td><td class='mono num'>59.0900</td><td class='mono num'>24.6855</td></tr>
+<tr><td class='mono'>2026-02-20</td><td class='mono num'>90.9518</td><td class='mono num'>122.2938</td><td class='mono num'>106.9060</td><td class='mono num'>58.6000</td><td class='mono num'>24.7625</td></tr>
+<tr><td class='mono'>2026-02-23</td><td class='mono num'>90.7461</td><td class='mono num'>122.7444</td><td class='mono num'>107.3042</td><td class='mono num'>58.8000</td><td class='mono num'>24.7063</td></tr>
+<tr><td class='mono'>2026-02-24</td><td class='mono num'>90.9661</td><td class='mono num'>122.7024</td><td class='mono num'>107.1562</td><td class='mono num'>58.6500</td><td class='mono num'>24.7661</td></tr>
+<tr><td class='mono'>2026-02-25</td><td class='mono num'>90.9502</td><td class='mono num'>123.0144</td><td class='mono num'>107.3594</td><td class='mono num'>58.4400</td><td class='mono num'>24.7619</td></tr>
+<tr><td class='mono'>2026-02-26</td><td class='mono num'>90.9072</td><td class='mono num'>123.2532</td><td class='mono num'>107.4432</td><td class='mono num'>58.2700</td><td class='mono num'>24.7503</td></tr>
+<tr><td class='mono'>2026-02-27</td><td class='mono num'>90.9542</td><td class='mono num'>122.5408</td><td class='mono num'>107.3654</td><td class='mono num'>58.3400</td><td class='mono num'>24.7628</td></tr>
+<tr><td class='mono'>2026-03-02</td><td class='mono num'>91.4514</td><td class='mono num'>122.4449</td><td class='mono num'>107.3920</td><td class='mono num'>58.2600</td><td class='mono num'>24.8983</td></tr>
+<tr><td class='mono'>2026-03-04</td><td class='mono num'>92.2828</td><td class='mono num'>122.8622</td><td class='mono num'>107.0124</td><td class='mono num'>58.5500</td><td class='mono num'>25.1243</td></tr>
+<tr><td class='mono'>2026-03-05</td><td class='mono num'>91.6275</td><td class='mono num'>122.0460</td><td class='mono num'>106.2635</td><td class='mono num'>58.3100</td><td class='mono num'>24.9462</td></tr>
+<tr><td class='mono'>2026-03-06</td><td class='mono num'>91.6829</td><td class='mono num'>122.4932</td><td class='mono num'>106.4139</td><td class='mono num'>58.0800</td><td class='mono num'>24.9615</td></tr>
+<tr><td class='mono'>2026-03-09</td><td class='mono num'>92.2639</td><td class='mono num'>122.9121</td><td class='mono num'>106.5882</td><td class='mono num'>58.1800</td><td class='mono num'>25.1194</td></tr>
+<tr><td class='mono'>2026-03-10</td><td class='mono num'>92.0174</td><td class='mono num'>123.6990</td><td class='mono num'>106.9960</td><td class='mono num'>58.4000</td><td class='mono num'>25.0520</td></tr>
+<tr><td class='mono'>2026-03-11</td><td class='mono num'>91.9257</td><td class='mono num'>123.6425</td><td class='mono num'>106.9611</td><td class='mono num'>58.2100</td><td class='mono num'>25.0276</td></tr>
+<tr><td class='mono'>2026-03-12</td><td class='mono num'>92.3530</td><td class='mono num'>123.4655</td><td class='mono num'>106.6197</td><td class='mono num'>58.0700</td><td class='mono num'>25.1431</td></tr>
+<tr><td class='mono'>2026-03-13</td><td class='mono num'>92.4405</td><td class='mono num'>123.2035</td><td class='mono num'>106.3072</td><td class='mono num'>57.9900</td><td class='mono num'>25.1669</td></tr>
+<tr><td class='mono'>2026-03-16</td><td class='mono num'>92.3966</td><td class='mono num'>122.3707</td><td class='mono num'>105.5896</td><td class='mono num'>57.9900</td><td class='mono num'>25.1551</td></tr>
+<tr><td class='mono'>2026-03-17</td><td class='mono num'>92.4570</td><td class='mono num'>122.8267</td><td class='mono num'>106.0950</td><td class='mono num'>57.9900</td><td class='mono num'>25.1713</td></tr>
+<tr><td class='mono'>2026-03-18</td><td class='mono num'>92.4514</td><td class='mono num'>123.6371</td><td class='mono num'>106.7616</td><td class='mono num'>58.2900</td><td class='mono num'>25.1698</td></tr>
+<tr><td class='mono'>2026-03-20</td><td class='mono num'>93.3483</td><td class='mono num'>125.1564</td><td class='mono num'>107.9436</td><td class='mono num'>58.9400</td><td class='mono num'>25.4135</td></tr>
+<tr><td class='mono'>2026-03-23</td><td class='mono num'>93.8980</td><td class='mono num'>124.8167</td><td class='mono num'>108.2231</td><td class='mono num'>58.8300</td><td class='mono num'>25.5642</td></tr>
+<tr><td class='mono'>2026-03-24</td><td class='mono num'>93.8792</td><td class='mono num'>125.8263</td><td class='mono num'>108.7403</td><td class='mono num'>59.1600</td><td class='mono num'>25.5583</td></tr>
+<tr><td class='mono'>2026-03-25</td><td class='mono num'>93.9657</td><td class='mono num'>125.7631</td><td class='mono num'>108.9488</td><td class='mono num'>59.1000</td><td class='mono num'>25.5818</td></tr>
+<tr><td class='mono'>2026-03-27</td><td class='mono num'>94.5988</td><td class='mono num'>126.1986</td><td class='mono num'>109.1594</td><td class='mono num'>59.2600</td><td class='mono num'>25.7542</td></tr>
+<tr><td class='mono'>2026-03-30</td><td class='mono num'>94.6543</td><td class='mono num'>125.6347</td><td class='mono num'>109.0064</td><td class='mono num'>59.2500</td><td class='mono num'>25.7694</td></tr>
+<tr><td class='mono'>2026-04-02</td><td class='mono num'>93.2088</td><td class='mono num'>123.1854</td><td class='mono num'>107.4828</td><td class='mono num'>58.4900</td><td class='mono num'>25.3762</td></tr>
+<tr><td class='mono'>2026-04-06</td><td class='mono num'>93.0591</td><td class='mono num'>122.9919</td><td class='mono num'>107.2568</td><td class='mono num'>58.3200</td><td class='mono num'>25.3346</td></tr>
+<tr><td class='mono'>2026-04-07</td><td class='mono num'>92.9625</td><td class='mono num'>123.0780</td><td class='mono num'>107.2632</td><td class='mono num'>58.1800</td><td class='mono num'>25.3090</td></tr>
+<tr><td class='mono'>2026-04-08</td><td class='mono num'>92.5586</td><td class='mono num'>124.3019</td><td class='mono num'>108.1985</td><td class='mono num'>58.4900</td><td class='mono num'>25.1995</td></tr>
+<tr><td class='mono'>2026-04-09</td><td class='mono num'>92.7129</td><td class='mono num'>124.1364</td><td class='mono num'>108.0921</td><td class='mono num'>58.3600</td><td class='mono num'>25.2413</td></tr>
+<tr><td class='mono'>2026-04-10</td><td class='mono num'>92.6492</td><td class='mono num'>124.3124</td><td class='mono num'>108.2760</td><td class='mono num'>58.1600</td><td class='mono num'>25.2239</td></tr>
+<tr><td class='mono'>2026-04-13</td><td class='mono num'>93.3684</td><td class='mono num'>125.2176</td><td class='mono num'>109.1539</td><td class='mono num'>58.4900</td><td class='mono num'>25.4212</td></tr>
+<tr><td class='mono'>2026-04-15</td><td class='mono num'>93.3885</td><td class='mono num'>126.6877</td><td class='mono num'>110.1156</td><td class='mono num'>58.7600</td><td class='mono num'>25.4247</td></tr>
+<tr><td class='mono'>2026-04-16</td><td class='mono num'>93.3370</td><td class='mono num'>126.6340</td><td class='mono num'>110.1041</td><td class='mono num'>58.7400</td><td class='mono num'>25.4112</td></tr>
+<tr><td class='mono'>2026-04-17</td><td class='mono num'>92.7235</td><td class='mono num'>125.2738</td><td class='mono num'>109.1992</td><td class='mono num'>58.1400</td><td class='mono num'>25.2439</td></tr>
+<tr><td class='mono'>2026-04-20</td><td class='mono num'>93.0681</td><td class='mono num'>125.5147</td><td class='mono num'>109.3618</td><td class='mono num'>58.5500</td><td class='mono num'>25.3378</td></tr>
+<tr><td class='mono'>2026-04-21</td><td class='mono num'>93.4404</td><td class='mono num'>126.3252</td><td class='mono num'>110.0167</td><td class='mono num'>58.8300</td><td class='mono num'>25.4392</td></tr>
+<tr><td class='mono'>2026-04-22</td><td class='mono num'>93.8351</td><td class='mono num'>126.8425</td><td class='mono num'>110.2569</td><td class='mono num'>58.9500</td><td class='mono num'>25.5464</td></tr>
+<tr><td class='mono'>2026-04-23</td><td class='mono num'>94.0802</td><td class='mono num'>126.9568</td><td class='mono num'>110.1428</td><td class='mono num'>58.9300</td><td class='mono num'>25.6149</td></tr>
+<tr><td class='mono'>2026-04-24</td><td class='mono num'>94.2958</td><td class='mono num'>126.9467</td><td class='mono num'>110.1362</td><td class='mono num'>59.0200</td><td class='mono num'>25.6716</td></tr>
+<tr><td class='mono'>2026-04-27</td><td class='mono num'>94.2168</td><td class='mono num'>127.5287</td><td class='mono num'>110.4654</td><td class='mono num'>59.1400</td><td class='mono num'>25.6506</td></tr>
+<tr><td class='mono'>2026-04-28</td><td class='mono num'>94.5210</td><td class='mono num'>127.7483</td><td class='mono num'>110.6179</td><td class='mono num'>59.3600</td><td class='mono num'>25.7333</td></tr>
+<tr><td class='mono'>2026-04-29</td><td class='mono num'>94.7870</td><td class='mono num'>127.9454</td><td class='mono num'>110.8844</td><td class='mono num'>59.3400</td><td class='mono num'>25.8061</td></tr>
+<tr><td class='mono'>2026-04-30</td><td class='mono num'>95.2417</td><td class='mono num'>128.1953</td><td class='mono num'>111.0683</td><td class='mono num'>59.2800</td><td class='mono num'>25.9303</td></tr>
+<tr><td class='mono'>2026-05-04</td><td class='mono num'>94.9432</td><td class='mono num'>129.0329</td><td class='mono num'>111.3918</td><td class='mono num'>60.5300</td><td class='mono num'>25.8489</td></tr>
+<tr><td class='mono'>2026-05-05</td><td class='mono num'>95.3602</td><td class='mono num'>129.0020</td><td class='mono num'>111.4392</td><td class='mono num'>60.6400</td><td class='mono num'>25.9628</td></tr>
+<tr><td class='mono'>2026-05-06</td><td class='mono num'>95.1643</td><td class='mono num'>129.2744</td><td class='mono num'>111.6474</td><td class='mono num'>60.8400</td><td class='mono num'>25.9095</td></tr>
+<tr><td class='mono'>2026-05-07</td><td class='mono num'>94.7759</td><td class='mono num'>128.8529</td><td class='mono num'>111.3522</td><td class='mono num'>60.6100</td><td class='mono num'>25.8040</td></tr>
+<tr><td class='mono'>2026-05-08</td><td class='mono num'>94.4365</td><td class='mono num'>128.3096</td><td class='mono num'>110.9213</td><td class='mono num'>60.2400</td><td class='mono num'>25.7116</td></tr>
+<tr><td class='mono'>2026-05-11</td><td class='mono num'>95.2029</td><td class='mono num'>129.3826</td><td class='mono num'>111.9262</td><td class='mono num'>60.6000</td><td class='mono num'>25.9200</td></tr>
+<tr><td class='mono'>2026-05-12</td><td class='mono num'>95.5564</td><td class='mono num'>129.5732</td><td class='mono num'>112.3418</td><td class='mono num'>60.7100</td><td class='mono num'>26.0164</td></tr>
+<tr><td class='mono'>2026-05-13</td><td class='mono num'>95.6536</td><td class='mono num'>129.5558</td><td class='mono num'>112.2010</td><td class='mono num'>60.6500</td><td class='mono num'>26.0431</td></tr>
+<tr><td class='mono'>2026-05-14</td><td class='mono num'>95.7529</td><td class='mono num'>129.5071</td><td class='mono num'>112.1879</td><td class='mono num'>60.6500</td><td class='mono num'>26.0704</td></tr>
+<tr><td class='mono'>2026-05-15</td><td class='mono num'>95.9255</td><td class='mono num'>128.0912</td><td class='mono num'>111.6336</td><td class='mono num'>60.5400</td><td class='mono num'>26.1169</td></tr>
+<tr><td class='mono'>2026-05-18</td><td class='mono num'>96.2948</td><td class='mono num'>128.5439</td><td class='mono num'>112.0416</td><td class='mono num'>60.6100</td><td class='mono num'>26.2175</td></tr>
+<tr><td class='mono'>2026-05-19</td><td class='mono num'>96.3450</td><td class='mono num'>129.2263</td><td class='mono num'>112.1758</td><td class='mono num'>60.5800</td><td class='mono num'>26.2313</td></tr>
+<tr><td class='mono'>2026-05-20</td><td class='mono num'>96.8441</td><td class='mono num'>129.7711</td><td class='mono num'>112.3727</td><td class='mono num'>60.9400</td><td class='mono num'>26.3671</td></tr>
+<tr><td class='mono'>2026-05-21</td><td class='mono num'>96.3172</td><td class='mono num'>129.3900</td><td class='mono num'>111.9386</td><td class='mono num'>60.5600</td><td class='mono num'>26.2238</td></tr>
+<tr><td class='mono'>2026-05-22</td><td class='mono num'>95.9588</td><td class='mono num'>128.7901</td><td class='mono num'>111.3903</td><td class='mono num'>60.3100</td><td class='mono num'>26.1259</td></tr>
+<tr><td class='mono'>2026-05-25</td><td class='mono num'>95.2047</td><td class='mono num'>128.3486</td><td class='mono num'>110.8157</td><td class='mono num'>59.9100</td><td class='mono num'>25.9207</td></tr>
+<tr><td class='mono'>2026-05-26</td><td class='mono num'>95.4437</td><td class='mono num'>128.6416</td><td class='mono num'>111.0507</td><td class='mono num'>60.0000</td><td class='mono num'>25.9854</td></tr>
+<tr><td class='mono'>2026-05-27</td><td class='mono num'>95.7883</td><td class='mono num'>128.8021</td><td class='mono num'>111.4937</td><td class='mono num'>60.1100</td><td class='mono num'>26.0792</td></tr>
+<tr><td class='mono'>2026-05-29</td><td class='mono num'>95.3845</td><td class='mono num'>128.1841</td><td class='mono num'>111.1102</td><td class='mono num'>59.8900</td><td class='mono num'>25.9697</td></tr>
+<tr><td class='mono'>2026-06-01</td><td class='mono num'>94.8913</td><td class='mono num'>127.7718</td><td class='mono num'>110.5895</td><td class='mono num'>59.5000</td><td class='mono num'>25.8350</td></tr>
+<tr><td class='mono'>2026-06-02</td><td class='mono num'>95.1702</td><td class='mono num'>128.2602</td><td class='mono num'>110.8663</td><td class='mono num'>59.5800</td><td class='mono num'>25.9114</td></tr>
+<tr><td class='mono'>2026-06-03</td><td class='mono num'>95.7795</td><td class='mono num'>128.7819</td><td class='mono num'>111.2645</td><td class='mono num'>59.8800</td><td class='mono num'>26.0768</td></tr>
+<tr><td class='mono'>2026-06-04</td><td class='mono num'>95.7425</td><td class='mono num'>128.6045</td><td class='mono num'>111.1877</td><td class='mono num'>59.8900</td><td class='mono num'>26.0670</td></tr>
+<tr><td class='mono'>2026-06-05</td><td class='mono num'>95.3996</td><td class='mono num'>128.1064</td><td class='mono num'>110.8314</td><td class='mono num'>59.6400</td><td class='mono num'>25.9736</td></tr>
+<tr><td class='mono'>2026-06-08</td><td class='mono num'>95.6198</td><td class='mono num'>127.4102</td><td class='mono num'>110.1444</td><td class='mono num'>59.6600</td><td class='mono num'>26.0335</td></tr>
+<tr><td class='mono'>2026-06-09</td><td class='mono num'>95.6359</td><td class='mono num'>127.8856</td><td class='mono num'>110.4716</td><td class='mono num'>59.7400</td><td class='mono num'>26.0379</td></tr>
+<tr><td class='mono'>2026-06-10</td><td class='mono num'>95.1855</td><td class='mono num'>127.4635</td><td class='mono num'>109.9634</td><td class='mono num'>59.3500</td><td class='mono num'>25.9156</td></tr>
+<tr><td class='mono'>2026-06-11</td><td class='mono num'>95.7205</td><td class='mono num'>128.0491</td><td class='mono num'>110.5017</td><td class='mono num'>59.6100</td><td class='mono num'>26.0607</td></tr>
+<tr><td class='mono'>2026-06-12</td><td class='mono num'>95.3825</td><td class='mono num'>127.8367</td><td class='mono num'>110.3607</td><td class='mono num'>59.5000</td><td class='mono num'>25.9693</td></tr>
+<tr><td class='mono'>2026-06-15</td><td class='mono num'>94.6772</td><td class='mono num'>127.3124</td><td class='mono num'>109.9108</td><td class='mono num'>59.1300</td><td class='mono num'>25.7758</td></tr>
+<tr><td class='mono'>2026-06-16</td><td class='mono num'>94.6992</td><td class='mono num'>126.9121</td><td class='mono num'>109.6951</td><td class='mono num'>59.1100</td><td class='mono num'>25.7834</td></tr>
+<tr><td class='mono'>2026-06-17</td><td class='mono num'>94.3758</td><td class='mono num'>126.5988</td><td class='mono num'>109.5401</td><td class='mono num'>58.8900</td><td class='mono num'>25.6948</td></tr>
+<tr><td class='mono'>2026-06-18</td><td class='mono num'>94.2795</td><td class='mono num'>125.5841</td><td class='mono num'>108.6534</td><td class='mono num'>58.6900</td><td class='mono num'>25.6691</td></tr>
+<tr><td class='mono'>2026-06-19</td><td class='mono num'>94.4735</td><td class='mono num'>124.6036</td><td class='mono num'>108.0273</td><td class='mono num'>58.5500</td><td class='mono num'>25.7221</td></tr>
+<tr><td class='mono'>2026-06-22</td><td class='mono num'>94.4938</td><td class='mono num'>124.8528</td><td class='mono num'>108.2543</td><td class='mono num'>58.4600</td><td class='mono num'>25.7273</td></tr>
+<tr><td class='mono'>2026-06-23</td><td class='mono num'>94.7064</td><td class='mono num'>125.3897</td><td class='mono num'>108.2008</td><td class='mono num'>58.5800</td><td class='mono num'>25.7856</td></tr>
+<tr><td class='mono'>2026-06-24</td><td class='mono num'>94.6980</td><td class='mono num'>124.9322</td><td class='mono num'>107.6344</td><td class='mono num'>58.5700</td><td class='mono num'>25.7826</td></tr></tbody><tfoot><tr class='avg'><td>Six-month average</td><td class='mono num'>92.9667</td><td class='mono num'>125.1501</td><td class='mono num'>108.5801</td><td class='mono num'>58.8500</td><td class='mono num'>25.4352</td></tr></tfoot></table></div>
+</div></section>
+
+<footer><div class="wrap"><div class="dis">CCI Threshold Checker — a reference for Indian merger-control thresholds.</div>
+<div style="margin-top:6px">Rate data from the RBI Reference Rate Archive. Decision support, not legal advice.</div></div></footer>
+
+<script>
+const DATA = {"rates": {"USD": 92.9667, "GBP": 125.1501, "EUR": 108.5801, "JPY": 0.5885, "AED": 25.4352, "IDR": 0.0054}, "thresholds": [{"category": "jurisdictional_parties", "label": "Parties — Assets in India", "statutory": "₹2,500 crore", "value_inr": 25000000000.0, "kind": "monetary", "india_leg_inr": null, "india_leg_statutory": null}, {"category": "jurisdictional_parties", "label": "Parties — Turnover in India", "statutory": "₹7,500 crore", "value_inr": 75000000000.0, "kind": "monetary", "india_leg_inr": null, "india_leg_statutory": null}, {"category": "jurisdictional_parties", "label": "Parties — Worldwide Assets", "statutory": "USD 1.25 billion", "value_inr": 116208386853.45, "kind": "monetary", "india_leg_inr": 12500000000.0, "india_leg_statutory": "₹1,250 crore"}, {"category": "jurisdictional_parties", "label": "Parties — Worldwide Turnover", "statutory": "USD 3.75 billion", "value_inr": 348625160560.34, "kind": "monetary", "india_leg_inr": 37500000000.0, "india_leg_statutory": "₹3,750 crore"}, {"category": "jurisdictional_group", "label": "Group — Assets in India", "statutory": "₹10,000 crore", "value_inr": 100000000000.0, "kind": "monetary", "india_leg_inr": null, "india_leg_statutory": null}, {"category": "jurisdictional_group", "label": "Group — Turnover in India", "statutory": "₹30,000 crore", "value_inr": 300000000000.0, "kind": "monetary", "india_leg_inr": null, "india_leg_statutory": null}, {"category": "jurisdictional_group", "label": "Group — Worldwide Assets", "statutory": "USD 5 billion", "value_inr": 464833547413.79, "kind": "monetary", "india_leg_inr": 12500000000.0, "india_leg_statutory": "₹1,250 crore"}, {"category": "jurisdictional_group", "label": "Group — Worldwide Turnover", "statutory": "USD 15 billion", "value_inr": 1394500642241.38, "kind": "monetary", "india_leg_inr": 37500000000.0, "india_leg_statutory": "₹3,750 crore"}, {"category": "de_minimis", "label": "Small-Target Exemption — Target assets in India", "statutory": "₹450 crore", "value_inr": 4500000000.0, "kind": "monetary", "india_leg_inr": null, "india_leg_statutory": null}, {"category": "de_minimis", "label": "Small-Target Exemption — Target turnover in India", "statutory": "₹1,250 crore", "value_inr": 12500000000.0, "kind": "monetary", "india_leg_inr": null, "india_leg_statutory": null}, {"category": "deal_value", "label": "Deal Value Threshold", "statutory": "₹2,000 crore", "value_inr": 20000000000.0, "kind": "monetary", "india_leg_inr": null, "india_leg_statutory": null}, {"category": "sbo", "label": "SBOI — India turnover ≥ 10% of global AND > ₹500 cr", "statutory": "≥ 10% of global & > ₹500 cr", "value_inr": null, "kind": "ratio", "india_leg_inr": null, "india_leg_statutory": null}, {"category": "sbo", "label": "SBOI — India GMV ≥ 10% of global GMV AND > ₹500 cr", "statutory": "≥ 10% of global & > ₹500 cr", "value_inr": null, "kind": "ratio", "india_leg_inr": null, "india_leg_statutory": null}, {"category": "sbo", "label": "SBOI — India users ≥ 10% of global users", "statutory": "≥ 10%", "value_inr": null, "kind": "percent", "india_leg_inr": null, "india_leg_statutory": null}], "categories": [["jurisdictional_parties", "Jurisdictional — Parties to the combination"], ["jurisdictional_group", "Jurisdictional — Group"], ["de_minimis", "Small-target / de minimis exemption"], ["deal_value", "Deal value threshold"], ["sbo", "Substantial Business Operations in India (SBOI)"]]};
+const SYM={INR:"₹",USD:"$",EUR:"€",GBP:"£",AED:"AED "};
+let CCY="INR", SYS="inr";
+function ind(n){let s=Math.round(Math.abs(n)).toString();const neg=n<0?"-":"";if(s.length<=3)return neg+s;
+ const l3=s.slice(-3);let r=s.slice(0,-3),p=[];while(r.length>2){p.unshift(r.slice(-2));r=r.slice(0,-2);}if(r)p.unshift(r);return neg+p.join(",")+","+l3;}
+const tr=x=>x.toLocaleString("en-US",{minimumFractionDigits:2,maximumFractionDigits:2});
+function fInd(v){const a=Math.abs(v),s=v<0?"-":"";if(a>=1e12)return s+tr(a/1e12)+" lakh crore";if(a>=1e7){const c=a/1e7;return s+(c===Math.round(c)?ind(c):tr(c))+" crore";}if(a>=1e5)return s+tr(a/1e5)+" lakh";return s+ind(a);}
+function fWest(v){const a=Math.abs(v),s=v<0?"-":"";if(a>=1e12)return s+tr(a/1e12)+" trillion";if(a>=1e9)return s+tr(a/1e9)+" billion";if(a>=1e6)return s+tr(a/1e6)+" million";if(a>=1e3)return s+tr(a/1e3)+" thousand";return s+Math.round(a).toLocaleString("en-US");}
+function fv(vinr){if(vinr==null)return "—";let a=vinr;if(CCY!=="INR"){const r=DATA.rates[CCY];if(!r)return "—";a=vinr/r;}return (SYM[CCY]||CCY+" ")+(SYS==="inr"?fInd(a):fWest(a));}
+function render(){document.getElementById("valhead").textContent="Value · "+CCY;
+ let h="";for(const[k,label]of DATA.categories){const rows=DATA.thresholds.filter(t=>t.category===k);if(!rows.length)continue;
+  h+=`<tr class="cat"><td colspan="3"><div class="sch"><span class="d"></span>${label}<span class="ln"></span></div></td></tr>`;
+  for(const t of rows){const money=t.kind==="monetary";
+   let en=t.statutory, val=money?fv(t.value_inr):`<span class="muted">${t.statutory}</span>`;
+   if(t.india_leg_inr!=null){en+=`<span class="legv">India leg · ${t.india_leg_statutory}</span>`;val+=`<span class="legv">India leg · ${fv(t.india_leg_inr)}</span>`;}
+   h+=`<tr class="row"><td><div class="lab">${t.label}</div></td><td class="en">${en}</td><td class="val">${val}</td></tr>`;}}
+ document.getElementById("tbody").innerHTML=h;}
+document.querySelectorAll("#ccy button").forEach(b=>b.onclick=()=>{document.querySelectorAll("#ccy button").forEach(x=>x.classList.remove("on"));b.classList.add("on");CCY=b.dataset.c;render();});
+document.querySelectorAll("#num button").forEach(b=>b.onclick=()=>{document.querySelectorAll("#num button").forEach(x=>x.classList.remove("on"));b.classList.add("on");SYS=b.dataset.s;render();});
+render();
+</script>
+</body></html>

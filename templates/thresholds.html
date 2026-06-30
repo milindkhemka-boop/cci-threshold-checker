@@ -1,0 +1,40 @@
+{% extends "base.html" %}
+{% block content %}
+
+<section class="hero compact">
+  <h1>Configure thresholds</h1>
+  <p class="lede">Every threshold value, citation and effective date lives in an editable file. Update it here whenever the MCA or CCI revises the numbers — no code changes needed.</p>
+</section>
+
+<section class="card">
+  <h2>Current values</h2>
+  <table class="data">
+    <thead><tr><th>Threshold</th><th>Value</th><th>Citation</th><th>Effective</th></tr></thead>
+    <tbody>
+      {% for t in cfg.thresholds %}
+      <tr>
+        <td><div class="th-label">{{ t.label }}</div><div class="muted small">{{ t.category }}</div></td>
+        <td class="mono">
+          {% if t.type == 'ratio' %}≥ {{ t.ratio_pct }}% &amp; &gt; ₹{{ t.abs_value }} cr
+          {% elif t.unit == 'PERCENT' %}≥ {{ t.value }}%
+          {% elif t.unit == 'USD_BILLION' %}USD {{ t.value }} bn
+          {% else %}₹{{ t.value }} cr{% endif %}
+        </td>
+        <td class="small">{{ t.citation }}</td>
+        <td class="mono small">{{ t.effective }}</td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+</section>
+
+<section class="card">
+  <h2>Edit (advanced)</h2>
+  <p class="muted small">Edit the raw configuration JSON and save. Invalid JSON is rejected so you can’t corrupt the file.</p>
+  <form method="post" action="{{ url_for('thresholds_save') }}">
+    <textarea name="raw" class="code" spellcheck="false" rows="26">{{ raw }}</textarea>
+    <button type="submit" class="btn primary">Save configuration</button>
+  </form>
+</section>
+
+{% endblock %}
