@@ -23,7 +23,6 @@
       </span>
     </a>
     <nav class="nav" aria-label="Primary">
-      <a href="{{ url_for('index') }}" class="{{ 'active' if request.endpoint=='index' }}">Assessment</a>
       <a href="{{ url_for('rates_page') }}" class="{{ 'active' if request.endpoint=='rates_page' }}">Rates</a>
       <a href="{{ url_for('about') }}" class="{{ 'active' if request.endpoint=='about' }}">Methodology</a>
     </nav>

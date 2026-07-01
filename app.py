@@ -66,8 +66,7 @@ CATEGORY_LABELS = [
 
 @app.route("/")
 def index():
-    """Combined view: thresholds table (currency + numbering toggles) + chat assistant."""
-    return render_template("home.html")
+    return redirect(url_for("rates_page"))
 
 
 @app.route("/rates")
@@ -136,7 +135,7 @@ def api_bootstrap():
         for r in avg.get("rows", [])
     ]
     return jsonify({
-        "has_data": avg["has_data"], "rates": rates,
+        "has_data": avg["has_data"], "rates": rates, "latest": avg.get("latest", {}),
         "as_of": avg["as_of"], "is_today": avg.get("is_today", True),
         "today": date.today().isoformat(),
         "from": avg.get("from"), "to": avg.get("to"),

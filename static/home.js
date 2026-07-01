@@ -45,35 +45,6 @@ function fmtValue(valueInr) {
 }
 
 // ---------------------------------------------------------------------------
-// Signature: the same figure, grouped the Indian way vs the international way.
-// ---------------------------------------------------------------------------
-const NUM_SAMPLE_RUPEES = "25000000000"; // ₹2,500 crore — the first threshold on the page
-function groupedPartsIndian(s) {
-  if (s.length <= 3) return [s];
-  const last3 = s.slice(-3);
-  let rest = s.slice(0, -3), parts = [];
-  while (rest.length > 2) { parts.unshift(rest.slice(-2)); rest = rest.slice(0, -2); }
-  if (rest) parts.unshift(rest);
-  parts.push(last3);
-  return parts;
-}
-function groupedPartsWestern(s) {
-  const parts = []; let r = s;
-  while (r.length > 3) { parts.unshift(r.slice(-3)); r = r.slice(0, -3); }
-  parts.unshift(r);
-  return parts;
-}
-function renderNumSample() {
-  const el = document.getElementById("numSampleFigure");
-  if (!el) return;
-  const parts = STATE.sys === "inr" ? groupedPartsIndian(NUM_SAMPLE_RUPEES) : groupedPartsWestern(NUM_SAMPLE_RUPEES);
-  el.innerHTML = "₹" + parts.map(p => `<span class="dg">${p}</span>`).join('<span class="dgsep">,</span>');
-  el.classList.remove("flash");
-  void el.offsetWidth;
-  el.classList.add("flash");
-}
-
-// ---------------------------------------------------------------------------
 // Bootstrap + rendering
 // ---------------------------------------------------------------------------
 async function boot(opts = {}) {
@@ -86,10 +57,41 @@ async function boot(opts = {}) {
   const res = await fetch(url);
   STATE.boot = await res.json();
   renderRateStrip();
+  renderRatePanel();
   populateOtherCcy();
   renderTable();
   renderRateHistory();
   document.getElementById("tableDisclaimer").textContent = STATE.boot.disclaimer || "";
+}
+
+function renderRatePanel() {
+  const b = STATE.boot;
+  const summary = document.getElementById("rateSummary");
+  const grid = document.getElementById("rateGrid");
+  const empty = document.getElementById("rateEmptyState");
+  if (!summary || !grid) return;
+  if (!b.has_data) {
+    summary.innerHTML = "";
+    grid.innerHTML = "";
+    if (empty) empty.style.display = "";
+    return;
+  }
+  if (empty) empty.style.display = "none";
+  const tag = b.is_today ? "" : `<span class="asof-tag">as of ${b.as_of}</span> `;
+  summary.innerHTML = `${tag}Averaged over <strong>${b.n_days}</strong> RBI publication days, ` +
+    `${b.from} → ${b.to} (trailing ${b.window_days} days).`;
+  let html = "";
+  const ccyOrder = ["USD", "GBP", "EUR", "JPY", "AED", "IDR"].filter(c => c in b.rates);
+  for (const ccy of ccyOrder) {
+    const val = b.rates[ccy];
+    const latest = b.latest && b.latest[ccy];
+    html += `<div class="rate-chip">
+        <div class="rate-ccy">${ccy}</div>
+        <div class="rate-val">₹${val.toFixed(4)}</div>
+        <div class="rate-sub muted">per 1 ${ccy}${latest != null ? ` · latest ₹${latest.toFixed(2)}` : ""}</div>
+      </div>`;
+  }
+  grid.innerHTML = html;
 }
 
 const RATE_HISTORY_CCY = ["usd", "gbp", "eur", "jpy", "aed", "idr"];
@@ -121,6 +123,7 @@ function renderRateHistory() {
 
 function renderRateStrip() {
   const b = STATE.boot, el = document.getElementById("rateStrip");
+  if (!el) return;
   if (!b.has_data) {
     el.innerHTML = `<span class="warn">No RBI rate data for the 6 months to ${b.as_of}.</span> ` +
       (b.is_today ? `<button class="btn small-btn" onclick="refreshRates()">Fetch RBI rates now</button>` : "");
@@ -162,11 +165,13 @@ function initDate() {
 async function reloadForDate() {
   const inp = document.getElementById("asOfDate");
   const el = document.getElementById("rateStrip");
-  el.innerHTML = `<span class="muted">Computing the 6-month average to ${STATE.as_of || "today"}… ` +
-    `fetching historical RBI rates if needed.</span>`;
+  if (el) {
+    el.innerHTML = `<span class="muted">Computing the 6-month average to ${STATE.as_of || "today"}… ` +
+      `fetching historical RBI rates if needed.</span>`;
+  }
   inp.disabled = true;
   try { await boot({ fetch: true }); }
-  catch (e) { el.innerHTML = `<span class="warn">Could not load rates for that date: ${e}</span>`; }
+  catch (e) { if (el) el.innerHTML = `<span class="warn">Could not load rates for that date: ${e}</span>`; }
   finally { inp.disabled = false; }
 }
 
@@ -239,10 +244,9 @@ function initToggles() {
   document.querySelectorAll("#numToggle .seg button").forEach(btn => {
     btn.addEventListener("click", () => {
       setActive("#numToggle .seg button", btn);
-      STATE.sys = btn.dataset.sys; renderTable(); renderNumSample();
+      STATE.sys = btn.dataset.sys; renderTable();
     });
   });
-  renderNumSample();
 }
 function setActive(sel, btn) {
   document.querySelectorAll(sel).forEach(b => b.classList.remove("active"));
@@ -253,14 +257,14 @@ function setActive(sel, btn) {
 // Rate refresh
 // ---------------------------------------------------------------------------
 async function refreshRates() {
-  const el = document.getElementById("rateStrip");
-  el.innerHTML = `<span class="muted">Fetching ~6 months of RBI rates…</span>`;
+  const el = document.getElementById("refreshStatus") || document.getElementById("rateStrip");
+  if (el) el.innerHTML = `<span class="muted">Fetching ~6 months of RBI rates…</span>`;
   try {
     const r = await fetch("/refresh-rates", { method: "POST" });
     const d = await r.json();
-    if (d.ok) { await boot(); }
-    else el.innerHTML = `<span class="warn">Fetch failed: ${d.error || ""}</span>`;
-  } catch (e) { el.innerHTML = `<span class="warn">Fetch failed: ${e}</span>`; }
+    if (d.ok) { if (el) el.innerHTML = ""; await boot(); }
+    else if (el) el.innerHTML = `<span class="warn">Fetch failed: ${d.error || ""}</span>`;
+  } catch (e) { if (el) el.innerHTML = `<span class="warn">Fetch failed: ${e}</span>`; }
 }
 
 // ---------------------------------------------------------------------------

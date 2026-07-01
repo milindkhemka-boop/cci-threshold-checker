@@ -97,7 +97,7 @@ a:hover{text-decoration:underline}
 
 /* ---- toolbar / toggles ---- */
 .toolbar{display:flex;flex-wrap:wrap;gap:16px 26px;align-items:flex-end;padding:14px 0 12px;border-bottom:1px solid var(--line);margin-bottom:4px}
-.toggle-group{display:flex;flex-direction:column;gap:6px}
+.toggle-group{display:flex;flex-direction:column;gap:6px;align-items:flex-start}
 .tg-controls{display:flex;gap:8px;align-items:center;flex-wrap:wrap}
 .toggle-label{font-size:10px;text-transform:uppercase;letter-spacing:1.4px;color:var(--muted);font-weight:600}
 .seg{display:inline-flex;background:var(--page-2);border:1px solid var(--line-2);border-radius:7px;padding:3px}
@@ -105,20 +105,6 @@ a:hover{text-decoration:underline}
 .seg button:hover{color:var(--ink)}
 .seg button.active{background:var(--navy);color:#fff}
 .seg button:focus-visible{outline:2px solid var(--copper);outline-offset:1px}
-
-/* ---- numbering sample (signature: same figure, two grouping systems) ---- */
-.num-sample{margin-top:9px;display:flex;align-items:baseline;gap:8px;flex-wrap:wrap}
-.num-sample-label{font-size:10.5px;color:var(--muted);letter-spacing:.2px}
-.num-sample-figure{font-family:var(--mono);font-size:14.5px;font-weight:600;color:var(--ink);letter-spacing:.2px;font-variant-numeric:tabular-nums}
-.num-sample-figure .dg{display:inline-block}
-.num-sample-figure .dgsep{color:var(--copper);font-weight:700;margin:0 .5px}
-.num-sample-figure.flash .dg{animation:dgpop .38s ease backwards}
-.num-sample-figure .dg:nth-child(1){animation-delay:0ms}
-.num-sample-figure .dg:nth-child(3){animation-delay:35ms}
-.num-sample-figure .dg:nth-child(5){animation-delay:70ms}
-.num-sample-figure .dg:nth-child(7){animation-delay:105ms}
-.num-sample-figure .dg:nth-child(9){animation-delay:140ms}
-@keyframes dgpop{from{opacity:.3;transform:translateY(3px)}to{opacity:1;transform:none}}
 
 .other-ccy,.date-input,select,input[type=text]{font:inherit;font-size:13px;padding:7px 10px;border:1px solid var(--line-2);border-radius:6px;background:var(--page);color:var(--ink)}
 select:focus,input[type=text]:focus,.date-input:focus{outline:2px solid var(--copper);outline-offset:0;border-color:var(--copper)}

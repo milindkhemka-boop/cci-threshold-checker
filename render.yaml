@@ -1,0 +1,10 @@
+services:
+  - type: web
+    name: cci-threshold-checker
+    env: python
+    plan: free
+    buildCommand: pip install -r requirements.txt
+    startCommand: python app.py
+    envVars:
+      - key: ANTHROPIC_API_KEY
+        sync: false   # set this in the Render dashboard under "Environment"
