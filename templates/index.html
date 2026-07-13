@@ -2,14 +2,8 @@
 {% block content %}
 
 <section class="hero">
-  <p class="eyebrow reveal">Section 5 · Competition Act, 2002</p>
-  <h1 class="reveal reveal-1">CCI merger-control thresholds, in every currency</h1>
-  <p class="lede reveal reveal-2">Every jurisdictional, de&nbsp;minimis and deal-value threshold under Indian merger control, converted at the CCI's own 6-month RBI average — live, in lakh/crore or million/billion, as of any date you choose.</p>
-  <div id="rateStrip" class="rate-strip reveal reveal-3" aria-live="polite"><span class="muted">Loading today's conversion rate…</span></div>
-  <div class="hero-cta reveal reveal-4">
-    <a href="#schedule" class="btn primary">View the full schedule
-      <svg viewBox="0 0 16 16" fill="none" aria-hidden="true"><path d="M8 3v10M4 9l4 4 4-4" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg>
-    </a>
+  <div>
+    <h1>CCI merger-control thresholds, in every currency</h1>
   </div>
 </section>
 
@@ -44,13 +38,13 @@
   <div class="empty" id="rateEmptyState" {{ 'style=display:none' if avg.has_data }}>
     <p><strong>No rate data yet.</strong> Click <em>Fetch RBI rates now</em> to scrape the last 6 months from the RBI Reference Rate Archive. The threshold conversions below will populate once rates are loaded.</p>
   </div>
-  <div id="refreshStatus" class="refresh-status" aria-live="polite"></div>
+  <div id="refreshStatus" class="refresh-status"></div>
 </section>
 
 <div class="home-grid">
 
   <!-- Interactive Schedule of thresholds -->
-  <section class="card table-card" id="schedule">
+  <section class="card table-card">
     <div class="card-head">
       <h2>Schedule of thresholds</h2>
     </div>
@@ -85,9 +79,7 @@
       </div>
     </div>
 
-    <div id="thresholdTable" class="threshold-table-wrap">
-      <div class="skel skel-row w40"></div><div class="skel skel-row w80"></div><div class="skel skel-row w60"></div>
-    </div>
+    <div id="thresholdTable" class="threshold-table-wrap"><p class="muted">Loading…</p></div>
     <p id="tableDisclaimer"></p>
   </section>
 
@@ -97,9 +89,7 @@
       <h2>Rate history</h2>
       <span class="muted small" id="rateHistorySub">Daily RBI reference rates behind the six-month average</span>
     </div>
-    <div id="rateHistoryTable" class="rate-history-wrap">
-      <div class="skel skel-row w60"></div><div class="skel skel-row w40"></div><div class="skel skel-row w80"></div>
-    </div>
+    <div id="rateHistoryTable" class="rate-history-wrap"><p class="muted">Loading…</p></div>
   </section>
 
 </div>
