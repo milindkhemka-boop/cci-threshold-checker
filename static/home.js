@@ -130,9 +130,9 @@ function renderRateStrip() {
     return;
   }
   const r = b.rates;
-  const bits = ["USD", "EUR", "GBP"].filter(c => r[c]).map(c => `${SYM[c]||c} ₹${r[c].toFixed(2)}`);
+  const bits = ["USD", "EUR", "GBP"].filter(c => r[c]).map(c => `<span class="mono">${c} ₹${r[c].toFixed(2)}</span>`);
   const tag = b.is_today ? "" : `<span class="asof-tag">as of ${b.as_of}</span> `;
-  el.innerHTML = `${tag}<strong>CCI conversion rate</strong> — 6-month RBI average to ${b.as_of} ` +
+  el.innerHTML = `${tag}<strong>Today's conversion rate</strong> — 6-month RBI average to ${b.as_of} ` +
     `(${b.from} → ${b.to}, ${b.n_days} days): &nbsp; ${bits.join(" &nbsp;·&nbsp; ")}` +
     (b.n_days < 20 ? ` <span class="warn">— sparse data for this period</span>` : "");
 }
@@ -257,14 +257,25 @@ function setActive(sel, btn) {
 // Rate refresh
 // ---------------------------------------------------------------------------
 async function refreshRates() {
-  const el = document.getElementById("refreshStatus") || document.getElementById("rateStrip");
-  if (el) el.innerHTML = `<span class="muted">Fetching ~6 months of RBI rates…</span>`;
+  const btn = document.getElementById("refreshBtn");
+  const status = document.getElementById("refreshStatus");
+  if (btn) { btn.disabled = true; btn.textContent = "Fetching from RBI…"; }
+  if (status) status.innerHTML = `<span class="muted">Scraping ~6 months of daily reference rates — this takes a few seconds…</span>`;
   try {
     const r = await fetch("/refresh-rates", { method: "POST" });
     const d = await r.json();
-    if (d.ok) { if (el) el.innerHTML = ""; await boot(); }
-    else if (el) el.innerHTML = `<span class="warn">Fetch failed: ${d.error || ""}</span>`;
-  } catch (e) { if (el) el.innerHTML = `<span class="warn">Fetch failed: ${e}</span>`; }
+    if (d.ok) {
+      if (status) status.innerHTML = `<span class="pill pill-green">Done</span> Stored ${d.fetched} days (DB now holds ${d.total_in_db}). Latest: ${d.latest || "—"}.` +
+        (d.errors && d.errors.length ? ` <span class="muted">(${d.errors.length} window(s) had issues)</span>` : "");
+      await boot();
+    } else if (status) {
+      status.innerHTML = `<span class="pill pill-red">Failed</span> ${d.error || "Unknown error"}`;
+    }
+  } catch (e) {
+    if (status) status.innerHTML = `<span class="pill pill-red">Failed</span> ${e}`;
+  } finally {
+    if (btn) { btn.disabled = false; btn.textContent = "Fetch RBI rates now"; }
+  }
 }
 
 // ---------------------------------------------------------------------------

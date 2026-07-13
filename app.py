@@ -28,14 +28,6 @@ app = Flask(__name__)
 app.secret_key = "cci-threshold-checker-local"  # local single-user; not security-sensitive
 app.config["MAX_CONTENT_LENGTH"] = 25 * 1024 * 1024  # 25 MB upload cap
 
-SCALE_CHOICES = [
-    ("1", "as typed / absolute"),
-    ("100000", "lakh"),
-    ("10000000", "crore"),
-    ("1000000", "million"),
-    ("1000000000", "billion"),
-]
-
 
 def _avg(as_of=None):
     cfg = th.load_config()
@@ -236,95 +228,6 @@ def refresh_rates():
 def api_rates():
     avg, _ = _avg()
     return jsonify(avg)
-
-
-@app.route("/check", methods=["GET", "POST"])
-def check():
-    avg, cfg = _avg()
-    fields = cfg["meta"]["fields"]
-    # group fields for the form
-    groups = {}
-    for fid, meta in fields.items():
-        groups.setdefault(meta["group"], []).append((fid, meta))
-    currencies = fx.supported(avg["averages"]) if avg["has_data"] else ["INR", "USD", "EUR", "GBP", "JPY", "AED"]
-
-    if request.method == "GET":
-        return render_template("check.html", groups=groups, avg=avg,
-                               currencies=currencies, scales=SCALE_CHOICES,
-                               results=None, inputs={}, form_ccy="INR", form_scale="1")
-
-    # POST — evaluate
-    form_ccy = request.form.get("currency", "INR")
-    form_scale = request.form.get("scale", "1")
-    try:
-        assume = float(form_scale)
-    except ValueError:
-        assume = 1.0
-
-    inputs_inr = {}
-    raw_inputs = {}
-    for fid, meta in fields.items():
-        raw = (request.form.get(fid) or "").strip()
-        raw_inputs[fid] = raw
-        if not raw:
-            continue
-        if meta.get("is_percent"):
-            val = N.parse_amount(raw, assume_scale=1.0)
-            if val is not None:
-                inputs_inr[fid] = val  # percent, raw number
-        else:
-            native = N.parse_amount(raw, assume_scale=assume)
-            if native is None:
-                continue
-            if not avg["has_data"] and form_ccy != "INR":
-                # cannot convert without rates; treat as INR but flag later
-                inputs_inr[fid] = native if form_ccy == "INR" else None
-            else:
-                inputs_inr[fid] = fx.to_inr(native, form_ccy, avg["averages"]) if form_ccy != "INR" else native
-
-    evaluation = th.evaluate(inputs_inr, avg["averages"])
-    # attach config order for stable rendering
-    ordered = []
-    for t in cfg["thresholds"]:
-        r = evaluation["results"].get(t["id"])
-        if r:
-            ordered.append((t, r))
-    return render_template("check.html", groups=groups, avg=avg,
-                           currencies=currencies, scales=SCALE_CHOICES,
-                           results=evaluation, ordered=ordered,
-                           inputs=raw_inputs, form_ccy=form_ccy, form_scale=form_scale,
-                           cfg=cfg)
-
-
-@app.route("/extract", methods=["POST"])
-def extract_route():
-    """AJAX: parse uploaded files in memory, return candidate figures (not stored)."""
-    out = {"candidates": [], "notes": [], "scale": "absolute", "currency": "INR"}
-    files = request.files.getlist("documents")
-    if not files:
-        return jsonify(out)
-    combined_text = []
-    for f in files:
-        data = f.read()
-        text, note = extract.extract_text(f.filename, data)
-        if note:
-            out["notes"].append(f"{f.filename}: {note}")
-        if text:
-            combined_text.append(text)
-    text = "\n".join(combined_text)
-    cands, (mult, label), ccy = extract.find_candidates(text)
-    out["scale"] = label
-    out["currency"] = ccy
-    for c in cands:
-        out["candidates"].append({
-            "label": c["label"], "metric": c["metric"], "raw": c["raw"],
-            "scope_hint": c["scope_hint"], "currency": c["currency"],
-            "display": N.format_dual(c["value_native"], c["currency"]),
-            "value_native": c["value_native"], "line": c["line"],
-        })
-    if not cands and text:
-        out["notes"].append("No standard line items detected automatically — enter the key figures manually below.")
-    return jsonify(out)
 
 
 @app.route("/thresholds")
